@@ -171,7 +171,7 @@
 </head>
 <body>
     <div class="page">
-        <h1>Gemeente kaarten JaarBAK 2022-2023</h1>
+    <h1>Bodemafdekkingskaart 2022-2023 per gemeente</h1>
         <div class="meta">Aantal kaarten: 285 &mdash; Laatst bijgewerkt: 2025-10-20 11:30 UTC</div>
         <div class="summary-grid">
             <div class="summary-card">
@@ -241,8 +241,27 @@
             municipalityMap.set(`maps/${item['relative_html']}`, item);
         });
 
-        const numberFormatter = new Intl.NumberFormat('nl-BE', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-        const integerFormatter = new Intl.NumberFormat('nl-BE');
+        // Flemish number formatting helpers: comma decimal, space thousands
+        const nfTwo = new Intl.NumberFormat('nl-BE', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+        const nfOne = new Intl.NumberFormat('nl-BE', { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+        const nfInt = new Intl.NumberFormat('nl-BE', { maximumFractionDigits: 0 });
+
+        function formatNumber(v) {
+            const n = Number(v) || 0;
+            const abs = Math.abs(n);
+            // No decimals for numbers greater than 100
+            if (abs > 100) return nfInt.format(Math.round(n));
+            // Use two decimals for smaller numbers
+            return nfTwo.format(n);
+        }
+
+        function formatPercent(v) {
+            const n = Number(v) || 0;
+            // Show one decimal for percentages
+            return nfOne.format(n) + ' %';
+        }
+
+        const integerFormatter = nfInt;
 
         const flandersCtx = document.getElementById('chart-flanders');
         const municipalityCtx = document.getElementById('chart-municipality');
@@ -270,7 +289,12 @@
                         title: { display: true, text: 'ha' },
                         beginAtZero: false,
                         suggestedMin: Math.min(...FLANDERS_TOTALS) * 0.98,
-                        suggestedMax: Math.max(...FLANDERS_TOTALS) * 1.02
+                        suggestedMax: Math.max(...FLANDERS_TOTALS) * 1.02,
+                        ticks: {
+                            callback: function(val) {
+                                return formatNumber(val) + ' ha';
+                            }
+                        }
                     }
                 }
             }
@@ -297,7 +321,13 @@
                 scales: {
                     y: {
                         title: { display: true, text: 'ha' },
-                        beginAtZero: true
+                        beginAtZero: false,
+                        // ticks formatted according to Flemish rules
+                        ticks: {
+                            callback: function(val) {
+                                return formatNumber(val) + ' ha';
+                            }
+                        }
                     }
                 }
             }
@@ -308,13 +338,21 @@
             municipalityChart.data.datasets[0].data = values;
             const finiteValues = values.filter(v => Number.isFinite(v));
             if (finiteValues.length > 0) {
-                const minVal = Math.min(...finiteValues);
-                const maxVal = Math.max(...finiteValues);
-                municipalityChart.options.scales.y.suggestedMin = minVal * 0.98;
-                municipalityChart.options.scales.y.suggestedMax = maxVal * 1.02;
+                let minVal = Math.min(...finiteValues);
+                let maxVal = Math.max(...finiteValues);
+                // Set y-axis to start at municipality minimum minus 10%
+                let axisMin = minVal * 0.90;
+                let axisMax = maxVal * 1.02;
+                // Ensure axisMin < axisMax; if not, expand a little
+                if (axisMin >= axisMax) {
+                    axisMin = minVal - Math.abs(minVal) * 0.1 - 1;
+                    axisMax = maxVal + Math.abs(maxVal) * 0.1 + 1;
+                }
+                municipalityChart.options.scales.y.min = axisMin;
+                municipalityChart.options.scales.y.max = axisMax;
             } else {
-                municipalityChart.options.scales.y.suggestedMin = undefined;
-                municipalityChart.options.scales.y.suggestedMax = undefined;
+                municipalityChart.options.scales.y.min = undefined;
+                municipalityChart.options.scales.y.max = undefined;
             }
             municipalityChart.update();
         }
@@ -333,12 +371,12 @@
                 <h2>${item.name}</h2>
                 <div class="detail-grid">
                     <div class="detail-row"><span>NIS-code</span><span>${item.niscode}</span></div>
-                    <div class="detail-row"><span>Nieuwe afdekking</span><span>${numberFormatter.format(stats.new_coverage_area_ha || 0)} ha</span></div>
-                    <div class="detail-row"><span>Verminderde afdekking</span><span>${numberFormatter.format(stats.removed_coverage_area_ha || 0)} ha</span></div>
-                    <div class="detail-row"><span>Netto verandering</span><span>${numberFormatter.format(stats.net_change_ha || 0)} ha</span></div>
-                    <div class="detail-row"><span>Totaal afdekking 2022</span><span>${numberFormatter.format(stats.total_coverage_area_ha_2022 || 0)} ha</span></div>
-                    <div class="detail-row"><span>Totaal afdekking 2023</span><span>${numberFormatter.format(stats.total_coverage_area_ha_2023 || 0)} ha</span></div>
-                    <div class="detail-row"><span>Geen verandering</span><span>${numberFormatter.format(stats.no_change_percent || 0)} %</span></div>
+                    <div class="detail-row"><span>Nieuwe afdekking</span><span>${formatNumber(stats.new_coverage_area_ha || 0)} ha</span></div>
+                    <div class="detail-row"><span>Verminderde afdekking</span><span>${formatNumber(stats.removed_coverage_area_ha || 0)} ha</span></div>
+                    <div class="detail-row"><span>Netto verandering</span><span>${formatNumber(stats.net_change_ha || 0)} ha</span></div>
+                    <div class="detail-row"><span>Totaal afdekking 2022</span><span>${formatNumber(stats.total_coverage_area_ha_2022 || 0)} ha</span></div>
+                    <div class="detail-row"><span>Totaal afdekking 2023</span><span>${formatNumber(stats.total_coverage_area_ha_2023 || 0)} ha</span></div>
+                    <div class="detail-row"><span>Geen verandering</span><span>${formatPercent(stats.no_change_percent || 0)}</span></div>
                     <div class="detail-row"><span>Totaal pixels</span><span>${integerFormatter.format(stats.total_pixels || 0)}</span></div>
                 </div>
                 <div class="detail-generated">Laatst bijgewerkt: ${item.generated_at || 'onbekend'}</div>
