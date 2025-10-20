@@ -1,0 +1,54 @@
+{
+  "name": "Aalter",
+  "niscode": "44084",
+  "slug": "aalter",
+  "relative_html": "44084_aalter.html",
+  "generated_at": "2025-10-20T10:49:13Z",
+  "bounds_latlon": [
+    [
+      51.01554028353751,
+      3.3300089714872687
+    ],
+    [
+      51.160735851202375,
+      3.5271445098041414
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1876580,
+    "new_coverage_pixels": 43887,
+    "removed_coverage_pixels": 38399,
+    "no_change_pixels": 1794294,
+    "new_coverage_percent": 2.338669281352247,
+    "removed_coverage_percent": 2.0462223832716964,
+    "no_change_percent": 95.61510833537605,
+    "pixel_area_m2": 63.867000109880316,
+    "new_coverage_area_m2": 2802931.0338223176,
+    "removed_coverage_area_m2": 2452428.9372192943,
+    "new_coverage_area_ha": 280.2931033822318,
+    "removed_coverage_area_ha": 245.24289372192942,
+    "net_change_ha": 35.05020966030236,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 288502.0,
+    "alignment_overlap_ratio": 0.8178838924766543,
+    "coverage_by_year_ha": {
+      "2019": 1310.8637905552825,
+      "2020": 1334.8458490965427,
+      "2021": 1322.6025451754783,
+      "2022": 1354.7659664308142,
+      "2023": 1389.8161760911164,
+      "2024": 1395.2129376004013
+    },
+    "total_coverage_area_ha_2022": 1354.7659664308142,
+    "total_coverage_area_ha_2023": 1389.8161760911164
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 288502.0,
+    "overlap_ratio": 0.8178838924766543
+  }
+}

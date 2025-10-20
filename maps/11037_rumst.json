@@ -1,0 +1,54 @@
+{
+  "name": "Rumst",
+  "niscode": "11037",
+  "slug": "rumst",
+  "relative_html": "11037_rumst.html",
+  "generated_at": "2025-10-20T10:30:15Z",
+  "bounds_latlon": [
+    [
+      51.071605219020334,
+      4.3593586647817855
+    ],
+    [
+      51.1190029236897,
+      4.470787305769264
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1323740,
+    "new_coverage_pixels": 20202,
+    "removed_coverage_pixels": 3588,
+    "no_change_pixels": 1299950,
+    "new_coverage_percent": 1.5261305090123438,
+    "removed_coverage_percent": 0.27105020623385256,
+    "no_change_percent": 98.2028192847538,
+    "pixel_area_m2": 15.222568915078638,
+    "new_coverage_area_m2": 307526.33722241863,
+    "removed_coverage_area_m2": 54618.57726730215,
+    "new_coverage_area_ha": 30.752633722241864,
+    "removed_coverage_area_ha": 5.461857726730215,
+    "net_change_ha": 25.29077599551165,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 619360.0,
+    "alignment_overlap_ratio": 0.9889016798363752,
+    "coverage_by_year_ha": {
+      "2019": 461.90754213158016,
+      "2020": 461.8618744248349,
+      "2021": 457.9557632412258,
+      "2022": 457.1337445198115,
+      "2023": 482.42452051532314,
+      "2024": 503.12721423983004
+    },
+    "total_coverage_area_ha_2022": 457.1337445198115,
+    "total_coverage_area_ha_2023": 482.42452051532314
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 619360.0,
+    "overlap_ratio": 0.9889016798363752
+  }
+}

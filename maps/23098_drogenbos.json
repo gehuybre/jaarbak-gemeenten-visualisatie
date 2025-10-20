@@ -1,0 +1,54 @@
+{
+  "name": "Drogenbos",
+  "niscode": "23098",
+  "slug": "drogenbos",
+  "relative_html": "23098_drogenbos.html",
+  "generated_at": "2025-10-20T10:31:00Z",
+  "bounds_latlon": [
+    [
+      50.779686509565124,
+      4.288497747360502
+    ],
+    [
+      50.81306638009245,
+      4.325745964269632
+    ]
+  ],
+  "stats": {
+    "total_pixels": 725135,
+    "new_coverage_pixels": 6856,
+    "removed_coverage_pixels": 4327,
+    "no_change_pixels": 713952,
+    "new_coverage_percent": 0.9454791176815351,
+    "removed_coverage_percent": 0.5967164734842477,
+    "no_change_percent": 98.45780440883422,
+    "pixel_area_m2": 3.4419918729656405,
+    "new_coverage_area_m2": 23598.29628105243,
+    "removed_coverage_area_m2": 14893.498834322327,
+    "new_coverage_area_ha": 2.359829628105243,
+    "removed_coverage_area_ha": 1.4893498834322327,
+    "net_change_ha": 0.8704797446730101,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1930307.0,
+    "alignment_overlap_ratio": 0.9892126351046989,
+    "coverage_by_year_ha": {
+      "2019": 137.7609059268276,
+      "2020": 138.7336128301277,
+      "2021": 139.37760950955956,
+      "2022": 139.45230073320292,
+      "2023": 140.32278047787594,
+      "2024": 139.966534319024
+    },
+    "total_coverage_area_ha_2022": 139.45230073320292,
+    "total_coverage_area_ha_2023": 140.32278047787594
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1930307.0,
+    "overlap_ratio": 0.9892126351046989
+  }
+}

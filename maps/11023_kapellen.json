@@ -1,0 +1,54 @@
+{
+  "name": "Kapellen",
+  "niscode": "11023",
+  "slug": "kapellen",
+  "relative_html": "11023_kapellen.html",
+  "generated_at": "2025-10-20T10:30:11Z",
+  "bounds_latlon": [
+    [
+      51.292554643920035,
+      4.39169541038535
+    ],
+    [
+      51.36441725907309,
+      4.518981981198393
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1895511,
+    "new_coverage_pixels": 23951,
+    "removed_coverage_pixels": 6568,
+    "no_change_pixels": 1864992,
+    "new_coverage_percent": 1.2635642842484163,
+    "removed_coverage_percent": 0.3465028691471587,
+    "no_change_percent": 98.38993284660442,
+    "pixel_area_m2": 19.63680774743575,
+    "new_coverage_area_m2": 470321.18235883367,
+    "removed_coverage_area_m2": 128974.553285158,
+    "new_coverage_area_ha": 47.03211823588337,
+    "removed_coverage_area_ha": 12.8974553285158,
+    "net_change_ha": 34.13466290736757,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 656210.0,
+    "alignment_overlap_ratio": 0.9819666268119791,
+    "coverage_by_year_ha": {
+      "2019": 542.6042716771447,
+      "2020": 547.1128827359558,
+      "2021": 545.5674659662327,
+      "2022": 544.393184862936,
+      "2023": 578.5278477703035,
+      "2024": 613.5775859187016
+    },
+    "total_coverage_area_ha_2022": 544.393184862936,
+    "total_coverage_area_ha_2023": 578.5278477703035
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 656210.0,
+    "overlap_ratio": 0.9819666268119791
+  }
+}

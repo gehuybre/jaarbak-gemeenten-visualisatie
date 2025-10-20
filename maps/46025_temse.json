@@ -1,0 +1,54 @@
+{
+  "name": "Temse",
+  "niscode": "46025",
+  "slug": "temse",
+  "relative_html": "46025_temse.html",
+  "generated_at": "2025-10-20T11:30:11Z",
+  "bounds_latlon": [
+    [
+      51.101087357553055,
+      4.127941516685931
+    ],
+    [
+      51.175656653358025,
+      4.285951345573032
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1315366,
+    "new_coverage_pixels": 13901,
+    "removed_coverage_pixels": 13805,
+    "no_change_pixels": 1287660,
+    "new_coverage_percent": 1.056816125701896,
+    "removed_coverage_percent": 1.0495177768012858,
+    "no_change_percent": 97.89366609749682,
+    "pixel_area_m2": 30.484363203314803,
+    "new_coverage_area_m2": 423763.1328892791,
+    "removed_coverage_area_m2": 420836.63402176084,
+    "new_coverage_area_ha": 42.37631328892791,
+    "removed_coverage_area_ha": 42.083663402176086,
+    "net_change_ha": 0.2926498867518248,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 636759.0,
+    "alignment_overlap_ratio": 0.9575265712687443,
+    "coverage_by_year_ha": {
+      "2019": 811.106597059558,
+      "2020": 822.2638739919712,
+      "2021": 813.7678819672074,
+      "2022": 836.112920195237,
+      "2023": 836.4055700819889,
+      "2024": 843.8650937578401
+    },
+    "total_coverage_area_ha_2022": 836.112920195237,
+    "total_coverage_area_ha_2023": 836.4055700819889
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 636759.0,
+    "overlap_ratio": 0.9575265712687443
+  }
+}

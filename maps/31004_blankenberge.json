@@ -1,0 +1,54 @@
+{
+  "name": "Blankenberge",
+  "niscode": "31004",
+  "slug": "blankenberge",
+  "relative_html": "31004_blankenberge.html",
+  "generated_at": "2025-10-20T10:31:25Z",
+  "bounds_latlon": [
+    [
+      51.27614943924285,
+      3.1034047292777505
+    ],
+    [
+      51.328188917688486,
+      3.1781445441005856
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2336246,
+    "new_coverage_pixels": 32654,
+    "removed_coverage_pixels": 174445,
+    "no_change_pixels": 2129147,
+    "new_coverage_percent": 1.3977123984374933,
+    "removed_coverage_percent": 7.466893469266507,
+    "no_change_percent": 91.135394132296,
+    "pixel_area_m2": 8.140750850126201,
+    "new_coverage_area_m2": 265828.078260021,
+    "removed_coverage_area_m2": 1420113.2820502652,
+    "new_coverage_area_ha": 26.5828078260021,
+    "removed_coverage_area_ha": 142.01132820502653,
+    "net_change_ha": -115.42852037902443,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 858043.0,
+    "alignment_overlap_ratio": 0.775826353807914,
+    "coverage_by_year_ha": {
+      "2019": 481.25106948131554,
+      "2020": 489.7361740924021,
+      "2021": 490.8416880578492,
+      "2022": 491.85358338851995,
+      "2023": 376.4250630094955,
+      "2024": 390.93106694933533
+    },
+    "total_coverage_area_ha_2022": 491.85358338851995,
+    "total_coverage_area_ha_2023": 376.4250630094955
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 858043.0,
+    "overlap_ratio": 0.775826353807914
+  }
+}

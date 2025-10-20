@@ -1,0 +1,54 @@
+{
+  "name": "Damme",
+  "niscode": "31006",
+  "slug": "damme",
+  "relative_html": "31006_damme.html",
+  "generated_at": "2025-10-20T10:31:26Z",
+  "bounds_latlon": [
+    [
+      51.19088462678773,
+      3.244772833446206
+    ],
+    [
+      51.30865779702548,
+      3.400216099984967
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2154406,
+    "new_coverage_pixels": 33683,
+    "removed_coverage_pixels": 28655,
+    "no_change_pixels": 2092068,
+    "new_coverage_percent": 1.5634471868347937,
+    "removed_coverage_percent": 1.3300649923923344,
+    "no_change_percent": 97.10648782077287,
+    "pixel_area_m2": 41.943291334297484,
+    "new_coverage_area_m2": 1412775.882013142,
+    "removed_coverage_area_m2": 1201885.0131842943,
+    "new_coverage_area_ha": 141.27758820131422,
+    "removed_coverage_area_ha": 120.18850131842943,
+    "net_change_ha": 21.089086882884786,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": -1.0,
+    "alignment_overlap_score": 388792.0,
+    "alignment_overlap_ratio": 0.88133472367049,
+    "coverage_by_year_ha": {
+      "2019": 568.2644883135961,
+      "2020": 603.0774201210629,
+      "2021": 604.3524961776255,
+      "2022": 576.0281915395746,
+      "2023": 597.1172784224593,
+      "2024": 610.3629698258304
+    },
+    "total_coverage_area_ha_2022": 576.0281915395746,
+    "total_coverage_area_ha_2023": 597.1172784224593
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      -1.0
+    ],
+    "score": 388792.0,
+    "overlap_ratio": 0.88133472367049
+  }
+}

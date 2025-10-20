@@ -1,0 +1,54 @@
+{
+  "name": "Oostkamp",
+  "niscode": "31022",
+  "slug": "oostkamp",
+  "relative_html": "31022_oostkamp.html",
+  "generated_at": "2025-10-20T10:31:28Z",
+  "bounds_latlon": [
+    [
+      51.05593458039766,
+      3.1476386774998146
+    ],
+    [
+      51.186760899357836,
+      3.303209710750124
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1547344,
+    "new_coverage_pixels": 36987,
+    "removed_coverage_pixels": 32969,
+    "no_change_pixels": 1477388,
+    "new_coverage_percent": 2.3903540518462605,
+    "removed_coverage_percent": 2.130683286974325,
+    "no_change_percent": 95.47896266117941,
+    "pixel_area_m2": 51.78402706144545,
+    "new_coverage_area_m2": 1915335.8089216829,
+    "removed_coverage_area_m2": 1707267.5881887951,
+    "new_coverage_area_ha": 191.5335808921683,
+    "removed_coverage_area_ha": 170.72675881887952,
+    "net_change_ha": 20.80682207328877,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 333693.0,
+    "alignment_overlap_ratio": 0.8363065402197449,
+    "coverage_by_year_ha": {
+      "2019": 954.5142572127994,
+      "2020": 979.7537920025479,
+      "2021": 981.8510450985365,
+      "2022": 991.617512602325,
+      "2023": 1012.4243346756137,
+      "2024": 1037.410127732761
+    },
+    "total_coverage_area_ha_2022": 991.617512602325,
+    "total_coverage_area_ha_2023": 1012.4243346756137
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 333693.0,
+    "overlap_ratio": 0.8363065402197449
+  }
+}

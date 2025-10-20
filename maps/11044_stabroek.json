@@ -1,0 +1,54 @@
+{
+  "name": "Stabroek",
+  "niscode": "11044",
+  "slug": "stabroek",
+  "relative_html": "11044_stabroek.html",
+  "generated_at": "2025-10-20T10:30:17Z",
+  "bounds_latlon": [
+    [
+      51.29723328041612,
+      4.326153945485128
+    ],
+    [
+      51.356690054993784,
+      4.417193887139495
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1959126,
+    "new_coverage_pixels": 19490,
+    "removed_coverage_pixels": 6426,
+    "no_change_pixels": 1933210,
+    "new_coverage_percent": 0.9948313686817488,
+    "removed_coverage_percent": 0.3280034056002524,
+    "no_change_percent": 98.677165225718,
+    "pixel_area_m2": 10.934824836331126,
+    "new_coverage_area_m2": 213119.73606009365,
+    "removed_coverage_area_m2": 70267.18439826381,
+    "new_coverage_area_ha": 21.311973606009364,
+    "removed_coverage_area_ha": 7.026718439826381,
+    "net_change_ha": 14.285255166182981,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 871881.0,
+    "alignment_overlap_ratio": 0.9820769030618623,
+    "coverage_by_year_ha": {
+      "2019": 348.93354097477715,
+      "2020": 348.3671170482552,
+      "2021": 348.4874001214548,
+      "2022": 347.7646081997733,
+      "2023": 362.0498633659563,
+      "2024": 372.4937145671362
+    },
+    "total_coverage_area_ha_2022": 347.7646081997733,
+    "total_coverage_area_ha_2023": 362.0498633659563
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 871881.0,
+    "overlap_ratio": 0.9820769030618623
+  }
+}

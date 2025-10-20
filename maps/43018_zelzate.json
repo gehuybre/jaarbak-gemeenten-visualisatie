@@ -1,0 +1,54 @@
+{
+  "name": "Zelzate",
+  "niscode": "43018",
+  "slug": "zelzate",
+  "relative_html": "43018_zelzate.html",
+  "generated_at": "2025-10-20T10:34:02Z",
+  "bounds_latlon": [
+    [
+      51.18166828373902,
+      3.764345981351058
+    ],
+    [
+      51.21456709393557,
+      3.856592132085109
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1335704,
+    "new_coverage_pixels": 39675,
+    "removed_coverage_pixels": 29972,
+    "no_change_pixels": 1266057,
+    "new_coverage_percent": 2.9703437288501044,
+    "removed_coverage_percent": 2.2439103274378156,
+    "no_change_percent": 94.78574594371209,
+    "pixel_area_m2": 10.307845351067522,
+    "new_coverage_area_m2": 408963.76430360397,
+    "removed_coverage_area_m2": 308946.7408621958,
+    "new_coverage_area_ha": 40.8963764303604,
+    "removed_coverage_area_ha": 30.894674086219577,
+    "net_change_ha": 10.00170234414082,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": -1.0,
+    "alignment_overlap_score": 577736.0,
+    "alignment_overlap_ratio": 0.934643726694007,
+    "coverage_by_year_ha": {
+      "2019": 351.82222359996115,
+      "2020": 357.36990596790565,
+      "2021": 349.3916336661794,
+      "2022": 354.71254343640044,
+      "2023": 364.71424578054126,
+      "2024": 369.4208079678387
+    },
+    "total_coverage_area_ha_2022": 354.71254343640044,
+    "total_coverage_area_ha_2023": 364.71424578054126
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      -1.0
+    ],
+    "score": 577736.0,
+    "overlap_ratio": 0.934643726694007
+  }
+}

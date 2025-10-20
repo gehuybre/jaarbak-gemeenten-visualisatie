@@ -1,0 +1,54 @@
+{
+  "name": "Oud-Turnhout",
+  "niscode": "13031",
+  "slug": "oud-turnhout",
+  "relative_html": "13031_oud-turnhout.html",
+  "generated_at": "2025-10-20T10:30:40Z",
+  "bounds_latlon": [
+    [
+      51.275812685422316,
+      4.961380821573137
+    ],
+    [
+      51.36381085482144,
+      5.058758878438101
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1654205,
+    "new_coverage_pixels": 5778,
+    "removed_coverage_pixels": 11525,
+    "no_change_pixels": 1636902,
+    "new_coverage_percent": 0.3492916536946751,
+    "removed_coverage_percent": 0.6967092954017187,
+    "no_change_percent": 98.9539990509036,
+    "pixel_area_m2": 23.679160055252726,
+    "new_coverage_area_m2": 136818.18679925025,
+    "removed_coverage_area_m2": 272902.3196367877,
+    "new_coverage_area_ha": 13.681818679925025,
+    "removed_coverage_area_ha": 27.29023196367877,
+    "net_change_ha": -13.608413283753746,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 263906.0,
+    "alignment_overlap_ratio": 0.9424406479444619,
+    "coverage_by_year_ha": {
+      "2019": 444.04581685213225,
+      "2020": 462.2977134227211,
+      "2021": 464.00498086270477,
+      "2022": 455.5846715470569,
+      "2023": 441.9762582633032,
+      "2024": 438.6588079395623
+    },
+    "total_coverage_area_ha_2022": 455.5846715470569,
+    "total_coverage_area_ha_2023": 441.9762582633032
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 263906.0,
+    "overlap_ratio": 0.9424406479444619
+  }
+}

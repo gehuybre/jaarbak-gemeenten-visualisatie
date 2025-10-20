@@ -1,0 +1,54 @@
+{
+  "name": "Berlaar",
+  "niscode": "12002",
+  "slug": "berlaar",
+  "relative_html": "12002_berlaar.html",
+  "generated_at": "2025-10-20T10:30:21Z",
+  "bounds_latlon": [
+    [
+      51.07509190883512,
+      4.604860732820226
+    ],
+    [
+      51.13534891403432,
+      4.700687402806501
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2195060,
+    "new_coverage_pixels": 13153,
+    "removed_coverage_pixels": 9228,
+    "no_change_pixels": 2172679,
+    "new_coverage_percent": 0.599209133235538,
+    "removed_coverage_percent": 0.4203985312474374,
+    "no_change_percent": 98.98039233551702,
+    "pixel_area_m2": 11.173450469673872,
+    "new_coverage_area_m2": 146964.39402762044,
+    "removed_coverage_area_m2": 103108.6009341505,
+    "new_coverage_area_ha": 14.696439402762044,
+    "removed_coverage_area_ha": 10.31086009341505,
+    "net_change_ha": 4.385579309346994,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 541164.0,
+    "alignment_overlap_ratio": 0.9715726088783083,
+    "coverage_by_year_ha": {
+      "2019": 345.8339348670639,
+      "2020": 350.181524444814,
+      "2021": 352.47431648119107,
+      "2022": 346.6060202945184,
+      "2023": 350.9915996038653,
+      "2024": 353.4274118062542
+    },
+    "total_coverage_area_ha_2022": 346.6060202945184,
+    "total_coverage_area_ha_2023": 350.9915996038653
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 541164.0,
+    "overlap_ratio": 0.9715726088783083
+  }
+}

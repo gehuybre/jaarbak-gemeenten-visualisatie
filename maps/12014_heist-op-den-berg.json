@@ -1,0 +1,54 @@
+{
+  "name": "Heist-op-den-Berg",
+  "niscode": "12014",
+  "slug": "heist-op-den-berg",
+  "relative_html": "12014_heist-op-den-berg.html",
+  "generated_at": "2025-10-20T10:30:24Z",
+  "bounds_latlon": [
+    [
+      50.99820645759884,
+      4.658805797768837
+    ],
+    [
+      51.12752361223687,
+      4.818478726797024
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1687938,
+    "new_coverage_pixels": 39131,
+    "removed_coverage_pixels": 36049,
+    "no_change_pixels": 1612758,
+    "new_coverage_percent": 2.318272353605405,
+    "removed_coverage_percent": 2.135682708725083,
+    "no_change_percent": 95.54604493766952,
+    "pixel_area_m2": 51.349672124427286,
+    "new_coverage_area_m2": 2009364.019900964,
+    "removed_coverage_area_m2": 1851104.3304134791,
+    "new_coverage_area_ha": 200.9364019900964,
+    "removed_coverage_area_ha": 185.1104330413479,
+    "net_change_ha": 15.82596894874851,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 440705.0,
+    "alignment_overlap_ratio": 0.8708603971489378,
+    "coverage_by_year_ha": {
+      "2019": 1440.1066896967757,
+      "2020": 1459.4295713171978,
+      "2021": 1453.241935826204,
+      "2022": 1438.9205122707015,
+      "2023": 1454.7464812194498,
+      "2024": 1468.2309051193245
+    },
+    "total_coverage_area_ha_2022": 1438.9205122707015,
+    "total_coverage_area_ha_2023": 1454.7464812194498
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 440705.0,
+    "overlap_ratio": 0.8708603971489378
+  }
+}

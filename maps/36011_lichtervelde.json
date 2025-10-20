@@ -1,0 +1,54 @@
+{
+  "name": "Lichtervelde",
+  "niscode": "36011",
+  "slug": "lichtervelde",
+  "relative_html": "36011_lichtervelde.html",
+  "generated_at": "2025-10-20T10:31:56Z",
+  "bounds_latlon": [
+    [
+      50.990918508386656,
+      3.0962923888159253
+    ],
+    [
+      51.06943231249943,
+      3.184188210267786
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1402918,
+    "new_coverage_pixels": 17614,
+    "removed_coverage_pixels": 11894,
+    "no_change_pixels": 1373410,
+    "new_coverage_percent": 1.2555259822740887,
+    "removed_coverage_percent": 0.8478043620510963,
+    "no_change_percent": 97.89666965567481,
+    "pixel_area_m2": 18.64633121487588,
+    "new_coverage_area_m2": 328436.4780188237,
+    "removed_coverage_area_m2": 221779.46346973372,
+    "new_coverage_area_ha": 32.84364780188237,
+    "removed_coverage_area_ha": 22.17794634697337,
+    "net_change_ha": 10.665701454908998,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 451135.0,
+    "alignment_overlap_ratio": 0.9491045112101774,
+    "coverage_by_year_ha": {
+      "2019": 421.8508681391089,
+      "2020": 423.9896023294551,
+      "2021": 431.078937457351,
+      "2022": 432.49605862968156,
+      "2023": 443.1617600845906,
+      "2024": 446.2831559299608
+    },
+    "total_coverage_area_ha_2022": 432.49605862968156,
+    "total_coverage_area_ha_2023": 443.1617600845906
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 451135.0,
+    "overlap_ratio": 0.9491045112101774
+  }
+}

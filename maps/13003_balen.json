@@ -1,0 +1,54 @@
+{
+  "name": "Balen",
+  "niscode": "13003",
+  "slug": "balen",
+  "relative_html": "13003_balen.html",
+  "generated_at": "2025-10-20T10:30:30Z",
+  "bounds_latlon": [
+    [
+      51.115277312123006,
+      5.088244775349201
+    ],
+    [
+      51.212258857643825,
+      5.263442642591066
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1981174,
+    "new_coverage_pixels": 24723,
+    "removed_coverage_pixels": 4780,
+    "no_change_pixels": 1951671,
+    "new_coverage_percent": 1.2478964492770448,
+    "removed_coverage_percent": 0.2412710847204738,
+    "no_change_percent": 98.51083246600248,
+    "pixel_area_m2": 36.84171988115219,
+    "new_coverage_area_m2": 910837.8406217255,
+    "removed_coverage_area_m2": 176103.42103190746,
+    "new_coverage_area_ha": 91.08378406217255,
+    "removed_coverage_area_ha": 17.610342103190746,
+    "net_change_ha": 73.47344195898181,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 569694.0,
+    "alignment_overlap_ratio": 0.9796063650151147,
+    "coverage_by_year_ha": {
+      "2019": 912.8936085910939,
+      "2020": 938.7601801196508,
+      "2021": 916.703042426805,
+      "2022": 911.2173103365013,
+      "2023": 984.6907522954833,
+      "2024": 1019.156181244301
+    },
+    "total_coverage_area_ha_2022": 911.2173103365013,
+    "total_coverage_area_ha_2023": 984.6907522954833
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 569694.0,
+    "overlap_ratio": 0.9796063650151147
+  }
+}

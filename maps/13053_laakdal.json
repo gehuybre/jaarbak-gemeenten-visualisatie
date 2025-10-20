@@ -1,0 +1,54 @@
+{
+  "name": "Laakdal",
+  "niscode": "13053",
+  "slug": "laakdal",
+  "relative_html": "13053_laakdal.html",
+  "generated_at": "2025-10-20T10:30:45Z",
+  "bounds_latlon": [
+    [
+      51.03421399382988,
+      4.928142211780793
+    ],
+    [
+      51.11649124956811,
+      5.100712912321778
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1175382,
+    "new_coverage_pixels": 8967,
+    "removed_coverage_pixels": 4905,
+    "no_change_pixels": 1161510,
+    "new_coverage_percent": 0.7629009122140716,
+    "removed_coverage_percent": 0.41731113799598774,
+    "no_change_percent": 98.81978794978994,
+    "pixel_area_m2": 36.099861947898376,
+    "new_coverage_area_m2": 323707.46208680474,
+    "removed_coverage_area_m2": 177069.82285444153,
+    "new_coverage_area_ha": 32.37074620868047,
+    "removed_coverage_area_ha": 17.706982285444152,
+    "net_change_ha": 14.66376392323632,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 387206.0,
+    "alignment_overlap_ratio": 0.9691925689713001,
+    "coverage_by_year_ha": {
+      "2019": 629.729601805334,
+      "2020": 642.3862134042672,
+      "2021": 633.1915785661375,
+      "2022": 626.2423551411671,
+      "2023": 640.9061190644035,
+      "2024": 647.7975827102572
+    },
+    "total_coverage_area_ha_2022": 626.2423551411671,
+    "total_coverage_area_ha_2023": 640.9061190644035
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 387206.0,
+    "overlap_ratio": 0.9691925689713001
+  }
+}

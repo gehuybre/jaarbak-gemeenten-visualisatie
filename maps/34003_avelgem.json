@@ -1,0 +1,54 @@
+{
+  "name": "Avelgem",
+  "niscode": "34003",
+  "slug": "avelgem",
+  "relative_html": "34003_avelgem.html",
+  "generated_at": "2025-10-20T10:31:40Z",
+  "bounds_latlon": [
+    [
+      50.74028266306065,
+      3.388975733251556
+    ],
+    [
+      50.81473038746745,
+      3.524500768810032
+    ]
+  ],
+  "stats": {
+    "total_pixels": 989086,
+    "new_coverage_pixels": 11864,
+    "removed_coverage_pixels": 8236,
+    "no_change_pixels": 968986,
+    "new_coverage_percent": 1.1994912474749415,
+    "removed_coverage_percent": 0.8326879563556657,
+    "no_change_percent": 97.96782079616939,
+    "pixel_area_m2": 22.363113530078675,
+    "new_coverage_area_m2": 265315.9789208534,
+    "removed_coverage_area_m2": 184182.60303372797,
+    "new_coverage_area_ha": 26.53159789208534,
+    "removed_coverage_area_ha": 18.418260303372797,
+    "net_change_ha": 8.113337588712543,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1056819.0,
+    "alignment_overlap_ratio": 0.9803979594581933,
+    "coverage_by_year_ha": {
+      "2019": 361.1463930199465,
+      "2020": 366.09535004415295,
+      "2021": 367.6808947934355,
+      "2022": 366.4799955968703,
+      "2023": 374.5933331855828,
+      "2024": 389.0734491963088
+    },
+    "total_coverage_area_ha_2022": 366.4799955968703,
+    "total_coverage_area_ha_2023": 374.5933331855828
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1056819.0,
+    "overlap_ratio": 0.9803979594581933
+  }
+}

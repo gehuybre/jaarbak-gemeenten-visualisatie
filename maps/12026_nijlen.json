@@ -1,0 +1,54 @@
+{
+  "name": "Nijlen",
+  "niscode": "12026",
+  "slug": "nijlen",
+  "relative_html": "12026_nijlen.html",
+  "generated_at": "2025-10-20T10:30:25Z",
+  "bounds_latlon": [
+    [
+      51.12229804755336,
+      4.59708742480634
+    ],
+    [
+      51.18123335653033,
+      4.720506420635828
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2114651,
+    "new_coverage_pixels": 13808,
+    "removed_coverage_pixels": 8146,
+    "no_change_pixels": 2092697,
+    "new_coverage_percent": 0.6529682675770139,
+    "removed_coverage_percent": 0.38521722969889594,
+    "no_change_percent": 98.96181450272408,
+    "pixel_area_m2": 18.535653497236297,
+    "new_coverage_area_m2": 255940.30348983879,
+    "removed_coverage_area_m2": 150991.43338848688,
+    "new_coverage_area_ha": 25.59403034898388,
+    "removed_coverage_area_ha": 15.099143338848688,
+    "net_change_ha": 10.49488701013519,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 400233.0,
+    "alignment_overlap_ratio": 0.9718450421049565,
+    "coverage_by_year_ha": {
+      "2019": 595.3522153737817,
+      "2020": 605.3688825236883,
+      "2021": 611.2354168555636,
+      "2022": 600.8795472466577,
+      "2023": 611.3744342567928,
+      "2024": 621.5968471605187
+    },
+    "total_coverage_area_ha_2022": 600.8795472466577,
+    "total_coverage_area_ha_2023": 611.3744342567928
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 400233.0,
+    "overlap_ratio": 0.9718450421049565
+  }
+}

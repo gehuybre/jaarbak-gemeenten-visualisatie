@@ -1,0 +1,54 @@
+{
+  "name": "Zonhoven",
+  "niscode": "71066",
+  "slug": "zonhoven",
+  "relative_html": "71066_zonhoven.html",
+  "generated_at": "2025-10-20T11:30:21Z",
+  "bounds_latlon": [
+    [
+      50.96177739245928,
+      5.3003767983200865
+    ],
+    [
+      51.01327888110665,
+      5.465884427312352
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1190171,
+    "new_coverage_pixels": 8532,
+    "removed_coverage_pixels": 4637,
+    "no_change_pixels": 1177002,
+    "new_coverage_percent": 0.7168717772488155,
+    "removed_coverage_percent": 0.38960787987608503,
+    "no_change_percent": 98.89352034287509,
+    "pixel_area_m2": 33.33384047185715,
+    "new_coverage_area_m2": 284404.3269058852,
+    "removed_coverage_area_m2": 154569.01826800162,
+    "new_coverage_area_ha": 28.44043269058852,
+    "removed_coverage_area_ha": 15.456901826800161,
+    "net_change_ha": 12.983530863788358,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 305175.0,
+    "alignment_overlap_ratio": 0.9771572385041738,
+    "coverage_by_year_ha": {
+      "2019": 713.9641955305195,
+      "2020": 715.0475453458549,
+      "2021": 714.9075432158731,
+      "2022": 718.7642685584669,
+      "2023": 731.7477994222553,
+      "2024": 738.794573298006
+    },
+    "total_coverage_area_ha_2022": 718.7642685584669,
+    "total_coverage_area_ha_2023": 731.7477994222553
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 305175.0,
+    "overlap_ratio": 0.9771572385041738
+  }
+}

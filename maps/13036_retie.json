@@ -1,0 +1,54 @@
+{
+  "name": "Retie",
+  "niscode": "13036",
+  "slug": "retie",
+  "relative_html": "13036_retie.html",
+  "generated_at": "2025-10-20T10:30:41Z",
+  "bounds_latlon": [
+    [
+      51.21749324047913,
+      5.015547821186598
+    ],
+    [
+      51.29786735715865,
+      5.1595133694871835
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1953195,
+    "new_coverage_pixels": 9957,
+    "removed_coverage_pixels": 5483,
+    "no_change_pixels": 1937755,
+    "new_coverage_percent": 0.5097801294801595,
+    "removed_coverage_percent": 0.2807195390117218,
+    "no_change_percent": 99.20950033150811,
+    "pixel_area_m2": 24.831095817368677,
+    "new_coverage_area_m2": 247243.22105353992,
+    "removed_coverage_area_m2": 136148.89836663246,
+    "new_coverage_area_ha": 24.72432210535399,
+    "removed_coverage_area_ha": 13.614889836663247,
+    "net_change_ha": 11.109432268690744,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 386438.0,
+    "alignment_overlap_ratio": 0.9741856115035369,
+    "coverage_by_year_ha": {
+      "2019": 447.48862705354617,
+      "2020": 464.1378767990919,
+      "2021": 458.9754919786609,
+      "2022": 456.81022042338634,
+      "2023": 467.91965269207714,
+      "2024": 477.8918207723323
+    },
+    "total_coverage_area_ha_2022": 456.81022042338634,
+    "total_coverage_area_ha_2023": 467.91965269207714
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 386438.0,
+    "overlap_ratio": 0.9741856115035369
+  }
+}

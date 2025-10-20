@@ -1,0 +1,54 @@
+{
+  "name": "Leuven",
+  "niscode": "24062",
+  "slug": "leuven",
+  "relative_html": "24062_leuven.html",
+  "generated_at": "2025-10-20T10:31:17Z",
+  "bounds_latlon": [
+    [
+      50.8239009984051,
+      4.640114343992789
+    ],
+    [
+      50.94420097915005,
+      4.770916584169704
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1292648,
+    "new_coverage_pixels": 43126,
+    "removed_coverage_pixels": 32948,
+    "no_change_pixels": 1216574,
+    "new_coverage_percent": 3.3362524059140615,
+    "removed_coverage_percent": 2.5488764149250223,
+    "no_change_percent": 94.11487117916091,
+    "pixel_area_m2": 44.489461783325496,
+    "new_coverage_area_m2": 1918652.5288676952,
+    "removed_coverage_area_m2": 1465838.7868370083,
+    "new_coverage_area_ha": 191.86525288676953,
+    "removed_coverage_area_ha": 146.58387868370085,
+    "net_change_ha": 45.28137420306868,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 571701.0,
+    "alignment_overlap_ratio": 0.9054039073091006,
+    "coverage_by_year_ha": {
+      "2019": 1749.6415124990203,
+      "2020": 1764.5721758735042,
+      "2021": 1771.032045724443,
+      "2022": 1779.01790411455,
+      "2023": 1824.2992783176187,
+      "2024": 1865.603294637258
+    },
+    "total_coverage_area_ha_2022": 1779.01790411455,
+    "total_coverage_area_ha_2023": 1824.2992783176187
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 571701.0,
+    "overlap_ratio": 0.9054039073091006
+  }
+}

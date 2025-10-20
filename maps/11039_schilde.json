@@ -1,0 +1,54 @@
+{
+  "name": "Schilde",
+  "niscode": "11039",
+  "slug": "schilde",
+  "relative_html": "11039_schilde.html",
+  "generated_at": "2025-10-20T10:30:16Z",
+  "bounds_latlon": [
+    [
+      51.21961233432736,
+      4.529306165993897
+    ],
+    [
+      51.29582105300874,
+      4.633148742030047
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2017375,
+    "new_coverage_pixels": 25788,
+    "removed_coverage_pixels": 7862,
+    "no_change_pixels": 1983725,
+    "new_coverage_percent": 1.2782948138050685,
+    "removed_coverage_percent": 0.3897143565276659,
+    "no_change_percent": 98.33199082966728,
+    "pixel_area_m2": 17.889066190027926,
+    "new_coverage_area_m2": 461323.23890844017,
+    "removed_coverage_area_m2": 140643.83838599955,
+    "new_coverage_area_ha": 46.13232389084401,
+    "removed_coverage_area_ha": 14.064383838599955,
+    "net_change_ha": 32.067940052244055,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 458578.0,
+    "alignment_overlap_ratio": 0.9733742003132947,
+    "coverage_by_year_ha": {
+      "2019": 479.86167820116606,
+      "2020": 491.1478900604547,
+      "2021": 487.3822416274538,
+      "2022": 497.80798940300207,
+      "2023": 529.8759294552461,
+      "2024": 584.6021607437796
+    },
+    "total_coverage_area_ha_2022": 497.80798940300207,
+    "total_coverage_area_ha_2023": 529.8759294552461
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 458578.0,
+    "overlap_ratio": 0.9733742003132947
+  }
+}

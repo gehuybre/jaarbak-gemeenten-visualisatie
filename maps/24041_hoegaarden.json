@@ -1,0 +1,54 @@
+{
+  "name": "Hoegaarden",
+  "niscode": "24041",
+  "slug": "hoegaarden",
+  "relative_html": "24041_hoegaarden.html",
+  "generated_at": "2025-10-20T10:31:13Z",
+  "bounds_latlon": [
+    [
+      50.74255888594975,
+      4.800088279725166
+    ],
+    [
+      50.813740681974274,
+      4.9545866881038805
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1161241,
+    "new_coverage_pixels": 2591,
+    "removed_coverage_pixels": 1678,
+    "no_change_pixels": 1156972,
+    "new_coverage_percent": 0.2231233654340486,
+    "removed_coverage_percent": 0.14450058170526187,
+    "no_change_percent": 99.63237605286069,
+    "pixel_area_m2": 29.389250914419147,
+    "new_coverage_area_m2": 76147.54911926002,
+    "removed_coverage_area_m2": 49315.16303439533,
+    "new_coverage_area_ha": 7.614754911926002,
+    "removed_coverage_area_ha": 4.931516303439533,
+    "net_change_ha": 2.6832386084864686,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1076507.0,
+    "alignment_overlap_ratio": 0.9964538875796278,
+    "coverage_by_year_ha": {
+      "2019": 262.4518885159458,
+      "2020": 265.29089015427877,
+      "2021": 262.84864340329057,
+      "2022": 257.8554096729307,
+      "2023": 260.5386482814172,
+      "2024": 265.36730220665623
+    },
+    "total_coverage_area_ha_2022": 257.8554096729307,
+    "total_coverage_area_ha_2023": 260.5386482814172
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1076507.0,
+    "overlap_ratio": 0.9964538875796278
+  }
+}

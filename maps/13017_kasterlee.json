@@ -1,0 +1,54 @@
+{
+  "name": "Kasterlee",
+  "niscode": "13017",
+  "slug": "kasterlee",
+  "relative_html": "13017_kasterlee.html",
+  "generated_at": "2025-10-20T10:30:36Z",
+  "bounds_latlon": [
+    [
+      51.19390451543968,
+      4.861219346696383
+    ],
+    [
+      51.28711642032607,
+      5.032589380743913
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2045350,
+    "new_coverage_pixels": 9713,
+    "removed_coverage_pixels": 8994,
+    "no_change_pixels": 2026643,
+    "new_coverage_percent": 0.4748820495269758,
+    "removed_coverage_percent": 0.43972914171168753,
+    "no_change_percent": 99.08538880876134,
+    "pixel_area_m2": 35.33396882886454,
+    "new_coverage_area_m2": 343198.8392347613,
+    "removed_coverage_area_m2": 317793.7156468077,
+    "new_coverage_area_ha": 34.319883923476134,
+    "removed_coverage_area_ha": 31.77937156468077,
+    "net_change_ha": 2.5405123587953646,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 285750.0,
+    "alignment_overlap_ratio": 0.9554172072060023,
+    "coverage_by_year_ha": {
+      "2019": 709.9301017095463,
+      "2020": 739.628302510207,
+      "2021": 736.6602491285824,
+      "2022": 714.1984451440732,
+      "2023": 716.7389575028686,
+      "2024": 715.9368764104534
+    },
+    "total_coverage_area_ha_2022": 714.1984451440732,
+    "total_coverage_area_ha_2023": 716.7389575028686
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 285750.0,
+    "overlap_ratio": 0.9554172072060023
+  }
+}

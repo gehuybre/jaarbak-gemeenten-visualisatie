@@ -1,0 +1,54 @@
+{
+  "name": "Glabbeek",
+  "niscode": "24137",
+  "slug": "glabbeek",
+  "relative_html": "24137_glabbeek.html",
+  "generated_at": "2025-10-20T10:31:23Z",
+  "bounds_latlon": [
+    [
+      50.830915231935435,
+      4.905117626512666
+    ],
+    [
+      50.901476333887075,
+      4.994055199877262
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1774681,
+    "new_coverage_pixels": 3748,
+    "removed_coverage_pixels": 3168,
+    "no_change_pixels": 1767765,
+    "new_coverage_percent": 0.21119288480577636,
+    "removed_coverage_percent": 0.17851095492654737,
+    "no_change_percent": 99.61029616026768,
+    "pixel_area_m2": 15.209496881513171,
+    "new_coverage_area_m2": 57005.194311911364,
+    "removed_coverage_area_m2": 48183.68612063373,
+    "new_coverage_area_ha": 5.700519431191136,
+    "removed_coverage_area_ha": 4.818368612063373,
+    "net_change_ha": 0.8821508191277632,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 263844.0,
+    "alignment_overlap_ratio": 0.9798201115575724,
+    "coverage_by_year_ha": {
+      "2019": 250.59319156949917,
+      "2020": 252.4517920884201,
+      "2021": 249.71256170005955,
+      "2022": 249.01292484350995,
+      "2023": 249.89507566263768,
+      "2024": 252.75750297573848
+    },
+    "total_coverage_area_ha_2022": 249.01292484350995,
+    "total_coverage_area_ha_2023": 249.89507566263768
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 263844.0,
+    "overlap_ratio": 0.9798201115575724
+  }
+}

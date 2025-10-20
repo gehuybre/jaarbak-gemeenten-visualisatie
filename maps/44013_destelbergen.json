@@ -1,0 +1,54 @@
+{
+  "name": "Destelbergen",
+  "niscode": "44013",
+  "slug": "destelbergen",
+  "relative_html": "44013_destelbergen.html",
+  "generated_at": "2025-10-20T10:34:02Z",
+  "bounds_latlon": [
+    [
+      50.99272076349274,
+      3.7556472783500108
+    ],
+    [
+      51.082477358486734,
+      3.84526523388173
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1081797,
+    "new_coverage_pixels": 19407,
+    "removed_coverage_pixels": 14754,
+    "no_change_pixels": 1047636,
+    "new_coverage_percent": 1.7939594951733089,
+    "removed_coverage_percent": 1.3638418298442314,
+    "no_change_percent": 96.84219867498246,
+    "pixel_area_m2": 24.68599204247115,
+    "new_coverage_area_m2": 479081.0475682376,
+    "removed_coverage_area_m2": 364217.12659461936,
+    "new_coverage_area_ha": 47.90810475682376,
+    "removed_coverage_area_ha": 36.42171265946194,
+    "net_change_ha": 11.486392097361822,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 626668.0,
+    "alignment_overlap_ratio": 0.9411817713503877,
+    "coverage_by_year_ha": {
+      "2019": 556.0939369431348,
+      "2020": 558.6316569251009,
+      "2021": 546.0887043683214,
+      "2022": 551.0012167847731,
+      "2023": 562.4876088821349,
+      "2024": 563.6774736985819
+    },
+    "total_coverage_area_ha_2022": 551.0012167847731,
+    "total_coverage_area_ha_2023": 562.4876088821349
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 626668.0,
+    "overlap_ratio": 0.9411817713503877
+  }
+}

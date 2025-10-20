@@ -1,0 +1,54 @@
+{
+  "name": "Zwevegem",
+  "niscode": "34042",
+  "slug": "zwevegem",
+  "relative_html": "34042_zwevegem.html",
+  "generated_at": "2025-10-20T10:31:46Z",
+  "bounds_latlon": [
+    [
+      50.73695868254298,
+      3.304150619349949
+    ],
+    [
+      50.82909648622357,
+      3.458888916907841
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2189609,
+    "new_coverage_pixels": 27627,
+    "removed_coverage_pixels": 14310,
+    "no_change_pixels": 2147672,
+    "new_coverage_percent": 1.2617321174693745,
+    "removed_coverage_percent": 0.6535413400292016,
+    "no_change_percent": 98.08472654250141,
+    "pixel_area_m2": 29.05156084998191,
+    "new_coverage_area_m2": 802607.4716024502,
+    "removed_coverage_area_m2": 415727.83576324116,
+    "new_coverage_area_ha": 80.26074716024502,
+    "removed_coverage_area_ha": 41.57278357632411,
+    "net_change_ha": 38.687963583920904,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 751215.0,
+    "alignment_overlap_ratio": 0.9684586834020686,
+    "coverage_by_year_ha": {
+      "2019": 872.5113373196767,
+      "2020": 897.0308546770616,
+      "2021": 904.4942006594218,
+      "2022": 903.971272564122,
+      "2023": 942.659236148043,
+      "2024": 973.1052719188241
+    },
+    "total_coverage_area_ha_2022": 903.971272564122,
+    "total_coverage_area_ha_2023": 942.659236148043
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 751215.0,
+    "overlap_ratio": 0.9684586834020686
+  }
+}

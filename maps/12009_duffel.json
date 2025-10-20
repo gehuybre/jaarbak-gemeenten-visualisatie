@@ -1,0 +1,54 @@
+{
+  "name": "Duffel",
+  "niscode": "12009",
+  "slug": "duffel",
+  "relative_html": "12009_duffel.html",
+  "generated_at": "2025-10-20T10:30:23Z",
+  "bounds_latlon": [
+    [
+      51.072429810861514,
+      4.464749991233303
+    ],
+    [
+      51.11694076801658,
+      4.57532261090525
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1510331,
+    "new_coverage_pixels": 24223,
+    "removed_coverage_pixels": 3193,
+    "no_change_pixels": 1482915,
+    "new_coverage_percent": 1.6038206194536164,
+    "removed_coverage_percent": 0.21141061131632735,
+    "no_change_percent": 98.18476876923006,
+    "pixel_area_m2": 14.962733568062463,
+    "new_coverage_area_m2": 362442.29521917703,
+    "removed_coverage_area_m2": 47776.008282823444,
+    "new_coverage_area_ha": 36.2442295219177,
+    "removed_coverage_area_ha": 4.777600828282345,
+    "net_change_ha": 31.466628693635357,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 504859.0,
+    "alignment_overlap_ratio": 0.9867831852093639,
+    "coverage_by_year_ha": {
+      "2019": 545.3392689883885,
+      "2020": 548.4485250238318,
+      "2021": 548.2764535877992,
+      "2022": 553.2620364126776,
+      "2023": 584.728665106313,
+      "2024": 609.1388686492501
+    },
+    "total_coverage_area_ha_2022": 553.2620364126776,
+    "total_coverage_area_ha_2023": 584.728665106313
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 504859.0,
+    "overlap_ratio": 0.9867831852093639
+  }
+}

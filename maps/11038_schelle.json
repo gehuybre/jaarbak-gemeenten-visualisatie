@@ -1,0 +1,54 @@
+{
+  "name": "Schelle",
+  "niscode": "11038",
+  "slug": "schelle",
+  "relative_html": "11038_schelle.html",
+  "generated_at": "2025-10-20T10:30:15Z",
+  "bounds_latlon": [
+    [
+      51.112685803801554,
+      4.306551409738841
+    ],
+    [
+      51.134760128717275,
+      4.376642863087249
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1300008,
+    "new_coverage_pixels": 27306,
+    "removed_coverage_pixels": 3085,
+    "no_change_pixels": 1269617,
+    "new_coverage_percent": 2.1004486126239224,
+    "removed_coverage_percent": 0.23730623196164946,
+    "no_change_percent": 97.66224515541442,
+    "pixel_area_m2": 6.019662010356559,
+    "new_coverage_area_m2": 164372.8908547962,
+    "removed_coverage_area_m2": 18570.657301949985,
+    "new_coverage_area_ha": 16.43728908547962,
+    "removed_coverage_area_ha": 1.8570657301949984,
+    "net_change_ha": 14.580223355284621,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 508357.0,
+    "alignment_overlap_ratio": 0.9914266713212795,
+    "coverage_by_year_ha": {
+      "2019": 180.15584267975007,
+      "2020": 180.06013005378537,
+      "2021": 178.04956294232628,
+      "2022": 178.00080368004242,
+      "2023": 192.58102703532703,
+      "2024": 203.26472317130785
+    },
+    "total_coverage_area_ha_2022": 178.00080368004242,
+    "total_coverage_area_ha_2023": 192.58102703532703
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 508357.0,
+    "overlap_ratio": 0.9914266713212795
+  }
+}

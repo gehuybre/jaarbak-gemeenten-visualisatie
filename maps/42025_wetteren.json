@@ -1,0 +1,54 @@
+{
+  "name": "Wetteren",
+  "niscode": "42025",
+  "slug": "wetteren",
+  "relative_html": "42025_wetteren.html",
+  "generated_at": "2025-10-20T10:32:18Z",
+  "bounds_latlon": [
+    [
+      50.95103999752482,
+      3.820499607232703
+    ],
+    [
+      51.02851626446323,
+      3.9238599261646363
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2015576,
+    "new_coverage_pixels": 31809,
+    "removed_coverage_pixels": 22109,
+    "no_change_pixels": 1961658,
+    "new_coverage_percent": 1.5781592954073675,
+    "removed_coverage_percent": 1.0969072860561944,
+    "no_change_percent": 97.32493341853645,
+    "pixel_area_m2": 18.366428603027188,
+    "new_coverage_area_m2": 584217.7274336918,
+    "removed_coverage_area_m2": 406063.3699843281,
+    "new_coverage_area_ha": 58.42177274336918,
+    "removed_coverage_area_ha": 40.60633699843281,
+    "net_change_ha": 17.815435744936373,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 561423.0,
+    "alignment_overlap_ratio": 0.9444649120593505,
+    "coverage_by_year_ha": {
+      "2019": 791.0292234323589,
+      "2020": 789.4533838582191,
+      "2021": 780.9276877006939,
+      "2022": 787.401853783261,
+      "2023": 805.2172895281974,
+      "2024": 817.5209600493653
+    },
+    "total_coverage_area_ha_2022": 787.401853783261,
+    "total_coverage_area_ha_2023": 805.2172895281974
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 561423.0,
+    "overlap_ratio": 0.9444649120593505
+  }
+}

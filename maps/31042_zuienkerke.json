@@ -1,0 +1,54 @@
+{
+  "name": "Zuienkerke",
+  "niscode": "31042",
+  "slug": "zuienkerke",
+  "relative_html": "31042_zuienkerke.html",
+  "generated_at": "2025-10-20T10:31:30Z",
+  "bounds_latlon": [
+    [
+      51.21213799713076,
+      3.0615442431142097
+    ],
+    [
+      51.29175638997246,
+      3.195076958662912
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2321493,
+    "new_coverage_pixels": 11365,
+    "removed_coverage_pixels": 7751,
+    "no_change_pixels": 2302377,
+    "new_coverage_percent": 0.48955564371721133,
+    "removed_coverage_percent": 0.3338799643160673,
+    "no_change_percent": 99.17656439196672,
+    "pixel_area_m2": 21.062829240243985,
+    "new_coverage_area_m2": 239379.0543153729,
+    "removed_coverage_area_m2": 163257.98944113113,
+    "new_coverage_area_ha": 23.93790543153729,
+    "removed_coverage_area_ha": 16.325798944113114,
+    "net_change_ha": 7.612106487424175,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 177885.0,
+    "alignment_overlap_ratio": 0.9318278251850455,
+    "coverage_by_year_ha": {
+      "2019": 205.23620811693738,
+      "2020": 212.3765072293801,
+      "2021": 213.4191172767722,
+      "2022": 207.5067811090357,
+      "2023": 215.11888759645987,
+      "2024": 225.43124879248333
+    },
+    "total_coverage_area_ha_2022": 207.5067811090357,
+    "total_coverage_area_ha_2023": 215.11888759645987
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 177885.0,
+    "overlap_ratio": 0.9318278251850455
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Meise",
+  "niscode": "23050",
+  "slug": "meise",
+  "relative_html": "23050_meise.html",
+  "generated_at": "2025-10-20T10:30:53Z",
+  "bounds_latlon": [
+    [
+      50.92070034331011,
+      4.2704066842280115
+    ],
+    [
+      51.0043934241139,
+      4.3535645158750444
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1619584,
+    "new_coverage_pixels": 5938,
+    "removed_coverage_pixels": 8514,
+    "no_change_pixels": 1605132,
+    "new_coverage_percent": 0.36663735872915515,
+    "removed_coverage_percent": 0.5256905476961986,
+    "no_change_percent": 99.10767209357465,
+    "pixel_area_m2": 21.65092108988102,
+    "new_coverage_area_m2": 128563.1694317135,
+    "removed_coverage_area_m2": 184335.942159247,
+    "new_coverage_area_ha": 12.85631694317135,
+    "removed_coverage_area_ha": 18.4335942159247,
+    "net_change_ha": -5.577277272753349,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 335658.0,
+    "alignment_overlap_ratio": 0.9612006632169459,
+    "coverage_by_year_ha": {
+      "2019": 538.0535352809602,
+      "2020": 536.1612447777046,
+      "2021": 528.5747620278104,
+      "2022": 533.725516155093,
+      "2023": 528.1482388823397,
+      "2024": 510.69326629967753
+    },
+    "total_coverage_area_ha_2022": 533.725516155093,
+    "total_coverage_area_ha_2023": 528.1482388823397
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 335658.0,
+    "overlap_ratio": 0.9612006632169459
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Puurs-Sint-Amands",
+  "niscode": "12041",
+  "slug": "puurs-sint-amands",
+  "relative_html": "12041_puurs-sint-amands.html",
+  "generated_at": "2025-10-20T10:30:27Z",
+  "bounds_latlon": [
+    [
+      51.0265840004354,
+      4.186770697573366
+    ],
+    [
+      51.101573470627145,
+      4.360273810500575
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1330560,
+    "new_coverage_pixels": 22213,
+    "removed_coverage_pixels": 4647,
+    "no_change_pixels": 1303700,
+    "new_coverage_percent": 1.6694474506974508,
+    "removed_coverage_percent": 0.349251443001443,
+    "no_change_percent": 97.98130110630112,
+    "pixel_area_m2": 36.930548968646846,
+    "new_coverage_area_m2": 820338.2842405523,
+    "removed_coverage_area_m2": 171616.2610573019,
+    "new_coverage_area_ha": 82.03382842405523,
+    "removed_coverage_area_ha": 17.16162610573019,
+    "net_change_ha": 64.87220231832504,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 516226.0,
+    "alignment_overlap_ratio": 0.978777783887194,
+    "coverage_by_year_ha": {
+      "2019": 888.9515511694015,
+      "2020": 892.0869547768395,
+      "2021": 892.1201922709113,
+      "2022": 880.4686040713033,
+      "2023": 945.3408063896281,
+      "2024": 1001.6968241157833
+    },
+    "total_coverage_area_ha_2022": 880.4686040713033,
+    "total_coverage_area_ha_2023": 945.3408063896281
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 516226.0,
+    "overlap_ratio": 0.978777783887194
+  }
+}

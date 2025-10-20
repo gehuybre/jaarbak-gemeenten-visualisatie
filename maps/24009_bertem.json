@@ -1,0 +1,54 @@
+{
+  "name": "Bertem",
+  "niscode": "24009",
+  "slug": "bertem",
+  "relative_html": "24009_bertem.html",
+  "generated_at": "2025-10-20T10:31:08Z",
+  "bounds_latlon": [
+    [
+      50.81823063539672,
+      4.546037778315505
+    ],
+    [
+      50.891102387995716,
+      4.660227502449253
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1837391,
+    "new_coverage_pixels": 6352,
+    "removed_coverage_pixels": 1814,
+    "no_change_pixels": 1829225,
+    "new_coverage_percent": 0.34570758210963265,
+    "removed_coverage_percent": 0.0987269448908806,
+    "no_change_percent": 99.55556547299949,
+    "pixel_area_m2": 16.322886872840858,
+    "new_coverage_area_m2": 103682.97741628512,
+    "removed_coverage_area_m2": 29609.716787333316,
+    "new_coverage_area_ha": 10.368297741628512,
+    "removed_coverage_area_ha": 2.9609716787333316,
+    "net_change_ha": 7.40732606289518,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 382757.0,
+    "alignment_overlap_ratio": 0.983938509787792,
+    "coverage_by_year_ha": {
+      "2019": 267.90427766656245,
+      "2020": 270.5436884739008,
+      "2021": 269.2835616073175,
+      "2022": 272.6803543655557,
+      "2023": 280.0876804284508,
+      "2024": 285.67010773896243
+    },
+    "total_coverage_area_ha_2022": 272.6803543655557,
+    "total_coverage_area_ha_2023": 280.0876804284508
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 382757.0,
+    "overlap_ratio": 0.983938509787792
+  }
+}

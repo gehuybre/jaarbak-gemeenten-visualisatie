@@ -1,0 +1,54 @@
+{
+  "name": "Ledegem",
+  "niscode": "36010",
+  "slug": "ledegem",
+  "relative_html": "36010_ledegem.html",
+  "generated_at": "2025-10-20T10:31:55Z",
+  "bounds_latlon": [
+    [
+      50.8472302802354,
+      3.0938871840675013
+    ],
+    [
+      50.89295093053703,
+      3.209230392752952
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1537321,
+    "new_coverage_pixels": 15980,
+    "removed_coverage_pixels": 13742,
+    "no_change_pixels": 1507599,
+    "new_coverage_percent": 1.0394706115378636,
+    "removed_coverage_percent": 0.8938926873437623,
+    "no_change_percent": 98.06663670111837,
+    "pixel_area_m2": 16.15297853549526,
+    "new_coverage_area_m2": 258124.59699721428,
+    "removed_coverage_area_m2": 221974.23103477588,
+    "new_coverage_area_ha": 25.812459699721426,
+    "removed_coverage_area_ha": 22.197423103477586,
+    "net_change_ha": 3.61503659624384,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 415546.0,
+    "alignment_overlap_ratio": 0.9520455831578755,
+    "coverage_by_year_ha": {
+      "2019": 410.67978747784576,
+      "2020": 415.4497620393775,
+      "2021": 416.00380920314495,
+      "2022": 415.9165831190533,
+      "2023": 419.53161971529715,
+      "2024": 426.76492350349196
+    },
+    "total_coverage_area_ha_2022": 415.9165831190533,
+    "total_coverage_area_ha_2023": 419.53161971529715
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 415546.0,
+    "overlap_ratio": 0.9520455831578755
+  }
+}

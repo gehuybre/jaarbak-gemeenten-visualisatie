@@ -1,0 +1,54 @@
+{
+  "name": "Kortrijk",
+  "niscode": "34022",
+  "slug": "kortrijk",
+  "relative_html": "34022_kortrijk.html",
+  "generated_at": "2025-10-20T10:31:43Z",
+  "bounds_latlon": [
+    [
+      50.729833526010914,
+      3.1982842462867818
+    ],
+    [
+      50.87599797520443,
+      3.359253627488454
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1245937,
+    "new_coverage_pixels": 50280,
+    "removed_coverage_pixels": 39217,
+    "no_change_pixels": 1156440,
+    "new_coverage_percent": 4.035517044601774,
+    "removed_coverage_percent": 3.1475909295574334,
+    "no_change_percent": 92.81689202584079,
+    "pixel_area_m2": 64.76501676602342,
+    "new_coverage_area_m2": 3256385.042995658,
+    "removed_coverage_area_m2": 2539889.6625131406,
+    "new_coverage_area_ha": 325.6385042995658,
+    "removed_coverage_area_ha": 253.98896625131405,
+    "net_change_ha": 71.64953804825174,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 989612.0,
+    "alignment_overlap_ratio": 0.929200930691991,
+    "coverage_by_year_ha": {
+      "2019": 2235.4293186960645,
+      "2020": 2257.8185849920787,
+      "2021": 2258.5374766781815,
+      "2022": 2270.337662732951,
+      "2023": 2341.987200781203,
+      "2024": 2436.744896811572
+    },
+    "total_coverage_area_ha_2022": 2270.337662732951,
+    "total_coverage_area_ha_2023": 2341.987200781203
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 989612.0,
+    "overlap_ratio": 0.929200930691991
+  }
+}

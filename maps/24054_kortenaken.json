@@ -1,0 +1,54 @@
+{
+  "name": "Kortenaken",
+  "niscode": "24054",
+  "slug": "kortenaken",
+  "relative_html": "24054_kortenaken.html",
+  "generated_at": "2025-10-20T10:31:15Z",
+  "bounds_latlon": [
+    [
+      50.84494298381044,
+      4.968695443468514
+    ],
+    [
+      50.932989544182384,
+      5.092388598897199
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2093439,
+    "new_coverage_pixels": 4036,
+    "removed_coverage_pixels": 2904,
+    "no_change_pixels": 2086499,
+    "new_coverage_percent": 0.19279281603142007,
+    "removed_coverage_percent": 0.13871911242696824,
+    "no_change_percent": 99.66848807154162,
+    "pixel_area_m2": 23.615342962230947,
+    "new_coverage_area_m2": 95311.52419556411,
+    "removed_coverage_area_m2": 68578.95596231867,
+    "new_coverage_area_ha": 9.531152419556411,
+    "removed_coverage_area_ha": 6.857895596231867,
+    "net_change_ha": 2.673256823324545,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 264715.0,
+    "alignment_overlap_ratio": 0.980313371427725,
+    "coverage_by_year_ha": {
+      "2019": 386.37534927365294,
+      "2020": 385.359889526277,
+      "2021": 380.7454515114571,
+      "2022": 381.21067376781303,
+      "2023": 383.88393059113764,
+      "2024": 386.6540103206073
+    },
+    "total_coverage_area_ha_2022": 381.21067376781303,
+    "total_coverage_area_ha_2023": 383.88393059113764
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 264715.0,
+    "overlap_ratio": 0.980313371427725
+  }
+}

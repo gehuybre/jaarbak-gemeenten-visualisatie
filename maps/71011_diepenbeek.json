@@ -1,0 +1,54 @@
+{
+  "name": "Diepenbeek",
+  "niscode": "71011",
+  "slug": "diepenbeek",
+  "relative_html": "71011_diepenbeek.html",
+  "generated_at": "2025-10-20T11:30:15Z",
+  "bounds_latlon": [
+    [
+      50.873447924739295,
+      5.364460036529653
+    ],
+    [
+      50.95128353932264,
+      5.479884558405539
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2268547,
+    "new_coverage_pixels": 13107,
+    "removed_coverage_pixels": 8502,
+    "no_change_pixels": 2246938,
+    "new_coverage_percent": 0.5777707052135133,
+    "removed_coverage_percent": 0.37477733544863734,
+    "no_change_percent": 99.04745195933785,
+    "pixel_area_m2": 18.253836035678415,
+    "new_coverage_area_m2": 239253.02891963697,
+    "removed_coverage_area_m2": 155194.11397533788,
+    "new_coverage_area_ha": 23.925302891963696,
+    "removed_coverage_area_ha": 15.519411397533789,
+    "net_change_ha": 8.405891494429907,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 602250.0,
+    "alignment_overlap_ratio": 0.9755327161843672,
+    "coverage_by_year_ha": {
+      "2019": 678.5133392822023,
+      "2020": 678.5790530919307,
+      "2021": 674.063054056704,
+      "2022": 685.1157517763072,
+      "2023": 693.5216432707372,
+      "2024": 689.332387900549
+    },
+    "total_coverage_area_ha_2022": 685.1157517763072,
+    "total_coverage_area_ha_2023": 693.5216432707372
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 602250.0,
+    "overlap_ratio": 0.9755327161843672
+  }
+}

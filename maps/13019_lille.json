@@ -1,0 +1,54 @@
+{
+  "name": "Lille",
+  "niscode": "13019",
+  "slug": "lille",
+  "relative_html": "13019_lille.html",
+  "generated_at": "2025-10-20T10:30:37Z",
+  "bounds_latlon": [
+    [
+      51.20664667389716,
+      4.760928414318789
+    ],
+    [
+      51.29942054780361,
+      4.9075717737031095
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2266774,
+    "new_coverage_pixels": 9631,
+    "removed_coverage_pixels": 8643,
+    "no_change_pixels": 2248500,
+    "new_coverage_percent": 0.4248769396507989,
+    "removed_coverage_percent": 0.3812907682900898,
+    "no_change_percent": 99.19383229205911,
+    "pixel_area_m2": 26.301636133960468,
+    "new_coverage_area_m2": 253311.05760617327,
+    "removed_coverage_area_m2": 227325.04110582033,
+    "new_coverage_area_ha": 25.331105760617326,
+    "removed_coverage_area_ha": 22.732504110582035,
+    "net_change_ha": 2.5986016500352918,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 374783.0,
+    "alignment_overlap_ratio": 0.9631701763493475,
+    "coverage_by_year_ha": {
+      "2019": 619.9532351499688,
+      "2020": 638.1986801360971,
+      "2021": 639.558474724223,
+      "2022": 632.3570867507445,
+      "2023": 634.9556884007799,
+      "2024": 632.2676611878891
+    },
+    "total_coverage_area_ha_2022": 632.3570867507445,
+    "total_coverage_area_ha_2023": 634.9556884007799
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 374783.0,
+    "overlap_ratio": 0.9631701763493475
+  }
+}

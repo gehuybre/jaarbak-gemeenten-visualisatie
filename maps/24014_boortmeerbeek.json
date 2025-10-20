@@ -1,0 +1,54 @@
+{
+  "name": "Boortmeerbeek",
+  "niscode": "24014",
+  "slug": "boortmeerbeek",
+  "relative_html": "24014_boortmeerbeek.html",
+  "generated_at": "2025-10-20T10:31:09Z",
+  "bounds_latlon": [
+    [
+      50.958142050577706,
+      4.512394702004946
+    ],
+    [
+      51.003496620972015,
+      4.61305921949771
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1508320,
+    "new_coverage_pixels": 5789,
+    "removed_coverage_pixels": 13040,
+    "no_change_pixels": 1489491,
+    "new_coverage_percent": 0.38380449771931685,
+    "removed_coverage_percent": 0.8645380290654503,
+    "no_change_percent": 98.75165747321523,
+    "pixel_area_m2": 12.44579370562296,
+    "new_coverage_area_m2": 72048.69976185131,
+    "removed_coverage_area_m2": 162293.14992132338,
+    "new_coverage_area_ha": 7.204869976185131,
+    "removed_coverage_area_ha": 16.229314992132338,
+    "net_change_ha": -9.024445015947206,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 450137.0,
+    "alignment_overlap_ratio": 0.9594612453000708,
+    "coverage_by_year_ha": {
+      "2019": 389.0032389042101,
+      "2020": 393.4202510903357,
+      "2021": 386.12328224072894,
+      "2022": 388.2502683850199,
+      "2023": 379.2258233690727,
+      "2024": 371.67496032787125
+    },
+    "total_coverage_area_ha_2022": 388.2502683850199,
+    "total_coverage_area_ha_2023": 379.2258233690727
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 450137.0,
+    "overlap_ratio": 0.9594612453000708
+  }
+}

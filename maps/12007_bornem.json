@@ -1,0 +1,54 @@
+{
+  "name": "Bornem",
+  "niscode": "12007",
+  "slug": "bornem",
+  "relative_html": "12007_bornem.html",
+  "generated_at": "2025-10-20T10:30:23Z",
+  "bounds_latlon": [
+    [
+      51.05769839657886,
+      4.172082514009438
+    ],
+    [
+      51.12481178293686,
+      4.327904959690266
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1553421,
+    "new_coverage_pixels": 23189,
+    "removed_coverage_pixels": 5612,
+    "no_change_pixels": 1524620,
+    "new_coverage_percent": 1.492769828655593,
+    "removed_coverage_percent": 0.36126716453556373,
+    "no_change_percent": 98.14596300680884,
+    "pixel_area_m2": 29.733288850569142,
+    "new_coverage_area_m2": 689485.2351558479,
+    "removed_coverage_area_m2": 166863.21702939403,
+    "new_coverage_area_ha": 68.94852351558478,
+    "removed_coverage_area_ha": 16.686321702939402,
+    "net_change_ha": 52.26220181264538,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 417168.0,
+    "alignment_overlap_ratio": 0.9741112187832016,
+    "coverage_by_year_ha": {
+      "2019": 638.1626052708805,
+      "2020": 640.3747619613628,
+      "2021": 644.2163028808563,
+      "2022": 636.4380745175474,
+      "2023": 688.7002763301929,
+      "2024": 745.6841244123085
+    },
+    "total_coverage_area_ha_2022": 636.4380745175474,
+    "total_coverage_area_ha_2023": 688.7002763301929
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 417168.0,
+    "overlap_ratio": 0.9741112187832016
+  }
+}

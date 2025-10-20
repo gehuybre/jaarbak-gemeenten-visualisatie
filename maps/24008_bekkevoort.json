@@ -1,0 +1,54 @@
+{
+  "name": "Bekkevoort",
+  "niscode": "24008",
+  "slug": "bekkevoort",
+  "relative_html": "24008_bekkevoort.html",
+  "generated_at": "2025-10-20T10:31:07Z",
+  "bounds_latlon": [
+    [
+      50.89230810133272,
+      4.919112065317272
+    ],
+    [
+      50.96990211931196,
+      5.04583466860277
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1909307,
+    "new_coverage_pixels": 4868,
+    "removed_coverage_pixels": 3785,
+    "no_change_pixels": 1900654,
+    "new_coverage_percent": 0.2549616169636418,
+    "removed_coverage_percent": 0.19823946594235503,
+    "no_change_percent": 99.54679891709401,
+    "pixel_area_m2": 19.52618537174571,
+    "new_coverage_area_m2": 95053.47038965812,
+    "removed_coverage_area_m2": 73906.61163205752,
+    "new_coverage_area_ha": 9.505347038965812,
+    "removed_coverage_area_ha": 7.390661163205753,
+    "net_change_ha": 2.1146858757600597,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 340245.0,
+    "alignment_overlap_ratio": 0.9799570281448371,
+    "coverage_by_year_ha": {
+      "2019": 339.91183495134936,
+      "2020": 339.2557551228587,
+      "2021": 335.87186719793516,
+      "2022": 337.6858498189704,
+      "2023": 339.8005356947304,
+      "2024": 343.621810171981
+    },
+    "total_coverage_area_ha_2022": 337.6858498189704,
+    "total_coverage_area_ha_2023": 339.8005356947304
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 340245.0,
+    "overlap_ratio": 0.9799570281448371
+  }
+}

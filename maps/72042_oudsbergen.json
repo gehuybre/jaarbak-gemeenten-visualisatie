@@ -1,0 +1,54 @@
+{
+  "name": "Oudsbergen",
+  "niscode": "72042",
+  "slug": "oudsbergen",
+  "relative_html": "72042_oudsbergen.html",
+  "generated_at": "2025-10-20T11:30:34Z",
+  "bounds_latlon": [
+    [
+      51.01729688151521,
+      5.453561727266953
+    ],
+    [
+      51.14707225476113,
+      5.667612426022466
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2133222,
+    "new_coverage_pixels": 14120,
+    "removed_coverage_pixels": 12778,
+    "no_change_pixels": 2106324,
+    "new_coverage_percent": 0.6619095434042964,
+    "removed_coverage_percent": 0.5990000103130383,
+    "no_change_percent": 98.73909044628266,
+    "pixel_area_m2": 54.55178012505515,
+    "new_coverage_area_m2": 770271.1353657788,
+    "removed_coverage_area_m2": 697062.6464379547,
+    "new_coverage_area_ha": 77.02711353657789,
+    "removed_coverage_area_ha": 69.70626464379548,
+    "net_change_ha": 7.320848892782408,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 388351.0,
+    "alignment_overlap_ratio": 0.9362322264598532,
+    "coverage_by_year_ha": {
+      "2019": 1070.0277119749444,
+      "2020": 1063.1050910770748,
+      "2021": 1080.6707642773424,
+      "2022": 1079.9779566697543,
+      "2023": 1087.2988055625367,
+      "2024": 1103.2170150030279
+    },
+    "total_coverage_area_ha_2022": 1079.9779566697543,
+    "total_coverage_area_ha_2023": 1087.2988055625367
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 388351.0,
+    "overlap_ratio": 0.9362322264598532
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Kortenberg",
+  "niscode": "24055",
+  "slug": "kortenberg",
+  "relative_html": "24055_kortenberg.html",
+  "generated_at": "2025-10-20T10:31:16Z",
+  "bounds_latlon": [
+    [
+      50.855614283942515,
+      4.514948665431215
+    ],
+    [
+      50.93502256513016,
+      4.614963604930161
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1786249,
+    "new_coverage_pixels": 6166,
+    "removed_coverage_pixels": 7848,
+    "no_change_pixels": 1772235,
+    "new_coverage_percent": 0.34519263551722074,
+    "removed_coverage_percent": 0.43935643910787353,
+    "no_change_percent": 99.21545092537491,
+    "pixel_area_m2": 19.427905438830244,
+    "new_coverage_area_m2": 119792.46493582729,
+    "removed_coverage_area_m2": 152470.20188393976,
+    "new_coverage_area_ha": 11.979246493582728,
+    "removed_coverage_area_ha": 15.247020188393977,
+    "net_change_ha": -3.2677736948112486,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 420897.0,
+    "alignment_overlap_ratio": 0.9711715287119483,
+    "coverage_by_year_ha": {
+      "2019": 514.4023662566278,
+      "2020": 518.8261003250494,
+      "2021": 522.6456265343235,
+      "2022": 516.4481246993365,
+      "2023": 513.1803510045254,
+      "2024": 501.09425103102905
+    },
+    "total_coverage_area_ha_2022": 516.4481246993365,
+    "total_coverage_area_ha_2023": 513.1803510045254
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 420897.0,
+    "overlap_ratio": 0.9711715287119483
+  }
+}

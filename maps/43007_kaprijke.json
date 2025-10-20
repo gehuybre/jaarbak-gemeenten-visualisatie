@@ -1,0 +1,54 @@
+{
+  "name": "Kaprijke",
+  "niscode": "43007",
+  "slug": "kaprijke",
+  "relative_html": "43007_kaprijke.html",
+  "generated_at": "2025-10-20T10:34:00Z",
+  "bounds_latlon": [
+    [
+      51.16754825348843,
+      3.5749044552867844
+    ],
+    [
+      51.24978426720442,
+      3.6650721220194806
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1629802,
+    "new_coverage_pixels": 13339,
+    "removed_coverage_pixels": 10549,
+    "no_change_pixels": 1605914,
+    "new_coverage_percent": 0.8184429765088029,
+    "removed_coverage_percent": 0.64725653791074,
+    "no_change_percent": 98.53430048558046,
+    "pixel_area_m2": 20.640186575378845,
+    "new_coverage_area_m2": 275319.4487289784,
+    "removed_coverage_area_m2": 217733.32818367143,
+    "new_coverage_area_ha": 27.53194487289784,
+    "removed_coverage_area_ha": 21.773332818367145,
+    "net_change_ha": 5.758612054530694,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 248356.0,
+    "alignment_overlap_ratio": 0.9298240359415949,
+    "coverage_by_year_ha": {
+      "2019": 309.0166173319419,
+      "2020": 311.25401355671295,
+      "2021": 302.42207772110834,
+      "2022": 314.49039481173236,
+      "2023": 320.2490068662631,
+      "2024": 329.98704689252685
+    },
+    "total_coverage_area_ha_2022": 314.49039481173236,
+    "total_coverage_area_ha_2023": 320.2490068662631
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 248356.0,
+    "overlap_ratio": 0.9298240359415949
+  }
+}

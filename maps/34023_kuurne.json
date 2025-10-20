@@ -1,0 +1,54 @@
+{
+  "name": "Kuurne",
+  "niscode": "34023",
+  "slug": "kuurne",
+  "relative_html": "34023_kuurne.html",
+  "generated_at": "2025-10-20T10:31:43Z",
+  "bounds_latlon": [
+    [
+      50.83914143284335,
+      3.240250099499869
+    ],
+    [
+      50.88020209332887,
+      3.3018792842307287
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1992995,
+    "new_coverage_pixels": 54450,
+    "removed_coverage_pixels": 26714,
+    "no_change_pixels": 1911831,
+    "new_coverage_percent": 2.7320690719244154,
+    "removed_coverage_percent": 1.340394732550759,
+    "no_change_percent": 95.92753619552482,
+    "pixel_area_m2": 5.0737651642378845,
+    "new_coverage_area_m2": 276266.5131927528,
+    "removed_coverage_area_m2": 135540.56259745086,
+    "new_coverage_area_ha": 27.62665131927528,
+    "removed_coverage_area_ha": 13.554056259745085,
+    "net_change_ha": 14.072595059530194,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1473244.0,
+    "alignment_overlap_ratio": 0.9686926721626871,
+    "coverage_by_year_ha": {
+      "2019": 422.31281393927463,
+      "2020": 425.0901929901784,
+      "2021": 430.1583770127357,
+      "2022": 435.11646033122895,
+      "2023": 449.1890553907591,
+      "2024": 458.55421113090944
+    },
+    "total_coverage_area_ha_2022": 435.11646033122895,
+    "total_coverage_area_ha_2023": 449.1890553907591
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1473244.0,
+    "overlap_ratio": 0.9686926721626871
+  }
+}

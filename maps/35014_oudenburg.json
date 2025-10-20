@@ -1,0 +1,54 @@
+{
+  "name": "Oudenburg",
+  "niscode": "35014",
+  "slug": "oudenburg",
+  "relative_html": "35014_oudenburg.html",
+  "generated_at": "2025-10-20T10:31:52Z",
+  "bounds_latlon": [
+    [
+      51.14372189301256,
+      2.935332273021661
+    ],
+    [
+      51.224797753968396,
+      3.0596621259288943
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1812496,
+    "new_coverage_pixels": 14140,
+    "removed_coverage_pixels": 11250,
+    "no_change_pixels": 1787106,
+    "new_coverage_percent": 0.7801396527219921,
+    "removed_coverage_percent": 0.6206910249732964,
+    "no_change_percent": 98.59916932230472,
+    "pixel_area_m2": 19.64124263119448,
+    "new_coverage_area_m2": 277727.17080508993,
+    "removed_coverage_area_m2": 220963.9796009379,
+    "new_coverage_area_ha": 27.772717080508993,
+    "removed_coverage_area_ha": 22.09639796009379,
+    "net_change_ha": 5.676319120415204,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 608675.0,
+    "alignment_overlap_ratio": 0.9549670682075628,
+    "coverage_by_year_ha": {
+      "2019": 376.4519127665259,
+      "2020": 390.0613297856805,
+      "2021": 397.4012621569579,
+      "2022": 389.22461284959167,
+      "2023": 394.9009319700068,
+      "2024": 400.68920617341985
+    },
+    "total_coverage_area_ha_2022": 389.22461284959167,
+    "total_coverage_area_ha_2023": 394.9009319700068
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 608675.0,
+    "overlap_ratio": 0.9549670682075628
+  }
+}

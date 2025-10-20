@@ -1,0 +1,54 @@
+{
+  "name": "Harelbeke",
+  "niscode": "34013",
+  "slug": "harelbeke",
+  "relative_html": "34013_harelbeke.html",
+  "generated_at": "2025-10-20T10:31:42Z",
+  "bounds_latlon": [
+    [
+      50.81757740050007,
+      3.267049575461456
+    ],
+    [
+      50.90774056510458,
+      3.3495534418316164
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1187706,
+    "new_coverage_pixels": 26996,
+    "removed_coverage_pixels": 13989,
+    "no_change_pixels": 1146721,
+    "new_coverage_percent": 2.27295307087781,
+    "removed_coverage_percent": 1.1778167324236806,
+    "no_change_percent": 96.54923019669852,
+    "pixel_area_m2": 24.752699779196977,
+    "new_coverage_area_m2": 668223.8832392016,
+    "removed_coverage_area_m2": 346265.5172111865,
+    "new_coverage_area_ha": 66.82238832392017,
+    "removed_coverage_area_ha": 34.62655172111865,
+    "net_change_ha": 32.19583660280151,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 773399.0,
+    "alignment_overlap_ratio": 0.963489745934377,
+    "coverage_by_year_ha": {
+      "2019": 916.684057812847,
+      "2020": 924.577693772433,
+      "2021": 925.3796812452789,
+      "2022": 925.3945328651465,
+      "2023": 957.590369467948,
+      "2024": 981.4618731350055
+    },
+    "total_coverage_area_ha_2022": 925.3945328651465,
+    "total_coverage_area_ha_2023": 957.590369467948
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 773399.0,
+    "overlap_ratio": 0.963489745934377
+  }
+}

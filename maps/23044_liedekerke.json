@@ -1,0 +1,54 @@
+{
+  "name": "Liedekerke",
+  "niscode": "23044",
+  "slug": "liedekerke",
+  "relative_html": "23044_liedekerke.html",
+  "generated_at": "2025-10-20T10:30:51Z",
+  "bounds_latlon": [
+    [
+      50.84958692461045,
+      4.0587439983323845
+    ],
+    [
+      50.88899283852954,
+      4.1263677068263505
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1808778,
+    "new_coverage_pixels": 24944,
+    "removed_coverage_pixels": 21745,
+    "no_change_pixels": 1762089,
+    "new_coverage_percent": 1.379052597941815,
+    "removed_coverage_percent": 1.2021928616999986,
+    "no_change_percent": 97.4187545403582,
+    "pixel_area_m2": 5.62528626714682,
+    "new_coverage_area_m2": 140317.14064771027,
+    "removed_coverage_area_m2": 122321.84987910761,
+    "new_coverage_area_ha": 14.031714064771027,
+    "removed_coverage_area_ha": 12.232184987910761,
+    "net_change_ha": 1.7995290768602654,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 776724.0,
+    "alignment_overlap_ratio": 0.9508748218771577,
+    "coverage_by_year_ha": {
+      "2019": 246.36278724145527,
+      "2020": 249.50225950714992,
+      "2021": 251.41598189523327,
+      "2022": 251.88625582716674,
+      "2023": 253.68578490402703,
+      "2024": 250.5249365505172
+    },
+    "total_coverage_area_ha_2022": 251.88625582716674,
+    "total_coverage_area_ha_2023": 253.68578490402703
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 776724.0,
+    "overlap_ratio": 0.9508748218771577
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Denderleeuw",
+  "niscode": "41011",
+  "slug": "denderleeuw",
+  "relative_html": "41011_denderleeuw.html",
+  "generated_at": "2025-10-20T10:32:06Z",
+  "bounds_latlon": [
+    [
+      50.86450666319378,
+      4.028325281624864
+    ],
+    [
+      50.91124127569715,
+      4.089756073577699
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2065779,
+    "new_coverage_pixels": 41634,
+    "removed_coverage_pixels": 25790,
+    "no_change_pixels": 1998355,
+    "new_coverage_percent": 2.015414039933604,
+    "removed_coverage_percent": 1.2484394506866416,
+    "no_change_percent": 96.73614650937975,
+    "pixel_area_m2": 6.71189187901739,
+    "new_coverage_area_m2": 279442.90649101004,
+    "removed_coverage_area_m2": 173099.69155985847,
+    "new_coverage_area_ha": 27.944290649101003,
+    "removed_coverage_area_ha": 17.309969155985847,
+    "net_change_ha": 10.634321493115156,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 805043.0,
+    "alignment_overlap_ratio": 0.9549580434014144,
+    "coverage_by_year_ha": {
+      "2019": 386.3989171507158,
+      "2020": 378.8896525164712,
+      "2021": 371.9931836107808,
+      "2022": 374.69069295695795,
+      "2023": 385.32501445007307,
+      "2024": 394.5907811890566
+    },
+    "total_coverage_area_ha_2022": 374.69069295695795,
+    "total_coverage_area_ha_2023": 385.32501445007307
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 805043.0,
+    "overlap_ratio": 0.9549580434014144
+  }
+}

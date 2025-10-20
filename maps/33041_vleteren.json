@@ -1,0 +1,54 @@
+{
+  "name": "Vleteren",
+  "niscode": "33041",
+  "slug": "vleteren",
+  "relative_html": "33041_vleteren.html",
+  "generated_at": "2025-10-20T10:31:39Z",
+  "bounds_latlon": [
+    [
+      50.881979285978204,
+      2.688247318662435
+    ],
+    [
+      50.95758382143259,
+      2.811125066355483
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2153897,
+    "new_coverage_pixels": 10955,
+    "removed_coverage_pixels": 10094,
+    "no_change_pixels": 2132848,
+    "new_coverage_percent": 0.5086129931004129,
+    "removed_coverage_percent": 0.4686389367736712,
+    "no_change_percent": 99.02274807012591,
+    "pixel_area_m2": 17.90986731476374,
+    "new_coverage_area_m2": 196202.5964332368,
+    "removed_coverage_area_m2": 180782.2006752252,
+    "new_coverage_area_ha": 19.620259643323678,
+    "removed_coverage_area_ha": 18.07822006752252,
+    "net_change_ha": 1.5420395758011587,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 223446.0,
+    "alignment_overlap_ratio": 0.9300871621115375,
+    "coverage_by_year_ha": {
+      "2019": 257.4865804108954,
+      "2020": 261.29959116220857,
+      "2021": 262.3204535991501,
+      "2022": 262.8093929768431,
+      "2023": 264.35143255264427,
+      "2024": 262.4673145111311
+    },
+    "total_coverage_area_ha_2022": 262.8093929768431,
+    "total_coverage_area_ha_2023": 264.35143255264427
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 223446.0,
+    "overlap_ratio": 0.9300871621115375
+  }
+}

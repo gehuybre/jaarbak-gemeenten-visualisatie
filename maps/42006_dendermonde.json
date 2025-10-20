@@ -1,0 +1,54 @@
+{
+  "name": "Dendermonde",
+  "niscode": "42006",
+  "slug": "dendermonde",
+  "relative_html": "42006_dendermonde.html",
+  "generated_at": "2025-10-20T10:32:14Z",
+  "bounds_latlon": [
+    [
+      50.985083960810435,
+      3.9960514447885687
+    ],
+    [
+      51.07260887741126,
+      4.194225785206315
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1175035,
+    "new_coverage_pixels": 44603,
+    "removed_coverage_pixels": 40308,
+    "no_change_pixels": 1090124,
+    "new_coverage_percent": 3.795886931027587,
+    "removed_coverage_percent": 3.4303659039943493,
+    "no_change_percent": 92.77374716497806,
+    "pixel_area_m2": 48.07292850074599,
+    "new_coverage_area_m2": 2144196.8299187734,
+    "removed_coverage_area_m2": 1937723.6020080692,
+    "new_coverage_area_ha": 214.41968299187735,
+    "removed_coverage_area_ha": 193.77236020080693,
+    "net_change_ha": 20.647322791070422,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 469795.0,
+    "alignment_overlap_ratio": 0.841389722685885,
+    "coverage_by_year_ha": {
+      "2019": 1279.7975025468597,
+      "2020": 1278.8696950267954,
+      "2021": 1258.3329399712766,
+      "2022": 1284.398081804381,
+      "2023": 1305.0454045954514,
+      "2024": 1317.1501679919393
+    },
+    "total_coverage_area_ha_2022": 1284.398081804381,
+    "total_coverage_area_ha_2023": 1305.0454045954514
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 469795.0,
+    "overlap_ratio": 0.841389722685885
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Linkebeek",
+  "niscode": "23100",
+  "slug": "linkebeek",
+  "relative_html": "23100_linkebeek.html",
+  "generated_at": "2025-10-20T10:31:01Z",
+  "bounds_latlon": [
+    [
+      50.756250184627966,
+      4.32166218135431
+    ],
+    [
+      50.779911270660385,
+      4.36747543235024
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1605529,
+    "new_coverage_pixels": 10599,
+    "removed_coverage_pixels": 7313,
+    "no_change_pixels": 1587617,
+    "new_coverage_percent": 0.6601562475670013,
+    "removed_coverage_percent": 0.45548850254339845,
+    "no_change_percent": 98.8843552498896,
+    "pixel_area_m2": 2.60919613708569,
+    "new_coverage_area_m2": 27654.86985697123,
+    "removed_coverage_area_m2": 19081.051350507652,
+    "new_coverage_area_ha": 2.7654869856971227,
+    "removed_coverage_area_ha": 1.9081051350507652,
+    "net_change_ha": 0.8573818506463575,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1066083.0,
+    "alignment_overlap_ratio": 0.9902524389802123,
+    "coverage_by_year_ha": {
+      "2019": 70.12371170186017,
+      "2020": 70.22312207468313,
+      "2021": 68.43086524811898,
+      "2022": 68.31945257306542,
+      "2023": 69.17683442371178,
+      "2024": 68.9613148227885
+    },
+    "total_coverage_area_ha_2022": 68.31945257306542,
+    "total_coverage_area_ha_2023": 69.17683442371178
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1066083.0,
+    "overlap_ratio": 0.9902524389802123
+  }
+}

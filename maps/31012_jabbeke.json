@@ -1,0 +1,54 @@
+{
+  "name": "Jabbeke",
+  "niscode": "31012",
+  "slug": "jabbeke",
+  "relative_html": "31012_jabbeke.html",
+  "generated_at": "2025-10-20T10:31:27Z",
+  "bounds_latlon": [
+    [
+      51.143762370352164,
+      3.038633233232543
+    ],
+    [
+      51.23900007267777,
+      3.1636102453336874
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1972372,
+    "new_coverage_pixels": 30580,
+    "removed_coverage_pixels": 14469,
+    "no_change_pixels": 1927323,
+    "new_coverage_percent": 1.5504174668875852,
+    "removed_coverage_percent": 0.7335837255852344,
+    "no_change_percent": 97.71599880752719,
+    "pixel_area_m2": 27.30786329484521,
+    "new_coverage_area_m2": 835074.4595563664,
+    "removed_coverage_area_m2": 395117.47401311534,
+    "new_coverage_area_ha": 83.50744595563664,
+    "removed_coverage_area_ha": 39.51174740131153,
+    "net_change_ha": 43.99569855432511,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 294340.0,
+    "alignment_overlap_ratio": 0.9356305031946343,
+    "coverage_by_year_ha": {
+      "2019": 615.0604665624576,
+      "2020": 639.3344262452455,
+      "2021": 650.9402681455547,
+      "2022": 636.8958340530158,
+      "2023": 680.891532607341,
+      "2024": 696.3559755912117
+    },
+    "total_coverage_area_ha_2022": 636.8958340530158,
+    "total_coverage_area_ha_2023": 680.891532607341
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 294340.0,
+    "overlap_ratio": 0.9356305031946343
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Baarle-Hertog",
+  "niscode": "13002",
+  "slug": "baarle-hertog",
+  "relative_html": "13002_baarle-hertog.html",
+  "generated_at": "2025-10-20T10:30:29Z",
+  "bounds_latlon": [
+    [
+      51.39258879611589,
+      4.82617349981486
+    ],
+    [
+      51.456125246811546,
+      4.952811752901556
+    ]
+  ],
+  "stats": {
+    "total_pixels": 386463,
+    "new_coverage_pixels": 2082,
+    "removed_coverage_pixels": 2543,
+    "no_change_pixels": 381838,
+    "new_coverage_percent": 0.5387320390309034,
+    "removed_coverage_percent": 0.6580190082879861,
+    "no_change_percent": 98.80324895268112,
+    "pixel_area_m2": 19.184400033005897,
+    "new_coverage_area_m2": 39941.920868718276,
+    "removed_coverage_area_m2": 48785.929283934,
+    "new_coverage_area_ha": 3.9941920868718275,
+    "removed_coverage_area_ha": 4.8785929283934,
+    "net_change_ha": -0.8844008415215723,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 2308302.0,
+    "alignment_overlap_ratio": 0.9980413622779346,
+    "coverage_by_year_ha": {
+      "2019": 99.5037276511917,
+      "2020": 103.1391714574463,
+      "2021": 103.58041265820545,
+      "2022": 101.16701513405329,
+      "2023": 100.28261429253173,
+      "2024": 98.9358694102147
+    },
+    "total_coverage_area_ha_2022": 101.16701513405329,
+    "total_coverage_area_ha_2023": 100.28261429253173
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 2308302.0,
+    "overlap_ratio": 0.9980413622779346
+  }
+}

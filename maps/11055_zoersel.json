@@ -1,0 +1,54 @@
+{
+  "name": "Zoersel",
+  "niscode": "11055",
+  "slug": "zoersel",
+  "relative_html": "11055_zoersel.html",
+  "generated_at": "2025-10-20T10:30:20Z",
+  "bounds_latlon": [
+    [
+      51.2186486046783,
+      4.607493957316367
+    ],
+    [
+      51.29392668852812,
+      4.743694370360991
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1724242,
+    "new_coverage_pixels": 13263,
+    "removed_coverage_pixels": 6611,
+    "no_change_pixels": 1704368,
+    "new_coverage_percent": 0.7692075706310367,
+    "removed_coverage_percent": 0.38341485707922673,
+    "no_change_percent": 98.84737757228974,
+    "pixel_area_m2": 22.436154584054947,
+    "new_coverage_area_m2": 297570.71824832074,
+    "removed_coverage_area_m2": 148325.41795518727,
+    "new_coverage_area_ha": 29.757071824832074,
+    "removed_coverage_area_ha": 14.832541795518727,
+    "net_change_ha": 14.924530029313347,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 429677.0,
+    "alignment_overlap_ratio": 0.9726106157631565,
+    "coverage_by_year_ha": {
+      "2019": 552.0011984624207,
+      "2020": 574.9780643719513,
+      "2021": 587.9708414915776,
+      "2022": 573.420995243818,
+      "2023": 588.3455252731313,
+      "2024": 603.7389709332514
+    },
+    "total_coverage_area_ha_2022": 573.420995243818,
+    "total_coverage_area_ha_2023": 588.3455252731313
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 429677.0,
+    "overlap_ratio": 0.9726106157631565
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Riemst",
+  "niscode": "73066",
+  "slug": "riemst",
+  "relative_html": "73066_riemst.html",
+  "generated_at": "2025-10-20T11:30:39Z",
+  "bounds_latlon": [
+    [
+      50.762153428917195,
+      5.512188077536259
+    ],
+    [
+      50.844259434010056,
+      5.689182868797779
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1527031,
+    "new_coverage_pixels": 6029,
+    "removed_coverage_pixels": 4073,
+    "no_change_pixels": 1516929,
+    "new_coverage_percent": 0.3948184417998063,
+    "removed_coverage_percent": 0.26672673966671273,
+    "no_change_percent": 99.33845481853348,
+    "pixel_area_m2": 38.02033846320235,
+    "new_coverage_area_m2": 229224.62059464696,
+    "removed_coverage_area_m2": 154856.83856062317,
+    "new_coverage_area_ha": 22.922462059464696,
+    "removed_coverage_area_ha": 15.485683856062318,
+    "net_change_ha": 7.436778203402378,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1068825.0,
+    "alignment_overlap_ratio": 0.9947980945892365,
+    "coverage_by_year_ha": {
+      "2019": 630.1148713844989,
+      "2020": 636.9623343417217,
+      "2021": 629.6890435937111,
+      "2022": 627.7119859936245,
+      "2023": 635.1487641970268,
+      "2024": 658.6263231980543
+    },
+    "total_coverage_area_ha_2022": 627.7119859936245,
+    "total_coverage_area_ha_2023": 635.1487641970268
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1068825.0,
+    "overlap_ratio": 0.9947980945892365
+  }
+}

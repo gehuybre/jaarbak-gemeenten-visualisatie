@@ -1,0 +1,54 @@
+{
+  "name": "Oostende",
+  "niscode": "35013",
+  "slug": "oostende",
+  "relative_html": "35013_oostende.html",
+  "generated_at": "2025-10-20T10:31:51Z",
+  "bounds_latlon": [
+    [
+      51.18390346989206,
+      2.8370676289014507
+    ],
+    [
+      51.24657846156914,
+      3.0050178338045517
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1216366,
+    "new_coverage_pixels": 33760,
+    "removed_coverage_pixels": 109878,
+    "no_change_pixels": 1072728,
+    "new_coverage_percent": 2.7754804063908396,
+    "removed_coverage_percent": 9.03330083215085,
+    "no_change_percent": 88.19121876145832,
+    "pixel_area_m2": 33.67037323075727,
+    "new_coverage_area_m2": 1136711.8002703656,
+    "removed_coverage_area_m2": 3699633.269849147,
+    "new_coverage_area_ha": 113.67118002703656,
+    "removed_coverage_area_ha": 369.9633269849147,
+    "net_change_ha": -256.2921469578782,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1002953.0,
+    "alignment_overlap_ratio": 0.8937979280383201,
+    "coverage_by_year_ha": {
+      "2019": 1735.118508513999,
+      "2020": 1761.5901559480205,
+      "2021": 1782.2873343729668,
+      "2022": 1791.799214810656,
+      "2023": 1535.5070678527777,
+      "2024": 1543.8606874513284
+    },
+    "total_coverage_area_ha_2022": 1791.799214810656,
+    "total_coverage_area_ha_2023": 1535.5070678527777
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1002953.0,
+    "overlap_ratio": 0.8937979280383201
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Tienen",
+  "niscode": "24107",
+  "slug": "tienen",
+  "relative_html": "24107_tienen.html",
+  "generated_at": "2025-10-20T10:31:20Z",
+  "bounds_latlon": [
+    [
+      50.751753122434124,
+      4.85102029886016
+    ],
+    [
+      50.86458314299432,
+      5.020420362144876
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1874556,
+    "new_coverage_pixels": 7770,
+    "removed_coverage_pixels": 3722,
+    "no_change_pixels": 1863064,
+    "new_coverage_percent": 0.41449815316266897,
+    "removed_coverage_percent": 0.1985536841790803,
+    "no_change_percent": 99.38694816265826,
+    "pixel_area_m2": 38.82181621618626,
+    "new_coverage_area_m2": 301645.5119997672,
+    "removed_coverage_area_m2": 144494.79995664523,
+    "new_coverage_area_ha": 30.16455119997672,
+    "removed_coverage_area_ha": 14.449479995664523,
+    "net_change_ha": 15.715071204312197,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 701338.0,
+    "alignment_overlap_ratio": 0.9911167512690355,
+    "coverage_by_year_ha": {
+      "2019": 998.6834577981481,
+      "2020": 1000.6284307905792,
+      "2021": 993.7453227754493,
+      "2022": 993.1707598954497,
+      "2023": 1008.8858310997621,
+      "2024": 1016.7705419732694
+    },
+    "total_coverage_area_ha_2022": 993.1707598954497,
+    "total_coverage_area_ha_2023": 1008.8858310997621
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 701338.0,
+    "overlap_ratio": 0.9911167512690355
+  }
+}

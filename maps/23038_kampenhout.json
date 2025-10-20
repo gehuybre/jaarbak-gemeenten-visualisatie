@@ -1,0 +1,54 @@
+{
+  "name": "Kampenhout",
+  "niscode": "23038",
+  "slug": "kampenhout",
+  "relative_html": "23038_kampenhout.html",
+  "generated_at": "2025-10-20T10:30:50Z",
+  "bounds_latlon": [
+    [
+      50.90915599023786,
+      4.512926606549584
+    ],
+    [
+      50.970604598658255,
+      4.618923710525324
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2436452,
+    "new_coverage_pixels": 8464,
+    "removed_coverage_pixels": 9563,
+    "no_change_pixels": 2418425,
+    "new_coverage_percent": 0.3473903856919816,
+    "removed_coverage_percent": 0.3924969586923937,
+    "no_change_percent": 99.26011265561563,
+    "pixel_area_m2": 13.810390427249802,
+    "new_coverage_area_m2": 116891.14457624232,
+    "removed_coverage_area_m2": 132068.76365578987,
+    "new_coverage_area_ha": 11.689114457624232,
+    "removed_coverage_area_ha": 13.206876365578987,
+    "net_change_ha": -1.517761907954755,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 446711.0,
+    "alignment_overlap_ratio": 0.9691977574700374,
+    "coverage_by_year_ha": {
+      "2019": 421.0677558145046,
+      "2020": 416.3874144987097,
+      "2021": 410.6063850658629,
+      "2022": 418.64955645069324,
+      "2023": 417.1317945427385,
+      "2024": 402.22347807652227
+    },
+    "total_coverage_area_ha_2022": 418.64955645069324,
+    "total_coverage_area_ha_2023": 417.1317945427385
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 446711.0,
+    "overlap_ratio": 0.9691977574700374
+  }
+}

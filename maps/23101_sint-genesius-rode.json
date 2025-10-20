@@ -1,0 +1,54 @@
+{
+  "name": "Sint-Genesius-Rode",
+  "niscode": "23101",
+  "slug": "sint-genesius-rode",
+  "relative_html": "23101_sint-genesius-rode.html",
+  "generated_at": "2025-10-20T10:31:02Z",
+  "bounds_latlon": [
+    [
+      50.71509086039364,
+      4.321144056417178
+    ],
+    [
+      50.77338476429804,
+      4.423985622310709
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1728986,
+    "new_coverage_pixels": 9939,
+    "removed_coverage_pixels": 8976,
+    "no_change_pixels": 1710071,
+    "new_coverage_percent": 0.5748456031454274,
+    "removed_coverage_percent": 0.5191482175101476,
+    "no_change_percent": 98.90600617934443,
+    "pixel_area_m2": 13.158277023197824,
+    "new_coverage_area_m2": 130780.11533356317,
+    "removed_coverage_area_m2": 118108.69456022367,
+    "new_coverage_area_ha": 13.078011533356317,
+    "removed_coverage_area_ha": 11.810869456022367,
+    "net_change_ha": 1.2671420773339506,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1288277.0,
+    "alignment_overlap_ratio": 0.9901384051131804,
+    "coverage_by_year_ha": {
+      "2019": 384.27826966857623,
+      "2020": 385.19934906020006,
+      "2021": 380.64132189936436,
+      "2022": 373.97270710400767,
+      "2023": 375.23984918134164,
+      "2024": 376.9754259207014
+    },
+    "total_coverage_area_ha_2022": 373.97270710400767,
+    "total_coverage_area_ha_2023": 375.23984918134164
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1288277.0,
+    "overlap_ratio": 0.9901384051131804
+  }
+}

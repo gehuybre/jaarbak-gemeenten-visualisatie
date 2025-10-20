@@ -1,0 +1,54 @@
+{
+  "name": "Bredene",
+  "niscode": "35002",
+  "slug": "bredene",
+  "relative_html": "35002_bredene.html",
+  "generated_at": "2025-10-20T10:31:48Z",
+  "bounds_latlon": [
+    [
+      51.21367710992229,
+      2.939442200546448
+    ],
+    [
+      51.263903586314946,
+      3.0126559540049516
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1888172,
+    "new_coverage_pixels": 49328,
+    "removed_coverage_pixels": 190212,
+    "no_change_pixels": 1648632,
+    "new_coverage_percent": 2.612473863609883,
+    "removed_coverage_percent": 10.073870388926434,
+    "no_change_percent": 87.31365574746368,
+    "pixel_area_m2": 7.54809348886335,
+    "new_coverage_area_m2": 372332.3556186514,
+    "removed_coverage_area_m2": 1435737.9587036755,
+    "new_coverage_area_ha": 37.233235561865136,
+    "removed_coverage_area_ha": 143.57379587036755,
+    "net_change_ha": -106.3405603085024,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1291224.0,
+    "alignment_overlap_ratio": 0.8532443099931211,
+    "coverage_by_year_ha": {
+      "2019": 517.1780052418924,
+      "2020": 523.3749899962493,
+      "2021": 527.7694900254654,
+      "2022": 529.1696613676496,
+      "2023": 422.82910105914715,
+      "2024": 433.1579121893078
+    },
+    "total_coverage_area_ha_2022": 529.1696613676496,
+    "total_coverage_area_ha_2023": 422.82910105914715
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1291224.0,
+    "overlap_ratio": 0.8532443099931211
+  }
+}

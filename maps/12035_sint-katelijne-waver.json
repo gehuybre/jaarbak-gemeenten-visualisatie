@@ -1,0 +1,54 @@
+{
+  "name": "Sint-Katelijne-Waver",
+  "niscode": "12035",
+  "slug": "sint-katelijne-waver",
+  "relative_html": "12035_sint-katelijne-waver.html",
+  "generated_at": "2025-10-20T10:30:26Z",
+  "bounds_latlon": [
+    [
+      51.034486338717926,
+      4.462647360684367
+    ],
+    [
+      51.08986822784117,
+      4.609044015481614
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1377124,
+    "new_coverage_pixels": 20358,
+    "removed_coverage_pixels": 4824,
+    "no_change_pixels": 1351942,
+    "new_coverage_percent": 1.4782982505569577,
+    "removed_coverage_percent": 0.3502952530055391,
+    "no_change_percent": 98.17140649643751,
+    "pixel_area_m2": 26.255576839829313,
+    "new_coverage_area_m2": 534511.0333052451,
+    "removed_coverage_area_m2": 126656.9026753366,
+    "new_coverage_area_ha": 53.45110333052451,
+    "removed_coverage_area_ha": 12.66569026753366,
+    "net_change_ha": 40.78541306299085,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 569897.0,
+    "alignment_overlap_ratio": 0.9859587933143372,
+    "coverage_by_year_ha": {
+      "2019": 852.7863868730242,
+      "2020": 868.4740940348221,
+      "2021": 872.3704216378527,
+      "2022": 882.1926329336328,
+      "2023": 922.9780459966237,
+      "2024": 959.7122235532289
+    },
+    "total_coverage_area_ha_2022": 882.1926329336328,
+    "total_coverage_area_ha_2023": 922.9780459966237
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 569897.0,
+    "overlap_ratio": 0.9859587933143372
+  }
+}

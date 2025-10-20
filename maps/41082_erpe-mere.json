@@ -1,0 +1,54 @@
+{
+  "name": "Erpe-Mere",
+  "niscode": "41082",
+  "slug": "erpe-mere",
+  "relative_html": "41082_erpe-mere.html",
+  "generated_at": "2025-10-20T10:32:12Z",
+  "bounds_latlon": [
+    [
+      50.87388910853621,
+      3.8923385352478026
+    ],
+    [
+      50.956003394634216,
+      4.011811739876678
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1666817,
+    "new_coverage_pixels": 24443,
+    "removed_coverage_pixels": 15114,
+    "no_change_pixels": 1627260,
+    "new_coverage_percent": 1.4664477264150773,
+    "removed_coverage_percent": 0.906758210409421,
+    "no_change_percent": 97.62679406317551,
+    "pixel_area_m2": 20.64578023138521,
+    "new_coverage_area_m2": 504644.8061957487,
+    "removed_coverage_area_m2": 312040.3224171561,
+    "new_coverage_area_ha": 50.46448061957487,
+    "removed_coverage_area_ha": 31.204032241715606,
+    "net_change_ha": 19.260448377859266,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 574663.0,
+    "alignment_overlap_ratio": 0.9476429430107863,
+    "coverage_by_year_ha": {
+      "2019": 636.6848936655728,
+      "2020": 630.4250930994168,
+      "2021": 622.4805968663798,
+      "2022": 628.4967772258054,
+      "2023": 647.7572256036647,
+      "2024": 663.1899463266252
+    },
+    "total_coverage_area_ha_2022": 628.4967772258054,
+    "total_coverage_area_ha_2023": 647.7572256036647
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 574663.0,
+    "overlap_ratio": 0.9476429430107863
+  }
+}

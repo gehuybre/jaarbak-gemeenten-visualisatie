@@ -1,0 +1,54 @@
+{
+  "name": "Bonheiden",
+  "niscode": "12005",
+  "slug": "bonheiden",
+  "relative_html": "12005_bonheiden.html",
+  "generated_at": "2025-10-20T10:30:22Z",
+  "bounds_latlon": [
+    [
+      50.990051544983125,
+      4.502694071437964
+    ],
+    [
+      51.04694313179515,
+      4.63486185518841
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1362590,
+    "new_coverage_pixels": 15213,
+    "removed_coverage_pixels": 3787,
+    "no_change_pixels": 1343590,
+    "new_coverage_percent": 1.116476709795316,
+    "removed_coverage_percent": 0.2779265956744142,
+    "no_change_percent": 98.60559669453028,
+    "pixel_area_m2": 21.422954515565017,
+    "new_coverage_area_m2": 325907.40704529063,
+    "removed_coverage_area_m2": 81128.72875044472,
+    "new_coverage_area_ha": 32.59074070452906,
+    "removed_coverage_area_ha": 8.112872875044472,
+    "net_change_ha": 24.477867829484588,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 421671.0,
+    "alignment_overlap_ratio": 0.9780236857120326,
+    "coverage_by_year_ha": {
+      "2019": 397.02733144606333,
+      "2020": 405.525817502388,
+      "2021": 404.4075392766755,
+      "2022": 406.17279072875806,
+      "2023": 430.6506585582427,
+      "2024": 467.4660058932412
+    },
+    "total_coverage_area_ha_2022": 406.17279072875806,
+    "total_coverage_area_ha_2023": 430.6506585582427
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 421671.0,
+    "overlap_ratio": 0.9780236857120326
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Brecht",
+  "niscode": "11009",
+  "slug": "brecht",
+  "relative_html": "11009_brecht.html",
+  "generated_at": "2025-10-20T10:30:08Z",
+  "bounds_latlon": [
+    [
+      51.27522996542265,
+      4.540619677523301
+    ],
+    [
+      51.38271858816887,
+      4.7237144324834475
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2260906,
+    "new_coverage_pixels": 59705,
+    "removed_coverage_pixels": 41315,
+    "no_change_pixels": 2159886,
+    "new_coverage_percent": 2.6407555201321946,
+    "removed_coverage_percent": 1.8273647820829348,
+    "no_change_percent": 95.53187969778487,
+    "pixel_area_m2": 40.45544053943627,
+    "new_coverage_area_m2": 2415392.0774070425,
+    "removed_coverage_area_m2": 1671416.5258868095,
+    "new_coverage_area_ha": 241.53920774070426,
+    "removed_coverage_area_ha": 167.14165258868096,
+    "net_change_ha": 74.3975551520233,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 351096.0,
+    "alignment_overlap_ratio": 0.8345440024340154,
+    "coverage_by_year_ha": {
+      "2019": 987.1693867790001,
+      "2020": 1011.725839186438,
+      "2021": 1007.6883862206022,
+      "2022": 1015.0189120463481,
+      "2023": 1089.4164671983713,
+      "2024": 1172.8274945025812
+    },
+    "total_coverage_area_ha_2022": 1015.0189120463481,
+    "total_coverage_area_ha_2023": 1089.4164671983713
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 351096.0,
+    "overlap_ratio": 0.8345440024340154
+  }
+}

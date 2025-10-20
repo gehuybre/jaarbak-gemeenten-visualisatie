@@ -1,0 +1,54 @@
+{
+  "name": "Wingene",
+  "niscode": "37021",
+  "slug": "wingene",
+  "relative_html": "37021_wingene.html",
+  "generated_at": "2025-10-20T10:32:01Z",
+  "bounds_latlon": [
+    [
+      51.015837016265536,
+      3.156491354743435
+    ],
+    [
+      51.1053224384163,
+      3.4465797880783597
+    ]
+  ],
+  "stats": {
+    "total_pixels": 972053,
+    "new_coverage_pixels": 20526,
+    "removed_coverage_pixels": 17544,
+    "no_change_pixels": 933983,
+    "new_coverage_percent": 2.1116132556558127,
+    "removed_coverage_percent": 1.8048398595549833,
+    "no_change_percent": 96.0835468847892,
+    "pixel_area_m2": 102.01316631970974,
+    "new_coverage_area_m2": 2093922.2518783621,
+    "removed_coverage_area_m2": 1789718.9899129877,
+    "new_coverage_area_ha": 209.3922251878362,
+    "removed_coverage_area_ha": 178.97189899129876,
+    "net_change_ha": 30.420326196537445,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 170139.0,
+    "alignment_overlap_ratio": 0.8324558914190096,
+    "coverage_by_year_ha": {
+      "2019": 1124.7359639413278,
+      "2020": 1131.4484302851647,
+      "2021": 1131.9380934834992,
+      "2022": 1141.527331117552,
+      "2023": 1171.9476573140896,
+      "2024": 1209.6109183193262
+    },
+    "total_coverage_area_ha_2022": 1141.527331117552,
+    "total_coverage_area_ha_2023": 1171.9476573140896
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 170139.0,
+    "overlap_ratio": 0.8324558914190096
+  }
+}

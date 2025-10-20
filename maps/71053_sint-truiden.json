@@ -1,0 +1,54 @@
+{
+  "name": "Sint-Truiden",
+  "niscode": "71053",
+  "slug": "sint-truiden",
+  "relative_html": "71053_sint-truiden.html",
+  "generated_at": "2025-10-20T11:30:21Z",
+  "bounds_latlon": [
+    [
+      50.748558700957666,
+      5.10612013389226
+    ],
+    [
+      50.87816199347034,
+      5.288717070261576
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2102797,
+    "new_coverage_pixels": 26432,
+    "removed_coverage_pixels": 22796,
+    "no_change_pixels": 2053569,
+    "new_coverage_percent": 1.2569924724069894,
+    "removed_coverage_percent": 1.0840799183183158,
+    "no_change_percent": 97.6589276092747,
+    "pixel_area_m2": 50.93991025046971,
+    "new_coverage_area_m2": 1346443.7077404154,
+    "removed_coverage_area_m2": 1161226.1940697075,
+    "new_coverage_area_ha": 134.64437077404153,
+    "removed_coverage_area_ha": 116.12261940697076,
+    "net_change_ha": 18.521751367070777,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 391157.0,
+    "alignment_overlap_ratio": 0.9216076187065445,
+    "coverage_by_year_ha": {
+      "2019": 1498.79479131752,
+      "2020": 1513.990166545235,
+      "2021": 1500.0224431545564,
+      "2022": 1518.0398894101477,
+      "2023": 1536.5616407772184,
+      "2024": 1559.1178330361263
+    },
+    "total_coverage_area_ha_2022": 1518.0398894101477,
+    "total_coverage_area_ha_2023": 1536.5616407772184
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 391157.0,
+    "overlap_ratio": 0.9216076187065445
+  }
+}

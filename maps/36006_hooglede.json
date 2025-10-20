@@ -1,0 +1,54 @@
+{
+  "name": "Hooglede",
+  "niscode": "36006",
+  "slug": "hooglede",
+  "relative_html": "36006_hooglede.html",
+  "generated_at": "2025-10-20T10:31:53Z",
+  "bounds_latlon": [
+    [
+      50.95657104182333,
+      3.017968328967947
+    ],
+    [
+      51.01962115121816,
+      3.1515469596947843
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1776668,
+    "new_coverage_pixels": 19895,
+    "removed_coverage_pixels": 13516,
+    "no_change_pixels": 1743257,
+    "new_coverage_percent": 1.1197927806433166,
+    "removed_coverage_percent": 0.7607498981239038,
+    "no_change_percent": 98.11945732123279,
+    "pixel_area_m2": 21.44966557744374,
+    "new_coverage_area_m2": 426741.0966632432,
+    "removed_coverage_area_m2": 289913.67994472955,
+    "new_coverage_area_ha": 42.67410966632432,
+    "removed_coverage_area_ha": 28.991367994472956,
+    "net_change_ha": 13.682741671851364,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 532537.0,
+    "alignment_overlap_ratio": 0.9540442394959413,
+    "coverage_by_year_ha": {
+      "2019": 579.2117544873865,
+      "2020": 577.8968899874892,
+      "2021": 575.5116871752774,
+      "2022": 584.0529440082155,
+      "2023": 597.7356856800669,
+      "2024": 605.706381408645
+    },
+    "total_coverage_area_ha_2022": 584.0529440082155,
+    "total_coverage_area_ha_2023": 597.7356856800669
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 532537.0,
+    "overlap_ratio": 0.9540442394959413
+  }
+}

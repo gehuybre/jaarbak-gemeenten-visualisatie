@@ -1,0 +1,54 @@
+{
+  "name": "Dessel",
+  "niscode": "13006",
+  "slug": "dessel",
+  "relative_html": "13006_dessel.html",
+  "generated_at": "2025-10-20T10:30:31Z",
+  "bounds_latlon": [
+    [
+      51.217813788824806,
+      5.049832172294335
+    ],
+    [
+      51.27038745318908,
+      5.185970901899193
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1229776,
+    "new_coverage_pixels": 12659,
+    "removed_coverage_pixels": 3519,
+    "no_change_pixels": 1213598,
+    "new_coverage_percent": 1.0293744551853345,
+    "removed_coverage_percent": 0.2861496727859382,
+    "no_change_percent": 98.68447587202873,
+    "pixel_area_m2": 22.31918969357158,
+    "new_coverage_area_m2": 282538.62233092263,
+    "removed_coverage_area_m2": 78541.2285316784,
+    "new_coverage_area_ha": 28.253862233092264,
+    "removed_coverage_area_ha": 7.85412285316784,
+    "net_change_ha": 20.399739379924423,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 309601.0,
+    "alignment_overlap_ratio": 0.97679180456655,
+    "coverage_by_year_ha": {
+      "2019": 409.27814100586886,
+      "2020": 420.51138917864347,
+      "2021": 412.24436131614453,
+      "2022": 413.3826399905167,
+      "2023": 433.7823793704411,
+      "2024": 447.2676337832971
+    },
+    "total_coverage_area_ha_2022": 413.3826399905167,
+    "total_coverage_area_ha_2023": 433.7823793704411
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 309601.0,
+    "overlap_ratio": 0.97679180456655
+  }
+}

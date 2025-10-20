@@ -1,0 +1,54 @@
+{
+  "name": "Zottegem",
+  "niscode": "41081",
+  "slug": "zottegem",
+  "relative_html": "41081_zottegem.html",
+  "generated_at": "2025-10-20T10:32:11Z",
+  "bounds_latlon": [
+    [
+      50.80969923477487,
+      3.7466759720089238
+    ],
+    [
+      50.91895213046917,
+      3.867956263877666
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1572105,
+    "new_coverage_pixels": 19051,
+    "removed_coverage_pixels": 11911,
+    "no_change_pixels": 1541143,
+    "new_coverage_percent": 1.2118147324765203,
+    "removed_coverage_percent": 0.757646594852125,
+    "no_change_percent": 98.03053867267136,
+    "pixel_area_m2": 36.55126348450257,
+    "new_coverage_area_m2": 696338.1206432584,
+    "removed_coverage_area_m2": 435362.0993639101,
+    "new_coverage_area_ha": 69.63381206432584,
+    "removed_coverage_area_ha": 43.53620993639101,
+    "net_change_ha": 26.097602127934827,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 320032.0,
+    "alignment_overlap_ratio": 0.9413841080836218,
+    "coverage_by_year_ha": {
+      "2019": 817.9295537508048,
+      "2020": 805.966325212327,
+      "2021": 788.9224710495035,
+      "2022": 800.5969446064536,
+      "2023": 826.6945467343885,
+      "2024": 863.05939877512
+    },
+    "total_coverage_area_ha_2022": 800.5969446064536,
+    "total_coverage_area_ha_2023": 826.6945467343885
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 320032.0,
+    "overlap_ratio": 0.9413841080836218
+  }
+}

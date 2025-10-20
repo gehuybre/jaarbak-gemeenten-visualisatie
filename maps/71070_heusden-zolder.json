@@ -1,0 +1,54 @@
+{
+  "name": "Heusden-Zolder",
+  "niscode": "71070",
+  "slug": "heusden-zolder",
+  "relative_html": "71070_heusden-zolder.html",
+  "generated_at": "2025-10-20T11:30:23Z",
+  "bounds_latlon": [
+    [
+      50.9745700354555,
+      5.223260207801055
+    ],
+    [
+      51.073559029276424,
+      5.352926381669063
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1796946,
+    "new_coverage_pixels": 11793,
+    "removed_coverage_pixels": 10058,
+    "no_change_pixels": 1775095,
+    "new_coverage_percent": 0.6562801553302103,
+    "removed_coverage_percent": 0.5597274486823756,
+    "no_change_percent": 98.78399239598743,
+    "pixel_area_m2": 29.718560270107552,
+    "new_coverage_area_m2": 350470.98126537836,
+    "removed_coverage_area_m2": 298909.27919674176,
+    "new_coverage_area_ha": 35.04709812653783,
+    "removed_coverage_area_ha": 29.890927919674176,
+    "net_change_ha": 5.156170206863656,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 585382.0,
+    "alignment_overlap_ratio": 0.9718351714211244,
+    "coverage_by_year_ha": {
+      "2019": 1077.7733067557203,
+      "2020": 1077.8535468684497,
+      "2021": 1091.0337283482424,
+      "2022": 1032.2325849978076,
+      "2023": 1037.3887552046715,
+      "2024": 1069.948409836601
+    },
+    "total_coverage_area_ha_2022": 1032.2325849978076,
+    "total_coverage_area_ha_2023": 1037.3887552046715
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 585382.0,
+    "overlap_ratio": 0.9718351714211244
+  }
+}

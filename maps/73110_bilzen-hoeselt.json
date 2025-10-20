@@ -1,0 +1,54 @@
+{
+  "name": "Bilzen-Hoeselt",
+  "niscode": "73110",
+  "slug": "bilzen-hoeselt",
+  "relative_html": "73110_bilzen-hoeselt.html",
+  "generated_at": "2025-10-20T11:30:43Z",
+  "bounds_latlon": [
+    [
+      50.81210593943325,
+      5.428940233100896
+    ],
+    [
+      50.92306596937654,
+      5.62700676455109
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2243119,
+    "new_coverage_pixels": 25352,
+    "removed_coverage_pixels": 16558,
+    "no_change_pixels": 2201209,
+    "new_coverage_percent": 1.1302119949944698,
+    "removed_coverage_percent": 0.7381685947112034,
+    "no_change_percent": 98.13161941029432,
+    "pixel_area_m2": 47.29255960517426,
+    "new_coverage_area_m2": 1198960.971110378,
+    "removed_coverage_area_m2": 783070.2019424754,
+    "new_coverage_area_ha": 119.89609711103779,
+    "removed_coverage_area_ha": 78.30702019424754,
+    "net_change_ha": 41.58907691679025,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 452046.0,
+    "alignment_overlap_ratio": 0.9489587706776388,
+    "coverage_by_year_ha": {
+      "2019": 1474.5157989058862,
+      "2020": 1491.1154873273024,
+      "2021": 1488.0698464887291,
+      "2022": 1503.9459587481863,
+      "2023": 1545.5350356649765,
+      "2024": 1567.7578094234477
+    },
+    "total_coverage_area_ha_2022": 1503.9459587481863,
+    "total_coverage_area_ha_2023": 1545.5350356649765
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 452046.0,
+    "overlap_ratio": 0.9489587706776388
+  }
+}

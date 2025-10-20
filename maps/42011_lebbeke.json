@@ -1,0 +1,54 @@
+{
+  "name": "Lebbeke",
+  "niscode": "42011",
+  "slug": "lebbeke",
+  "relative_html": "42011_lebbeke.html",
+  "generated_at": "2025-10-20T10:32:16Z",
+  "bounds_latlon": [
+    [
+      50.96690397721905,
+      4.071065394048707
+    ],
+    [
+      51.02172749769897,
+      4.169096677150207
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2322579,
+    "new_coverage_pixels": 31220,
+    "removed_coverage_pixels": 22852,
+    "no_change_pixels": 2268507,
+    "new_coverage_percent": 1.3441953965828504,
+    "removed_coverage_percent": 0.9839062524891511,
+    "no_change_percent": 97.671898350928,
+    "pixel_area_m2": 11.771177885864434,
+    "new_coverage_area_m2": 367496.1735966876,
+    "removed_coverage_area_m2": 268994.95704777405,
+    "new_coverage_area_ha": 36.74961735966876,
+    "removed_coverage_area_ha": 26.899495704777404,
+    "net_change_ha": 9.850121654891357,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 627031.0,
+    "alignment_overlap_ratio": 0.9452234657083248,
+    "coverage_by_year_ha": {
+      "2019": 501.8253242768068,
+      "2020": 497.2439818436284,
+      "2021": 493.6808462975772,
+      "2022": 505.7451265127997,
+      "2023": 515.595248167691,
+      "2024": 522.8557106876922
+    },
+    "total_coverage_area_ha_2022": 505.7451265127997,
+    "total_coverage_area_ha_2023": 515.595248167691
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 627031.0,
+    "overlap_ratio": 0.9452234657083248
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Kluisbergen",
+  "niscode": "45060",
+  "slug": "kluisbergen",
+  "relative_html": "45060_kluisbergen.html",
+  "generated_at": "2025-10-20T11:23:11Z",
+  "bounds_latlon": [
+    [
+      50.75728880744117,
+      3.45815583602269
+    ],
+    [
+      50.8116132251002,
+      3.5879222928477614
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1485260,
+    "new_coverage_pixels": 16827,
+    "removed_coverage_pixels": 9108,
+    "no_change_pixels": 1459325,
+    "new_coverage_percent": 1.1329329544995488,
+    "removed_coverage_percent": 0.6132259671707311,
+    "no_change_percent": 98.25384107832971,
+    "pixel_area_m2": 20.62651379695488,
+    "new_coverage_area_m2": 347082.3476613598,
+    "removed_coverage_area_m2": 187866.28766266507,
+    "new_coverage_area_ha": 34.70823476613598,
+    "removed_coverage_area_ha": 18.786628766266507,
+    "net_change_ha": 15.921605999869474,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 323772.0,
+    "alignment_overlap_ratio": 0.9543139427951614,
+    "coverage_by_year_ha": {
+      "2019": 293.55241905550247,
+      "2020": 294.45586035980915,
+      "2021": 290.99060604192067,
+      "2022": 293.9566987259228,
+      "2023": 309.87830472579225,
+      "2024": 331.60627435950454
+    },
+    "total_coverage_area_ha_2022": 293.9566987259228,
+    "total_coverage_area_ha_2023": 309.87830472579225
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 323772.0,
+    "overlap_ratio": 0.9543139427951614
+  }
+}

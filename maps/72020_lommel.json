@@ -1,0 +1,54 @@
+{
+  "name": "Lommel",
+  "niscode": "72020",
+  "slug": "lommel",
+  "relative_html": "72020_lommel.html",
+  "generated_at": "2025-10-20T11:30:28Z",
+  "bounds_latlon": [
+    [
+      51.15657191539017,
+      5.21349656148893
+    ],
+    [
+      51.276772248267406,
+      5.417703092797121
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2057158,
+    "new_coverage_pixels": 42098,
+    "removed_coverage_pixels": 28898,
+    "no_change_pixels": 1986162,
+    "new_coverage_percent": 2.0464154916637423,
+    "removed_coverage_percent": 1.4047535483419358,
+    "no_change_percent": 96.54883095999432,
+    "pixel_area_m2": 49.71902574026946,
+    "new_coverage_area_m2": 2093071.5456138637,
+    "removed_coverage_area_m2": 1436780.4058423068,
+    "new_coverage_area_ha": 209.30715456138637,
+    "removed_coverage_area_ha": 143.67804058423067,
+    "net_change_ha": 65.6291139771557,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 765980.0,
+    "alignment_overlap_ratio": 0.9497876561579714,
+    "coverage_by_year_ha": {
+      "2019": 1513.8498676422985,
+      "2020": 1580.5131373548518,
+      "2021": 1585.0624282100864,
+      "2022": 1647.5691873707533,
+      "2023": 1713.1983013479087,
+      "2024": 1748.5733881621109
+    },
+    "total_coverage_area_ha_2022": 1647.5691873707533,
+    "total_coverage_area_ha_2023": 1713.1983013479087
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 765980.0,
+    "overlap_ratio": 0.9497876561579714
+  }
+}

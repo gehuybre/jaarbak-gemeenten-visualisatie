@@ -1,0 +1,54 @@
+{
+  "name": "Meerhout",
+  "niscode": "13021",
+  "slug": "meerhout",
+  "relative_html": "13021_meerhout.html",
+  "generated_at": "2025-10-20T10:30:37Z",
+  "bounds_latlon": [
+    [
+      51.093566853472836,
+      5.010489084392816
+    ],
+    [
+      51.15998254170576,
+      5.130918377550247
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2089847,
+    "new_coverage_pixels": 16634,
+    "removed_coverage_pixels": 5225,
+    "no_change_pixels": 2067988,
+    "new_coverage_percent": 0.7959434350935738,
+    "removed_coverage_percent": 0.2500183027752749,
+    "no_change_percent": 98.95403826213115,
+    "pixel_area_m2": 17.484616734886995,
+    "new_coverage_area_m2": 290839.1147681103,
+    "removed_coverage_area_m2": 91357.12243978455,
+    "new_coverage_area_ha": 29.08391147681103,
+    "removed_coverage_area_ha": 9.135712243978455,
+    "net_change_ha": 19.94819923283257,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 426611.0,
+    "alignment_overlap_ratio": 0.9781044155713142,
+    "coverage_by_year_ha": {
+      "2019": 446.50815448215616,
+      "2020": 458.2088600011425,
+      "2021": 449.2007854593287,
+      "2022": 447.1236129912242,
+      "2023": 467.07181222405677,
+      "2024": 480.18352631354855
+    },
+    "total_coverage_area_ha_2022": 447.1236129912242,
+    "total_coverage_area_ha_2023": 467.07181222405677
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 426611.0,
+    "overlap_ratio": 0.9781044155713142
+  }
+}

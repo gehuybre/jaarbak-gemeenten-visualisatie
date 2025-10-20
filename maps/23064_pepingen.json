@@ -1,0 +1,54 @@
+{
+  "name": "Pepingen",
+  "niscode": "23064",
+  "slug": "pepingen",
+  "relative_html": "23064_pepingen.html",
+  "generated_at": "2025-10-20T10:30:56Z",
+  "bounds_latlon": [
+    [
+      50.70544315811092,
+      4.071578630157583
+    ],
+    [
+      50.789871409773596,
+      4.202604985865003
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1639329,
+    "new_coverage_pixels": 7324,
+    "removed_coverage_pixels": 7526,
+    "no_change_pixels": 1624479,
+    "new_coverage_percent": 0.44676815941156417,
+    "removed_coverage_percent": 0.4590902741304521,
+    "no_change_percent": 99.09414156645798,
+    "pixel_area_m2": 21.91674305446655,
+    "new_coverage_area_m2": 160518.226130913,
+    "removed_coverage_area_m2": 164945.40822791526,
+    "new_coverage_area_ha": 16.0518226130913,
+    "removed_coverage_area_ha": 16.494540822791528,
+    "net_change_ha": -0.442718209700228,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 667006.0,
+    "alignment_overlap_ratio": 0.9748855944775493,
+    "coverage_by_year_ha": {
+      "2019": 208.6999940618523,
+      "2020": 209.42324658264968,
+      "2021": 208.77889433684837,
+      "2022": 207.82332433967363,
+      "2023": 207.38060612997342,
+      "2024": 202.85041534061514
+    },
+    "total_coverage_area_ha_2022": 207.82332433967363,
+    "total_coverage_area_ha_2023": 207.38060612997342
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 667006.0,
+    "overlap_ratio": 0.9748855944775493
+  }
+}

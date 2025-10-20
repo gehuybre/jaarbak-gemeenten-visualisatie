@@ -1,0 +1,54 @@
+{
+  "name": "Voeren",
+  "niscode": "73109",
+  "slug": "voeren",
+  "relative_html": "73109_voeren.html",
+  "generated_at": "2025-10-20T11:30:42Z",
+  "bounds_latlon": [
+    [
+      50.70951090097372,
+      5.6809057807411465
+    ],
+    [
+      50.78429873540761,
+      5.912631178704292
+    ]
+  ],
+  "stats": {
+    "total_pixels": 771387,
+    "new_coverage_pixels": 2201,
+    "removed_coverage_pixels": 2343,
+    "no_change_pixels": 766843,
+    "new_coverage_percent": 0.28533019094177114,
+    "removed_coverage_percent": 0.3037385903573693,
+    "no_change_percent": 99.41093121870085,
+    "pixel_area_m2": 65.6065860582726,
+    "new_coverage_area_m2": 144400.09591425798,
+    "removed_coverage_area_m2": 153716.2311345327,
+    "new_coverage_area_ha": 14.440009591425799,
+    "removed_coverage_area_ha": 15.37162311345327,
+    "net_change_ha": -0.9316135220274706,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1240403.0,
+    "alignment_overlap_ratio": 0.9979444196827246,
+    "coverage_by_year_ha": {
+      "2019": 237.7845105096032,
+      "2020": 242.48194207137553,
+      "2021": 244.09586408840903,
+      "2022": 248.7801743329697,
+      "2023": 247.8485608109422,
+      "2024": 248.60959720921818
+    },
+    "total_coverage_area_ha_2022": 248.7801743329697,
+    "total_coverage_area_ha_2023": 247.8485608109422
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1240403.0,
+    "overlap_ratio": 0.9979444196827246
+  }
+}

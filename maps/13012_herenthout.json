@@ -1,0 +1,54 @@
+{
+  "name": "Herenthout",
+  "niscode": "13012",
+  "slug": "herenthout",
+  "relative_html": "13012_herenthout.html",
+  "generated_at": "2025-10-20T10:30:33Z",
+  "bounds_latlon": [
+    [
+      51.1115586258711,
+      4.714002379616542
+    ],
+    [
+      51.1648046371052,
+      4.810691271838864
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2080929,
+    "new_coverage_pixels": 9839,
+    "removed_coverage_pixels": 5810,
+    "no_change_pixels": 2065280,
+    "new_coverage_percent": 0.4728176694159195,
+    "removed_coverage_percent": 0.27920222170001957,
+    "no_change_percent": 99.24798010888406,
+    "pixel_area_m2": 11.34484212478145,
+    "new_coverage_area_m2": 111621.9016657247,
+    "removed_coverage_area_m2": 65913.53274498023,
+    "new_coverage_area_ha": 11.16219016657247,
+    "removed_coverage_area_ha": 6.591353274498023,
+    "net_change_ha": 4.570836892074447,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 420264.0,
+    "alignment_overlap_ratio": 0.9758399141800316,
+    "coverage_by_year_ha": {
+      "2019": 290.4835481208166,
+      "2020": 294.8535813072824,
+      "2021": 294.3748289696166,
+      "2022": 292.8285269880089,
+      "2023": 297.39936388008334,
+      "2024": 298.53952051362387
+    },
+    "total_coverage_area_ha_2022": 292.8285269880089,
+    "total_coverage_area_ha_2023": 297.39936388008334
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 420264.0,
+    "overlap_ratio": 0.9758399141800316
+  }
+}

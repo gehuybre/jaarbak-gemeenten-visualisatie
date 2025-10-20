@@ -1,0 +1,54 @@
+{
+  "name": "Halen",
+  "niscode": "71020",
+  "slug": "halen",
+  "relative_html": "71020_halen.html",
+  "generated_at": "2025-10-20T11:30:17Z",
+  "bounds_latlon": [
+    [
+      50.908686638535364,
+      5.041016111905795
+    ],
+    [
+      50.99925353200381,
+      5.1397285432275615
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1461682,
+    "new_coverage_pixels": 5034,
+    "removed_coverage_pixels": 3721,
+    "no_change_pixels": 1452927,
+    "new_coverage_percent": 0.3443977554625425,
+    "removed_coverage_percent": 0.25456973541440614,
+    "no_change_percent": 99.40103250912306,
+    "pixel_area_m2": 25.037143788503233,
+    "new_coverage_area_m2": 126036.98183132528,
+    "removed_coverage_area_m2": 93163.21203702052,
+    "new_coverage_area_ha": 12.603698183132527,
+    "removed_coverage_area_ha": 9.316321203702053,
+    "net_change_ha": 3.2873769794304746,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 348764.0,
+    "alignment_overlap_ratio": 0.9811513964845948,
+    "coverage_by_year_ha": {
+      "2019": 377.67279547767697,
+      "2020": 375.37688939227127,
+      "2021": 372.52015128600306,
+      "2022": 383.10335196540336,
+      "2023": 386.3907289448339,
+      "2024": 391.9064117214411
+    },
+    "total_coverage_area_ha_2022": 383.10335196540336,
+    "total_coverage_area_ha_2023": 386.3907289448339
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 348764.0,
+    "overlap_ratio": 0.9811513964845948
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Waasmunster",
+  "niscode": "42023",
+  "slug": "waasmunster",
+  "relative_html": "42023_waasmunster.html",
+  "generated_at": "2025-10-20T10:32:17Z",
+  "bounds_latlon": [
+    [
+      51.090763415480914,
+      4.012081233748091
+    ],
+    [
+      51.146560525399906,
+      4.141749090011989
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1573937,
+    "new_coverage_pixels": 17015,
+    "removed_coverage_pixels": 16703,
+    "no_change_pixels": 1540219,
+    "new_coverage_percent": 1.0810470812999504,
+    "removed_coverage_percent": 1.0612241786043533,
+    "no_change_percent": 97.8577287400957,
+    "pixel_area_m2": 20.501636132117344,
+    "new_coverage_area_m2": 348835.3387879766,
+    "removed_coverage_area_m2": 342438.828314756,
+    "new_coverage_area_ha": 34.88353387879766,
+    "removed_coverage_area_ha": 34.243882831475595,
+    "net_change_ha": 0.6396510473220616,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 414483.0,
+    "alignment_overlap_ratio": 0.933299557537069,
+    "coverage_by_year_ha": {
+      "2019": 389.2133111501817,
+      "2020": 391.1015118379497,
+      "2021": 386.1216644214584,
+      "2022": 394.3059175653997,
+      "2023": 394.94556861272173,
+      "2024": 403.2405305917764
+    },
+    "total_coverage_area_ha_2022": 394.3059175653997,
+    "total_coverage_area_ha_2023": 394.94556861272173
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 414483.0,
+    "overlap_ratio": 0.933299557537069
+  }
+}

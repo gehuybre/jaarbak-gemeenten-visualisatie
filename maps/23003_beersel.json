@@ -1,0 +1,54 @@
+{
+  "name": "Beersel",
+  "niscode": "23003",
+  "slug": "beersel",
+  "relative_html": "23003_beersel.html",
+  "generated_at": "2025-10-20T10:30:46Z",
+  "bounds_latlon": [
+    [
+      50.7133791826208,
+      4.256659599121008
+    ],
+    [
+      50.78213109675871,
+      4.35599286081025
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2082288,
+    "new_coverage_pixels": 13954,
+    "removed_coverage_pixels": 8226,
+    "no_change_pixels": 2060108,
+    "new_coverage_percent": 0.6701282435474823,
+    "removed_coverage_percent": 0.3950462183905396,
+    "no_change_percent": 98.93482553806197,
+    "pixel_area_m2": 14.600264073127832,
+    "new_coverage_area_m2": 203732.08487642577,
+    "removed_coverage_area_m2": 120101.77226554955,
+    "new_coverage_area_ha": 20.373208487642575,
+    "removed_coverage_area_ha": 12.010177226554955,
+    "net_change_ha": 8.36303126108762,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 993853.0,
+    "alignment_overlap_ratio": 0.9859300659897067,
+    "coverage_by_year_ha": {
+      "2019": 623.9495852971545,
+      "2020": 625.5395540547181,
+      "2021": 621.8135666632559,
+      "2022": 620.4878626854158,
+      "2023": 628.8508939465034,
+      "2024": 625.081105762822
+    },
+    "total_coverage_area_ha_2022": 620.4878626854158,
+    "total_coverage_area_ha_2023": 628.8508939465034
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 993853.0,
+    "overlap_ratio": 0.9859300659897067
+  }
+}

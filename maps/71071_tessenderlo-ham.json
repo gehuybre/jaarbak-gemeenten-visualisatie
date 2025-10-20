@@ -1,0 +1,54 @@
+{
+  "name": "Tessenderlo-Ham",
+  "niscode": "71071",
+  "slug": "tessenderlo-ham",
+  "relative_html": "71071_tessenderlo-ham.html",
+  "generated_at": "2025-10-20T11:30:24Z",
+  "bounds_latlon": [
+    [
+      51.01433120825466,
+      4.979856916238699
+    ],
+    [
+      51.14201989094536,
+      5.230466139199838
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1112571,
+    "new_coverage_pixels": 18975,
+    "removed_coverage_pixels": 16481,
+    "no_change_pixels": 1077115,
+    "new_coverage_percent": 1.7055091315520539,
+    "removed_coverage_percent": 1.48134366256176,
+    "no_change_percent": 96.81314720588618,
+    "pixel_area_m2": 75.88795543782442,
+    "new_coverage_area_m2": 1439973.9544327182,
+    "removed_coverage_area_m2": 1250709.3935707842,
+    "new_coverage_area_ha": 143.9973954432718,
+    "removed_coverage_area_ha": 125.07093935707843,
+    "net_change_ha": 18.926456086193383,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 477091.0,
+    "alignment_overlap_ratio": 0.9065087070939302,
+    "coverage_by_year_ha": {
+      "2019": 1305.3183663038426,
+      "2020": 1299.5736480771993,
+      "2021": 1340.2344146007856,
+      "2022": 1366.5751239332546,
+      "2023": 1385.501580019448,
+      "2024": 1402.7509122904655
+    },
+    "total_coverage_area_ha_2022": 1366.5751239332546,
+    "total_coverage_area_ha_2023": 1385.501580019448
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 477091.0,
+    "overlap_ratio": 0.9065087070939302
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Rijkevorsel",
+  "niscode": "13037",
+  "slug": "rijkevorsel",
+  "relative_html": "13037_rijkevorsel.html",
+  "generated_at": "2025-10-20T10:30:42Z",
+  "bounds_latlon": [
+    [
+      51.31245186469092,
+      4.717131152803385
+    ],
+    [
+      51.392863184023206,
+      4.827876657015721
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2362998,
+    "new_coverage_pixels": 10359,
+    "removed_coverage_pixels": 7508,
+    "no_change_pixels": 2345131,
+    "new_coverage_percent": 0.43838378195834277,
+    "removed_coverage_percent": 0.3177319659178721,
+    "no_change_percent": 99.24388425212378,
+    "pixel_area_m2": 19.824226224582887,
+    "new_coverage_area_m2": 205359.15946045413,
+    "removed_coverage_area_m2": 148840.29049416832,
+    "new_coverage_area_ha": 20.535915946045414,
+    "removed_coverage_area_ha": 14.884029049416831,
+    "net_change_ha": 5.651886896628582,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 439416.0,
+    "alignment_overlap_ratio": 0.9718733204610148,
+    "coverage_by_year_ha": {
+      "2019": 564.8774493111322,
+      "2020": 587.4195769511053,
+      "2021": 601.026925831659,
+      "2022": 611.9917053564758,
+      "2023": 617.6435922531044,
+      "2024": 614.7512376469377
+    },
+    "total_coverage_area_ha_2022": 611.9917053564758,
+    "total_coverage_area_ha_2023": 617.6435922531044
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 439416.0,
+    "overlap_ratio": 0.9718733204610148
+  }
+}

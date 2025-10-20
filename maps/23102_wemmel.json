@@ -1,0 +1,54 @@
+{
+  "name": "Wemmel",
+  "niscode": "23102",
+  "slug": "wemmel",
+  "relative_html": "23102_wemmel.html",
+  "generated_at": "2025-10-20T10:31:02Z",
+  "bounds_latlon": [
+    [
+      50.89037602564338,
+      4.2777770089338185
+    ],
+    [
+      50.92809043969313,
+      4.338977590664768
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1896710,
+    "new_coverage_pixels": 10864,
+    "removed_coverage_pixels": 12930,
+    "no_change_pixels": 1872916,
+    "new_coverage_percent": 0.5727812897069136,
+    "removed_coverage_percent": 0.6817067448371127,
+    "no_change_percent": 98.74551196545598,
+    "pixel_area_m2": 4.625395595438547,
+    "new_coverage_area_m2": 50250.29774884437,
+    "removed_coverage_area_m2": 59806.36504902041,
+    "new_coverage_area_ha": 5.0250297748844375,
+    "removed_coverage_area_ha": 5.980636504902041,
+    "net_change_ha": -0.9556067300176032,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1139426.0,
+    "alignment_overlap_ratio": 0.9819480460162379,
+    "coverage_by_year_ha": {
+      "2019": 239.30871731679952,
+      "2020": 240.70558678662195,
+      "2021": 242.4387225162328,
+      "2022": 244.06963700318443,
+      "2023": 243.1140302731668,
+      "2024": 238.18798396402477
+    },
+    "total_coverage_area_ha_2022": 244.06963700318443,
+    "total_coverage_area_ha_2023": 243.1140302731668
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1139426.0,
+    "overlap_ratio": 0.9819480460162379
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Lendelede",
+  "niscode": "34025",
+  "slug": "lendelede",
+  "relative_html": "34025_lendelede.html",
+  "generated_at": "2025-10-20T10:31:44Z",
+  "bounds_latlon": [
+    [
+      50.87085646482224,
+      3.1880105036892803
+    ],
+    [
+      50.899680849563005,
+      3.2729502199526457
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1509519,
+    "new_coverage_pixels": 16897,
+    "removed_coverage_pixels": 13235,
+    "no_change_pixels": 1479387,
+    "new_coverage_percent": 1.119363187876403,
+    "removed_coverage_percent": 0.8767693550064624,
+    "no_change_percent": 98.00386745711714,
+    "pixel_area_m2": 8.790618473734712,
+    "new_coverage_area_m2": 148535.08035069544,
+    "removed_coverage_area_m2": 116343.83549987891,
+    "new_coverage_area_ha": 14.853508035069543,
+    "removed_coverage_area_ha": 11.634383549987891,
+    "net_change_ha": 3.219124485081652,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 326665.0,
+    "alignment_overlap_ratio": 0.9483421829593652,
+    "coverage_by_year_ha": {
+      "2019": 221.38821001361924,
+      "2020": 224.96511267058187,
+      "2021": 226.61247457255976,
+      "2022": 225.7694542609286,
+      "2023": 228.98857874601026,
+      "2024": 232.5672395266677
+    },
+    "total_coverage_area_ha_2022": 225.7694542609286,
+    "total_coverage_area_ha_2023": 228.98857874601026
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 326665.0,
+    "overlap_ratio": 0.9483421829593652
+  }
+}

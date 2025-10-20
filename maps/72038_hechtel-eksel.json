@@ -1,0 +1,54 @@
+{
+  "name": "Hechtel-Eksel",
+  "niscode": "72038",
+  "slug": "hechtel-eksel",
+  "relative_html": "72038_hechtel-eksel.html",
+  "generated_at": "2025-10-20T11:30:31Z",
+  "bounds_latlon": [
+    [
+      51.087229419557794,
+      5.259814581868762
+    ],
+    [
+      51.182660947715775,
+      5.437858766670622
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2019602,
+    "new_coverage_pixels": 7978,
+    "removed_coverage_pixels": 3847,
+    "no_change_pixels": 2007777,
+    "new_coverage_percent": 0.39502832736351023,
+    "removed_coverage_percent": 0.1904830753782181,
+    "no_change_percent": 99.41448859725827,
+    "pixel_area_m2": 37.96637454970366,
+    "new_coverage_area_m2": 302895.7361575358,
+    "removed_coverage_area_m2": 146056.64289270996,
+    "new_coverage_area_ha": 30.289573615753582,
+    "removed_coverage_area_ha": 14.605664289270996,
+    "net_change_ha": 15.683909326482587,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 234260.0,
+    "alignment_overlap_ratio": 0.9716501793898671,
+    "coverage_by_year_ha": {
+      "2019": 487.996998637161,
+      "2020": 488.42981530702764,
+      "2021": 501.25105999246256,
+      "2022": 517.9145017823275,
+      "2023": 533.5984111088101,
+      "2024": 541.423280903504
+    },
+    "total_coverage_area_ha_2022": 517.9145017823275,
+    "total_coverage_area_ha_2023": 533.5984111088101
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 234260.0,
+    "overlap_ratio": 0.9716501793898671
+  }
+}

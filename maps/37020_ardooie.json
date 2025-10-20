@@ -1,0 +1,54 @@
+{
+  "name": "Ardooie",
+  "niscode": "37020",
+  "slug": "ardooie",
+  "relative_html": "37020_ardooie.html",
+  "generated_at": "2025-10-20T10:32:00Z",
+  "bounds_latlon": [
+    [
+      50.943940386054855,
+      3.162685706488733
+    ],
+    [
+      51.02663979294927,
+      3.244675999015285
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1681524,
+    "new_coverage_pixels": 18809,
+    "removed_coverage_pixels": 13128,
+    "no_change_pixels": 1649587,
+    "new_coverage_percent": 1.118568631788782,
+    "removed_coverage_percent": 0.780720346542779,
+    "no_change_percent": 98.10071102166845,
+    "pixel_area_m2": 20.76684053897517,
+    "new_coverage_area_m2": 390603.503697584,
+    "removed_coverage_area_m2": 272627.08259566606,
+    "new_coverage_area_ha": 39.060350369758396,
+    "removed_coverage_area_ha": 27.262708259566605,
+    "net_change_ha": 11.797642110191791,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 390124.0,
+    "alignment_overlap_ratio": 0.9545859392586937,
+    "coverage_by_year_ha": {
+      "2019": 611.0538994390749,
+      "2020": 616.5571121819033,
+      "2021": 620.394824313506,
+      "2022": 620.8039310721238,
+      "2023": 632.6015731823155,
+      "2024": 638.8606989207626
+    },
+    "total_coverage_area_ha_2022": 620.8039310721238,
+    "total_coverage_area_ha_2023": 632.6015731823155
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 390124.0,
+    "overlap_ratio": 0.9545859392586937
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Brasschaat",
+  "niscode": "11008",
+  "slug": "brasschaat",
+  "relative_html": "11008_brasschaat.html",
+  "generated_at": "2025-10-20T10:30:07Z",
+  "bounds_latlon": [
+    [
+      51.26852573949624,
+      4.440169045220326
+    ],
+    [
+      51.35097871448114,
+      4.5589122315149515
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1840107,
+    "new_coverage_pixels": 33898,
+    "removed_coverage_pixels": 5659,
+    "no_change_pixels": 1800550,
+    "new_coverage_percent": 1.8421754821866339,
+    "removed_coverage_percent": 0.30753646391215295,
+    "no_change_percent": 97.85028805390121,
+    "pixel_area_m2": 20.966752390643,
+    "new_coverage_area_m2": 710730.9725380164,
+    "removed_coverage_area_m2": 118650.85177864874,
+    "new_coverage_area_ha": 71.07309725380163,
+    "removed_coverage_area_ha": 11.865085177864874,
+    "net_change_ha": 59.208012075936765,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 528088.0,
+    "alignment_overlap_ratio": 0.977587722951897,
+    "coverage_by_year_ha": {
+      "2019": 685.6526400035683,
+      "2020": 700.5662909790326,
+      "2021": 692.6660186782383,
+      "2022": 675.6787558913394,
+      "2023": 734.8867679672762,
+      "2024": 791.4194224381669
+    },
+    "total_coverage_area_ha_2022": 675.6787558913394,
+    "total_coverage_area_ha_2023": 734.8867679672762
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 528088.0,
+    "overlap_ratio": 0.977587722951897
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Bocholt",
+  "niscode": "72003",
+  "slug": "bocholt",
+  "relative_html": "72003_bocholt.html",
+  "generated_at": "2025-10-20T11:30:26Z",
+  "bounds_latlon": [
+    [
+      51.12939089372761,
+      5.47609065847492
+    ],
+    [
+      51.22371195782775,
+      5.66055151505451
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1462441,
+    "new_coverage_pixels": 31689,
+    "removed_coverage_pixels": 26006,
+    "no_change_pixels": 1404746,
+    "new_coverage_percent": 2.166856645840755,
+    "removed_coverage_percent": 1.7782597725309945,
+    "no_change_percent": 96.05488358162825,
+    "pixel_area_m2": 40.54158886925494,
+    "new_coverage_area_m2": 1284722.4096778198,
+    "removed_coverage_area_m2": 1054324.560133844,
+    "new_coverage_area_ha": 128.47224096778197,
+    "removed_coverage_area_ha": 105.4324560133844,
+    "net_change_ha": 23.039784954397575,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 560000.0,
+    "alignment_overlap_ratio": 0.9060169231018137,
+    "coverage_by_year_ha": {
+      "2019": 593.5166985692315,
+      "2020": 588.100342296299,
+      "2021": 600.4736352191957,
+      "2022": 633.1785349600236,
+      "2023": 656.2183199144212,
+      "2024": 665.7577557753568
+    },
+    "total_coverage_area_ha_2022": 633.1785349600236,
+    "total_coverage_area_ha_2023": 656.2183199144212
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 560000.0,
+    "overlap_ratio": 0.9060169231018137
+  }
+}

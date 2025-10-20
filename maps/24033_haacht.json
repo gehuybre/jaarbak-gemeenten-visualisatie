@@ -1,0 +1,54 @@
+{
+  "name": "Haacht",
+  "niscode": "24033",
+  "slug": "haacht",
+  "relative_html": "24033_haacht.html",
+  "generated_at": "2025-10-20T10:31:12Z",
+  "bounds_latlon": [
+    [
+      50.92440960980544,
+      4.585368755060006
+    ],
+    [
+      50.994592688120925,
+      4.689816910176393
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2030779,
+    "new_coverage_pixels": 14100,
+    "removed_coverage_pixels": 4243,
+    "no_change_pixels": 2012436,
+    "new_coverage_percent": 0.6943148417429962,
+    "removed_coverage_percent": 0.2089346009585484,
+    "no_change_percent": 99.09675055729845,
+    "pixel_area_m2": 15.135473682240013,
+    "new_coverage_area_m2": 213410.1789195842,
+    "removed_coverage_area_m2": 64219.81483374438,
+    "new_coverage_area_ha": 21.34101789195842,
+    "removed_coverage_area_ha": 6.421981483374438,
+    "net_change_ha": 14.919036408583981,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 524525.0,
+    "alignment_overlap_ratio": 0.9823798116992207,
+    "coverage_by_year_ha": {
+      "2019": 467.54537687597156,
+      "2020": 469.6204503178067,
+      "2021": 457.6149925930539,
+      "2022": 466.2543209708765,
+      "2023": 481.1733573794605,
+      "2024": 495.2266446934204
+    },
+    "total_coverage_area_ha_2022": 466.2543209708765,
+    "total_coverage_area_ha_2023": 481.1733573794605
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 524525.0,
+    "overlap_ratio": 0.9823798116992207
+  }
+}

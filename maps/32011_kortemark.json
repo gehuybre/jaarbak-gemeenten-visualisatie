@@ -1,0 +1,54 @@
+{
+  "name": "Kortemark",
+  "niscode": "32011",
+  "slug": "kortemark",
+  "relative_html": "32011_kortemark.html",
+  "generated_at": "2025-10-20T10:31:33Z",
+  "bounds_latlon": [
+    [
+      50.98349300613147,
+      2.926381141091753
+    ],
+    [
+      51.07097076428184,
+      3.0713077646986853
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2220251,
+    "new_coverage_pixels": 19318,
+    "removed_coverage_pixels": 13469,
+    "no_change_pixels": 2187464,
+    "new_coverage_percent": 0.870081806066071,
+    "removed_coverage_percent": 0.6066431227820638,
+    "no_change_percent": 98.52327507115186,
+    "pixel_area_m2": 24.966812444838112,
+    "new_coverage_area_m2": 482308.88280938263,
+    "removed_coverage_area_m2": 336277.99681952456,
+    "new_coverage_area_ha": 48.23088828093826,
+    "removed_coverage_area_ha": 33.62779968195245,
+    "net_change_ha": 14.603088598985806,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 380414.0,
+    "alignment_overlap_ratio": 0.9434426453118528,
+    "coverage_by_year_ha": {
+      "2019": 667.250545994521,
+      "2020": 675.2349326143802,
+      "2021": 677.6092764778844,
+      "2022": 683.7561057018034,
+      "2023": 698.3591943007893,
+      "2024": 703.6596485828284
+    },
+    "total_coverage_area_ha_2022": 683.7561057018034,
+    "total_coverage_area_ha_2023": 698.3591943007893
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 380414.0,
+    "overlap_ratio": 0.9434426453118528
+  }
+}

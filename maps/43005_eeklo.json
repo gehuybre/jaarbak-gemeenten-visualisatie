@@ -1,0 +1,54 @@
+{
+  "name": "Eeklo",
+  "niscode": "43005",
+  "slug": "eeklo",
+  "relative_html": "43005_eeklo.html",
+  "generated_at": "2025-10-20T10:33:59Z",
+  "bounds_latlon": [
+    [
+      51.16202877051409,
+      3.5083358413777286
+    ],
+    [
+      51.219409973918886,
+      3.6093698641708944
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2489815,
+    "new_coverage_pixels": 32070,
+    "removed_coverage_pixels": 28372,
+    "no_change_pixels": 2429373,
+    "new_coverage_percent": 1.28804750553756,
+    "removed_coverage_percent": 1.139522414315923,
+    "no_change_percent": 97.57243008014652,
+    "pixel_area_m2": 12.229617537670222,
+    "new_coverage_area_m2": 392203.834433084,
+    "removed_coverage_area_m2": 346978.70877877955,
+    "new_coverage_area_ha": 39.2203834433084,
+    "removed_coverage_area_ha": 34.69787087787795,
+    "net_change_ha": 4.522512565430446,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 563441.0,
+    "alignment_overlap_ratio": 0.9415162756500234,
+    "coverage_by_year_ha": {
+      "2019": 632.6271085678967,
+      "2020": 638.5315679150839,
+      "2021": 625.1511433671188,
+      "2022": 633.7326659933021,
+      "2023": 638.2551785587326,
+      "2024": 640.8221752798895
+    },
+    "total_coverage_area_ha_2022": 633.7326659933021,
+    "total_coverage_area_ha_2023": 638.2551785587326
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 563441.0,
+    "overlap_ratio": 0.9415162756500234
+  }
+}

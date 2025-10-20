@@ -1,0 +1,54 @@
+{
+  "name": "Bree",
+  "niscode": "72004",
+  "slug": "bree",
+  "relative_html": "72004_bree.html",
+  "generated_at": "2025-10-20T11:30:27Z",
+  "bounds_latlon": [
+    [
+      51.101904466042036,
+      5.545806371585851
+    ],
+    [
+      51.1856234670252,
+      5.720131968514703
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1791868,
+    "new_coverage_pixels": 11211,
+    "removed_coverage_pixels": 5597,
+    "no_change_pixels": 1775060,
+    "new_coverage_percent": 0.6256599258427518,
+    "removed_coverage_percent": 0.31235559762214626,
+    "no_change_percent": 99.0619844765351,
+    "pixel_area_m2": 36.265386711434616,
+    "new_coverage_area_m2": 406571.2504218935,
+    "removed_coverage_area_m2": 202977.36942389954,
+    "new_coverage_area_ha": 40.65712504218935,
+    "removed_coverage_area_ha": 20.297736942389953,
+    "net_change_ha": 20.359388099799396,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 354283.0,
+    "alignment_overlap_ratio": 0.9746651920812562,
+    "coverage_by_year_ha": {
+      "2019": 775.3285821197741,
+      "2020": 772.7392335085776,
+      "2021": 795.2128936536536,
+      "2022": 828.8853052152207,
+      "2023": 849.2446933150201,
+      "2024": 860.7770862892562
+    },
+    "total_coverage_area_ha_2022": 828.8853052152207,
+    "total_coverage_area_ha_2023": 849.2446933150201
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 354283.0,
+    "overlap_ratio": 0.9746651920812562
+  }
+}

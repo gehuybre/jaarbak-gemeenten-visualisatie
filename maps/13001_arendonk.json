@@ -1,0 +1,54 @@
+{
+  "name": "Arendonk",
+  "niscode": "13001",
+  "slug": "arendonk",
+  "relative_html": "13001_arendonk.html",
+  "generated_at": "2025-10-20T10:30:28Z",
+  "bounds_latlon": [
+    [
+      51.29125541895778,
+      5.028985715338503
+    ],
+    [
+      51.39372300913947,
+      5.14209906194711
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1720278,
+    "new_coverage_pixels": 8815,
+    "removed_coverage_pixels": 5282,
+    "no_change_pixels": 1706181,
+    "new_coverage_percent": 0.5124171790838458,
+    "removed_coverage_percent": 0.3070433964742908,
+    "no_change_percent": 99.18053942444186,
+    "pixel_area_m2": 32.06008672668016,
+    "new_coverage_area_m2": 282609.6644956856,
+    "removed_coverage_area_m2": 169341.3780903246,
+    "new_coverage_area_ha": 28.26096644956856,
+    "removed_coverage_area_ha": 16.93413780903246,
+    "net_change_ha": 11.3268286405361,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 692967.0,
+    "alignment_overlap_ratio": 0.99027681913083,
+    "coverage_by_year_ha": {
+      "2019": 551.1770110050853,
+      "2020": 567.0435479261193,
+      "2021": 563.1097752847556,
+      "2022": 562.7603203394349,
+      "2023": 574.087148979971,
+      "2024": 583.3268659746002
+    },
+    "total_coverage_area_ha_2022": 562.7603203394349,
+    "total_coverage_area_ha_2023": 574.087148979971
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 692967.0,
+    "overlap_ratio": 0.99027681913083
+  }
+}

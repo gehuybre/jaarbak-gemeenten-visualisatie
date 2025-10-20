@@ -1,0 +1,54 @@
+{
+  "name": "Hulshout",
+  "niscode": "13016",
+  "slug": "hulshout",
+  "relative_html": "13016_hulshout.html",
+  "generated_at": "2025-10-20T10:30:35Z",
+  "bounds_latlon": [
+    [
+      51.02803291857244,
+      4.766498477647033
+    ],
+    [
+      51.088736881878454,
+      4.869103611767027
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1358558,
+    "new_coverage_pixels": 10754,
+    "removed_coverage_pixels": 6604,
+    "no_change_pixels": 1341200,
+    "new_coverage_percent": 0.7915745960054704,
+    "removed_coverage_percent": 0.48610364813279966,
+    "no_change_percent": 98.72232175586173,
+    "pixel_area_m2": 12.792278806656732,
+    "new_coverage_area_m2": 137568.1662867865,
+    "removed_coverage_area_m2": 84480.20923916106,
+    "new_coverage_area_ha": 13.75681662867865,
+    "removed_coverage_area_ha": 8.448020923916106,
+    "net_change_ha": 5.308795704762543,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 565120.0,
+    "alignment_overlap_ratio": 0.9746641141063452,
+    "coverage_by_year_ha": {
+      "2019": 354.7043067509779,
+      "2020": 361.0748615966929,
+      "2021": 359.708646220142,
+      "2022": 356.86236418566085,
+      "2023": 362.1711598904234,
+      "2024": 362.21337441048536
+    },
+    "total_coverage_area_ha_2022": 356.86236418566085,
+    "total_coverage_area_ha_2023": 362.1711598904234
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 565120.0,
+    "overlap_ratio": 0.9746641141063452
+  }
+}

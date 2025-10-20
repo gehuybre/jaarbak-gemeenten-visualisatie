@@ -1,0 +1,54 @@
+{
+  "name": "Aartselaar",
+  "niscode": "11001",
+  "slug": "aartselaar",
+  "relative_html": "11001_aartselaar.html",
+  "generated_at": "2025-10-20T10:30:04Z",
+  "bounds_latlon": [
+    [
+      51.10949482308116,
+      4.353707394913133
+    ],
+    [
+      51.15108352399968,
+      4.408745423528825
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2059718,
+    "new_coverage_pixels": 45978,
+    "removed_coverage_pixels": 5165,
+    "no_change_pixels": 2008575,
+    "new_coverage_percent": 2.2322473270612773,
+    "removed_coverage_percent": 0.25076248301952014,
+    "no_change_percent": 97.51699018991921,
+    "pixel_area_m2": 5.349767576771605,
+    "new_coverage_area_m2": 245971.61364480483,
+    "removed_coverage_area_m2": 27631.549534025336,
+    "new_coverage_area_ha": 24.597161364480485,
+    "removed_coverage_area_ha": 2.7631549534025335,
+    "net_change_ha": 21.83400641107795,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 987889.0,
+    "alignment_overlap_ratio": 0.9920914995922728,
+    "coverage_by_year_ha": {
+      "2019": 371.6783122567533,
+      "2020": 374.10817669012295,
+      "2021": 373.19015657394897,
+      "2022": 374.5966104698822,
+      "2023": 396.43061688096014,
+      "2024": 411.768935500322
+    },
+    "total_coverage_area_ha_2022": 374.5966104698822,
+    "total_coverage_area_ha_2023": 396.43061688096014
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 987889.0,
+    "overlap_ratio": 0.9920914995922728
+  }
+}

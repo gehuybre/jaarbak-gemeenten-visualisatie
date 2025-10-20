@@ -1,0 +1,54 @@
+{
+  "name": "Tielt",
+  "niscode": "37022",
+  "slug": "tielt",
+  "relative_html": "37022_tielt.html",
+  "generated_at": "2025-10-20T10:32:02Z",
+  "bounds_latlon": [
+    [
+      50.91848836571202,
+      3.2264687029505073
+    ],
+    [
+      51.054539120286016,
+      3.454221425336691
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1578434,
+    "new_coverage_pixels": 37950,
+    "removed_coverage_pixels": 32249,
+    "no_change_pixels": 1508235,
+    "new_coverage_percent": 2.4042817121273363,
+    "removed_coverage_percent": 2.043100946887865,
+    "no_change_percent": 95.5526173409848,
+    "pixel_area_m2": 62.30435619184795,
+    "new_coverage_area_m2": 2364450.31748063,
+    "removed_coverage_area_m2": 2009253.1828309046,
+    "new_coverage_area_ha": 236.44503174806297,
+    "removed_coverage_area_ha": 200.92531828309046,
+    "net_change_ha": 35.51971346497251,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 489752.0,
+    "alignment_overlap_ratio": 0.8596800721794797,
+    "coverage_by_year_ha": {
+      "2019": 1482.968286078365,
+      "2020": 1482.800064316647,
+      "2021": 1484.1769905884867,
+      "2022": 1508.6065286513103,
+      "2023": 1544.1262421162828,
+      "2024": 1541.9019766002339
+    },
+    "total_coverage_area_ha_2022": 1508.6065286513103,
+    "total_coverage_area_ha_2023": 1544.1262421162828
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 489752.0,
+    "overlap_ratio": 0.8596800721794797
+  }
+}

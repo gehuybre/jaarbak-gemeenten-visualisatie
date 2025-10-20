@@ -1,0 +1,54 @@
+{
+  "name": "Staden",
+  "niscode": "36019",
+  "slug": "staden",
+  "relative_html": "36019_staden.html",
+  "generated_at": "2025-10-20T10:31:57Z",
+  "bounds_latlon": [
+    [
+      50.91574592025092,
+      2.957649943458151
+    ],
+    [
+      51.000134377956655,
+      3.089114173018708
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2201025,
+    "new_coverage_pixels": 20493,
+    "removed_coverage_pixels": 17817,
+    "no_change_pixels": 2162715,
+    "new_coverage_percent": 0.9310662077895526,
+    "removed_coverage_percent": 0.8094864892493271,
+    "no_change_percent": 98.25944730296112,
+    "pixel_area_m2": 21.27096470360134,
+    "new_coverage_area_m2": 435905.8796709023,
+    "removed_coverage_area_m2": 378984.7781240651,
+    "new_coverage_area_ha": 43.59058796709023,
+    "removed_coverage_area_ha": 37.898477812406504,
+    "net_change_ha": 5.692110154683725,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 515210.0,
+    "alignment_overlap_ratio": 0.947172967855206,
+    "coverage_by_year_ha": {
+      "2019": 753.9557252085606,
+      "2020": 751.3096171994325,
+      "2021": 751.4010823476581,
+      "2022": 748.672017576186,
+      "2023": 754.3641277308697,
+      "2024": 757.8993620646082
+    },
+    "total_coverage_area_ha_2022": 748.672017576186,
+    "total_coverage_area_ha_2023": 754.3641277308697
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 515210.0,
+    "overlap_ratio": 0.947172967855206
+  }
+}

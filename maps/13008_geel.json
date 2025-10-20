@@ -1,0 +1,54 @@
+{
+  "name": "Geel",
+  "niscode": "13008",
+  "slug": "geel",
+  "relative_html": "13008_geel.html",
+  "generated_at": "2025-10-20T10:30:32Z",
+  "bounds_latlon": [
+    [
+      51.08854446307561,
+      4.893466378300255
+    ],
+    [
+      51.24329021321507,
+      5.078403988229887
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1505371,
+    "new_coverage_pixels": 23243,
+    "removed_coverage_pixels": 23810,
+    "no_change_pixels": 1458318,
+    "new_coverage_percent": 1.5440047669312083,
+    "removed_coverage_percent": 1.581669900642433,
+    "no_change_percent": 96.87432533242635,
+    "pixel_area_m2": 73.21248842027319,
+    "new_coverage_area_m2": 1701677.8683524097,
+    "removed_coverage_area_m2": 1743189.3492867046,
+    "new_coverage_area_ha": 170.16778683524097,
+    "removed_coverage_area_ha": 174.31893492867044,
+    "net_change_ha": -4.1511480934294696,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 395992.0,
+    "alignment_overlap_ratio": 0.8930183049899534,
+    "coverage_by_year_ha": {
+      "2019": 1589.7945435485483,
+      "2020": 1633.1802641864022,
+      "2021": 1610.067081592122,
+      "2022": 1586.4194478323736,
+      "2023": 1582.268299738944,
+      "2024": 1586.4560540765838
+    },
+    "total_coverage_area_ha_2022": 1586.4194478323736,
+    "total_coverage_area_ha_2023": 1582.268299738944
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 395992.0,
+    "overlap_ratio": 0.8930183049899534
+  }
+}

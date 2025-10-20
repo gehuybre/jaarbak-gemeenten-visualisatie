@@ -1,0 +1,54 @@
+{
+  "name": "Leopoldsburg",
+  "niscode": "71034",
+  "slug": "leopoldsburg",
+  "relative_html": "71034_leopoldsburg.html",
+  "generated_at": "2025-10-20T11:30:18Z",
+  "bounds_latlon": [
+    [
+      51.09535055944589,
+      5.201267028094861
+    ],
+    [
+      51.147543414499495,
+      5.301741060872795
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1862061,
+    "new_coverage_pixels": 28421,
+    "removed_coverage_pixels": 9994,
+    "no_change_pixels": 1823646,
+    "new_coverage_percent": 1.5263194922185686,
+    "removed_coverage_percent": 0.5367171107713442,
+    "no_change_percent": 97.93696339701009,
+    "pixel_area_m2": 12.136064537008588,
+    "new_coverage_area_m2": 344919.0902063211,
+    "removed_coverage_area_m2": 121287.82898286382,
+    "new_coverage_area_ha": 34.49190902063211,
+    "removed_coverage_area_ha": 12.128782898286381,
+    "net_change_ha": 22.363126122345726,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 382779.0,
+    "alignment_overlap_ratio": 0.9715622247660433,
+    "coverage_by_year_ha": {
+      "2019": 406.09456432447394,
+      "2020": 406.13339973099244,
+      "2021": 418.84714093996257,
+      "2022": 433.4298360876321,
+      "2023": 455.7929622099779,
+      "2024": 447.8571896092279
+    },
+    "total_coverage_area_ha_2022": 433.4298360876321,
+    "total_coverage_area_ha_2023": 455.7929622099779
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 382779.0,
+    "overlap_ratio": 0.9715622247660433
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Houthulst",
+  "niscode": "32006",
+  "slug": "houthulst",
+  "relative_html": "32006_houthulst.html",
+  "generated_at": "2025-10-20T10:31:32Z",
+  "bounds_latlon": [
+    [
+      50.930162093818865,
+      2.804871581698426
+    ],
+    [
+      51.00914264960454,
+      2.975267747116038
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1609593,
+    "new_coverage_pixels": 12046,
+    "removed_coverage_pixels": 8850,
+    "no_change_pixels": 1588697,
+    "new_coverage_percent": 0.7483879465181571,
+    "removed_coverage_percent": 0.5498284348900623,
+    "no_change_percent": 98.70178361859178,
+    "pixel_area_m2": 34.80481143919047,
+    "new_coverage_area_m2": 419258.75859648845,
+    "removed_coverage_area_m2": 308022.5812368357,
+    "new_coverage_area_ha": 41.92587585964885,
+    "removed_coverage_area_ha": 30.80225812368357,
+    "net_change_ha": 11.12361773596528,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 215128.0,
+    "alignment_overlap_ratio": 0.9373564846081784,
+    "coverage_by_year_ha": {
+      "2019": 511.0077220313384,
+      "2020": 516.2354047095048,
+      "2021": 518.0870206780698,
+      "2022": 527.9889895325196,
+      "2023": 539.1126072684848,
+      "2024": 544.2741608049167
+    },
+    "total_coverage_area_ha_2022": 527.9889895325196,
+    "total_coverage_area_ha_2023": 539.1126072684848
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 215128.0,
+    "overlap_ratio": 0.9373564846081784
+  }
+}

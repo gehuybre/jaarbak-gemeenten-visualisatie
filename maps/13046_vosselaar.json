@@ -1,0 +1,54 @@
+{
+  "name": "Vosselaar",
+  "niscode": "13046",
+  "slug": "vosselaar",
+  "relative_html": "13046_vosselaar.html",
+  "generated_at": "2025-10-20T10:30:43Z",
+  "bounds_latlon": [
+    [
+      51.28500066409387,
+      4.837095436495522
+    ],
+    [
+      51.32731342401486,
+      4.914640855872969
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1637953,
+    "new_coverage_pixels": 13969,
+    "removed_coverage_pixels": 15396,
+    "no_change_pixels": 1608588,
+    "new_coverage_percent": 0.8528327735899627,
+    "removed_coverage_percent": 0.9399537105155031,
+    "no_change_percent": 98.20721351589454,
+    "pixel_area_m2": 7.224193338090582,
+    "new_coverage_area_m2": 100914.75673978734,
+    "removed_coverage_area_m2": 111223.68063324259,
+    "new_coverage_area_ha": 10.091475673978733,
+    "removed_coverage_area_ha": 11.12236806332426,
+    "net_change_ha": -1.0308923893455262,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 837754.0,
+    "alignment_overlap_ratio": 0.9634284202839384,
+    "coverage_by_year_ha": {
+      "2019": 276.30300018261664,
+      "2020": 286.01665054501325,
+      "2021": 287.2332047031477,
+      "2022": 285.0168221870215,
+      "2023": 283.985929797676,
+      "2024": 286.59747568939576
+    },
+    "total_coverage_area_ha_2022": 285.0168221870215,
+    "total_coverage_area_ha_2023": 283.985929797676
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 837754.0,
+    "overlap_ratio": 0.9634284202839384
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Tongeren-Borgloon",
+  "niscode": "73111",
+  "slug": "tongeren-borgloon",
+  "relative_html": "73111_tongeren-borgloon.html",
+  "generated_at": "2025-10-20T11:30:44Z",
+  "bounds_latlon": [
+    [
+      50.71916467374697,
+      5.248766142362539
+    ],
+    [
+      50.84649011117135,
+      5.55495634526397
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1215179,
+    "new_coverage_pixels": 11334,
+    "removed_coverage_pixels": 8370,
+    "no_change_pixels": 1195475,
+    "new_coverage_percent": 0.9327020957406276,
+    "removed_coverage_percent": 0.6887874132123745,
+    "no_change_percent": 98.378510491047,
+    "pixel_area_m2": 114.4990488081016,
+    "new_coverage_area_m2": 1297732.2191910236,
+    "removed_coverage_area_m2": 958357.0385238104,
+    "new_coverage_area_ha": 129.77322191910235,
+    "removed_coverage_area_ha": 95.83570385238104,
+    "net_change_ha": 33.93751806672131,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 499014.0,
+    "alignment_overlap_ratio": 0.9704139020045582,
+    "coverage_by_year_ha": {
+      "2019": 1541.7525920108496,
+      "2020": 1572.1062898498776,
+      "2021": 1561.274679832631,
+      "2022": 1582.5371531962955,
+      "2023": 1616.4746712630167,
+      "2024": 1646.4161725263352
+    },
+    "total_coverage_area_ha_2022": 1582.5371531962955,
+    "total_coverage_area_ha_2023": 1616.4746712630167
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 499014.0,
+    "overlap_ratio": 0.9704139020045582
+  }
+}

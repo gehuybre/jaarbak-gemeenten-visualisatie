@@ -1,0 +1,54 @@
+{
+  "name": "Sint-Niklaas",
+  "niscode": "46021",
+  "slug": "sint-niklaas",
+  "relative_html": "46021_sint-niklaas.html",
+  "generated_at": "2025-10-20T11:23:15Z",
+  "bounds_latlon": [
+    [
+      51.129304001668956,
+      3.984827978175504
+    ],
+    [
+      51.20786353883729,
+      4.222102616363039
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1227274,
+    "new_coverage_pixels": 42642,
+    "removed_coverage_pixels": 38302,
+    "no_change_pixels": 1146330,
+    "new_coverage_percent": 3.4745297301173172,
+    "removed_coverage_percent": 3.12090046721433,
+    "no_change_percent": 93.40456980266836,
+    "pixel_area_m2": 68.60723532795934,
+    "new_coverage_area_m2": 2925549.7288548425,
+    "removed_coverage_area_m2": 2627794.327531499,
+    "new_coverage_area_ha": 292.55497288548423,
+    "removed_coverage_area_ha": 262.7794327531499,
+    "net_change_ha": 29.775540132334356,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 342071.0,
+    "alignment_overlap_ratio": 0.8452959898783224,
+    "coverage_by_year_ha": {
+      "2019": 1820.2734462743517,
+      "2020": 1831.7239938505882,
+      "2021": 1814.3320596949502,
+      "2022": 1850.824248165892,
+      "2023": 1880.5997882982265,
+      "2024": 1889.9989795381568
+    },
+    "total_coverage_area_ha_2022": 1850.824248165892,
+    "total_coverage_area_ha_2023": 1880.5997882982265
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 342071.0,
+    "overlap_ratio": 0.8452959898783224
+  }
+}

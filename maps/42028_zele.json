@@ -1,0 +1,54 @@
+{
+  "name": "Zele",
+  "niscode": "42028",
+  "slug": "zele",
+  "relative_html": "42028_zele.html",
+  "generated_at": "2025-10-20T10:32:19Z",
+  "bounds_latlon": [
+    [
+      51.03206126491398,
+      3.9712738243542427
+    ],
+    [
+      51.102087347892926,
+      4.092736383004847
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1851998,
+    "new_coverage_pixels": 24606,
+    "removed_coverage_pixels": 18542,
+    "no_change_pixels": 1808850,
+    "new_coverage_percent": 1.3286191453770468,
+    "removed_coverage_percent": 1.001188986165212,
+    "no_change_percent": 97.67019186845775,
+    "pixel_area_m2": 17.968618948355427,
+    "new_coverage_area_m2": 442135.83784323366,
+    "removed_coverage_area_m2": 333174.1325404063,
+    "new_coverage_area_ha": 44.21358378432337,
+    "removed_coverage_area_ha": 33.31741325404063,
+    "net_change_ha": 10.896170530282738,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 688041.0,
+    "alignment_overlap_ratio": 0.9490155240308688,
+    "coverage_by_year_ha": {
+      "2019": 661.9459534384656,
+      "2020": 668.7039510249421,
+      "2021": 658.2677771397373,
+      "2022": 666.5710759557724,
+      "2023": 677.467246486055,
+      "2024": 687.4613923451302
+    },
+    "total_coverage_area_ha_2022": 666.5710759557724,
+    "total_coverage_area_ha_2023": 677.467246486055
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 688041.0,
+    "overlap_ratio": 0.9490155240308688
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Heers",
+  "niscode": "73022",
+  "slug": "heers",
+  "relative_html": "73022_heers.html",
+  "generated_at": "2025-10-20T11:30:36Z",
+  "bounds_latlon": [
+    [
+      50.713912969190204,
+      5.2339870535185735
+    ],
+    [
+      50.79221660602081,
+      5.402787456657454
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1523009,
+    "new_coverage_pixels": 3153,
+    "removed_coverage_pixels": 2711,
+    "no_change_pixels": 1517145,
+    "new_coverage_percent": 0.20702438396621425,
+    "removed_coverage_percent": 0.17800288770453754,
+    "no_change_percent": 99.61497272832925,
+    "pixel_area_m2": 34.83920005993929,
+    "new_coverage_area_m2": 109847.99778898858,
+    "removed_coverage_area_m2": 94449.07136249541,
+    "new_coverage_area_ha": 10.984799778898857,
+    "removed_coverage_area_ha": 9.44490713624954,
+    "net_change_ha": 1.539892642649317,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 773582.0,
+    "alignment_overlap_ratio": 0.9948584068520281,
+    "coverage_by_year_ha": {
+      "2019": 317.2736271058551,
+      "2020": 321.1442622325144,
+      "2021": 320.11302191074014,
+      "2022": 320.6843847917232,
+      "2023": 322.2242774343725,
+      "2024": 328.7113364855332
+    },
+    "total_coverage_area_ha_2022": 320.6843847917232,
+    "total_coverage_area_ha_2023": 322.2242774343725
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 773582.0,
+    "overlap_ratio": 0.9948584068520281
+  }
+}

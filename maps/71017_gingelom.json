@@ -1,0 +1,54 @@
+{
+  "name": "Gingelom",
+  "niscode": "71017",
+  "slug": "gingelom",
+  "relative_html": "71017_gingelom.html",
+  "generated_at": "2025-10-20T11:30:16Z",
+  "bounds_latlon": [
+    [
+      50.69476749524549,
+      5.100772489989289
+    ],
+    [
+      50.77099508990552,
+      5.244379182458116
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2231996,
+    "new_coverage_pixels": 5104,
+    "removed_coverage_pixels": 3319,
+    "no_change_pixels": 2223573,
+    "new_coverage_percent": 0.2286742449359228,
+    "removed_coverage_percent": 0.14870098333509557,
+    "no_change_percent": 99.62262477172898,
+    "pixel_area_m2": 25.243639899372933,
+    "new_coverage_area_m2": 128843.53804639945,
+    "removed_coverage_area_m2": 83783.64082601876,
+    "new_coverage_area_ha": 12.884353804639945,
+    "removed_coverage_area_ha": 8.378364082601877,
+    "net_change_ha": 4.505989722038068,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 832680.0,
+    "alignment_overlap_ratio": 0.9953215060112791,
+    "coverage_by_year_ha": {
+      "2019": 358.8938771773649,
+      "2020": 361.78932267382294,
+      "2021": 362.9984930250029,
+      "2022": 364.90186347341563,
+      "2023": 369.4078531954537,
+      "2024": 373.7346130742062
+    },
+    "total_coverage_area_ha_2022": 364.90186347341563,
+    "total_coverage_area_ha_2023": 369.4078531954537
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 832680.0,
+    "overlap_ratio": 0.9953215060112791
+  }
+}

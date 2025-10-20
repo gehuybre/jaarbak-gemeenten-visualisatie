@@ -1,0 +1,54 @@
+{
+  "name": "Kinrooi",
+  "niscode": "72018",
+  "slug": "kinrooi",
+  "relative_html": "72018_kinrooi.html",
+  "generated_at": "2025-10-20T11:30:27Z",
+  "bounds_latlon": [
+    [
+      51.11909860804549,
+      5.656287891301557
+    ],
+    [
+      51.19048440148632,
+      5.8571511949074075
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1133115,
+    "new_coverage_pixels": 8117,
+    "removed_coverage_pixels": 6645,
+    "no_change_pixels": 1118353,
+    "new_coverage_percent": 0.7163438838952798,
+    "removed_coverage_percent": 0.586436504679578,
+    "no_change_percent": 98.69721961142514,
+    "pixel_area_m2": 48.36465890673865,
+    "new_coverage_area_m2": 392575.9363459976,
+    "removed_coverage_area_m2": 321383.15843527834,
+    "new_coverage_area_ha": 39.257593634599765,
+    "removed_coverage_area_ha": 32.138315843527835,
+    "net_change_ha": 7.11927779107193,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 734912.0,
+    "alignment_overlap_ratio": 0.9897031612345433,
+    "coverage_by_year_ha": {
+      "2019": 550.3607995633417,
+      "2020": 546.5109727143654,
+      "2021": 562.0989022800072,
+      "2022": 603.7457100645998,
+      "2023": 610.8649878556718,
+      "2024": 613.8249049807642
+    },
+    "total_coverage_area_ha_2022": 603.7457100645998,
+    "total_coverage_area_ha_2023": 610.8649878556718
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 734912.0,
+    "overlap_ratio": 0.9897031612345433
+  }
+}

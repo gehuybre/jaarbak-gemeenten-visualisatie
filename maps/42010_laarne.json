@@ -1,0 +1,54 @@
+{
+  "name": "Laarne",
+  "niscode": "42010",
+  "slug": "laarne",
+  "relative_html": "42010_laarne.html",
+  "generated_at": "2025-10-20T10:32:16Z",
+  "bounds_latlon": [
+    [
+      51.01726512008036,
+      3.822725952365653
+    ],
+    [
+      51.07606947193625,
+      3.93842343084631
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2000691,
+    "new_coverage_pixels": 24783,
+    "removed_coverage_pixels": 17664,
+    "no_change_pixels": 1958244,
+    "new_coverage_percent": 1.2387220215415573,
+    "removed_coverage_percent": 0.8828949597913921,
+    "no_change_percent": 97.87838301866705,
+    "pixel_area_m2": 16.285049468316206,
+    "new_coverage_area_m2": 403592.3809732805,
+    "removed_coverage_area_m2": 287659.1138083375,
+    "new_coverage_area_ha": 40.35923809732805,
+    "removed_coverage_area_ha": 28.76591138083375,
+    "net_change_ha": 11.593326716494303,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 403984.0,
+    "alignment_overlap_ratio": 0.9374157394623569,
+    "coverage_by_year_ha": {
+      "2019": 463.29825783896825,
+      "2020": 464.7329706971269,
+      "2021": 461.2056289822896,
+      "2022": 455.6296280443382,
+      "2023": 467.2229547608324,
+      "2024": 473.4340726280482
+    },
+    "total_coverage_area_ha_2022": 455.6296280443382,
+    "total_coverage_area_ha_2023": 467.2229547608324
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 403984.0,
+    "overlap_ratio": 0.9374157394623569
+  }
+}

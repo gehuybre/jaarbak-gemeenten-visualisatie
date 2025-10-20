@@ -1,0 +1,54 @@
+{
+  "name": "Kapelle-op-den-Bos",
+  "niscode": "23039",
+  "slug": "kapelle-op-den-bos",
+  "relative_html": "23039_kapelle-op-den-bos.html",
+  "generated_at": "2025-10-20T10:30:51Z",
+  "bounds_latlon": [
+    [
+      50.96863452024688,
+      4.319488997550678
+    ],
+    [
+      51.03091200382042,
+      4.390365837267471
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1281460,
+    "new_coverage_pixels": 6208,
+    "removed_coverage_pixels": 7360,
+    "no_change_pixels": 1267892,
+    "new_coverage_percent": 0.48444742715340317,
+    "removed_coverage_percent": 0.5743448878622821,
+    "no_change_percent": 98.9412076849843,
+    "pixel_area_m2": 11.992006984420014,
+    "new_coverage_area_m2": 74446.37935927944,
+    "removed_coverage_area_m2": 88261.1714053313,
+    "new_coverage_area_ha": 7.444637935927944,
+    "removed_coverage_area_ha": 8.82611714053313,
+    "net_change_ha": -1.3814792046051858,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 437935.0,
+    "alignment_overlap_ratio": 0.9683942613018212,
+    "coverage_by_year_ha": {
+      "2019": 269.18098317718074,
+      "2020": 270.8442745459198,
+      "2021": 266.0450733507549,
+      "2022": 267.74314153974876,
+      "2023": 266.3616623351436,
+      "2024": 259.53821036100857
+    },
+    "total_coverage_area_ha_2022": 267.74314153974876,
+    "total_coverage_area_ha_2023": 266.3616623351436
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 437935.0,
+    "overlap_ratio": 0.9683942613018212
+  }
+}

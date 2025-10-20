@@ -1,0 +1,54 @@
+{
+  "name": "Moorslede",
+  "niscode": "36012",
+  "slug": "moorslede",
+  "relative_html": "36012_moorslede.html",
+  "generated_at": "2025-10-20T10:31:56Z",
+  "bounds_latlon": [
+    [
+      50.83617079893633,
+      3.026246607957323
+    ],
+    [
+      50.928425688473965,
+      3.135402162768279
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1381099,
+    "new_coverage_pixels": 11803,
+    "removed_coverage_pixels": 10101,
+    "no_change_pixels": 1359195,
+    "new_coverage_percent": 0.8546092640715837,
+    "removed_coverage_percent": 0.73137407238728,
+    "no_change_percent": 98.41401666354113,
+    "pixel_area_m2": 25.666645793146174,
+    "new_coverage_area_m2": 302943.4202965043,
+    "removed_coverage_area_m2": 259258.7891565695,
+    "new_coverage_area_ha": 30.294342029650426,
+    "removed_coverage_area_ha": 25.92587891565695,
+    "net_change_ha": 4.368463113993478,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 378968.0,
+    "alignment_overlap_ratio": 0.9461474317043577,
+    "coverage_by_year_ha": {
+      "2019": 483.8984064673434,
+      "2020": 489.82226831640156,
+      "2021": 489.3397353754904,
+      "2022": 483.12327376439043,
+      "2023": 487.4917368783839,
+      "2024": 489.1087355633521
+    },
+    "total_coverage_area_ha_2022": 483.12327376439043,
+    "total_coverage_area_ha_2023": 487.4917368783839
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 378968.0,
+    "overlap_ratio": 0.9461474317043577
+  }
+}

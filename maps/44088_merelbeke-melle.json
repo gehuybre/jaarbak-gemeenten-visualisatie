@@ -1,0 +1,54 @@
+{
+  "name": "Merelbeke-Melle",
+  "niscode": "44088",
+  "slug": "merelbeke-melle",
+  "relative_html": "44088_merelbeke-melle.html",
+  "generated_at": "2025-10-20T11:07:08Z",
+  "bounds_latlon": [
+    [
+      50.93340642507475,
+      3.681766470480905
+    ],
+    [
+      51.031173823387114,
+      3.8368030694578286
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1795306,
+    "new_coverage_pixels": 30363,
+    "removed_coverage_pixels": 21748,
+    "no_change_pixels": 1743195,
+    "new_coverage_percent": 1.691243721126092,
+    "removed_coverage_percent": 1.2113812352880233,
+    "no_change_percent": 97.09737504358588,
+    "pixel_area_m2": 29.154057107215312,
+    "new_coverage_area_m2": 885204.6359463786,
+    "removed_coverage_area_m2": 634042.4339677186,
+    "new_coverage_area_ha": 88.52046359463786,
+    "removed_coverage_area_ha": 63.40424339677186,
+    "net_change_ha": 25.116220197866,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 793496.0,
+    "alignment_overlap_ratio": 0.9435776936395289,
+    "coverage_by_year_ha": {
+      "2019": 1081.877905191653,
+      "2020": 1084.997389302125,
+      "2021": 1074.4698592807094,
+      "2022": 1085.0469511992073,
+      "2023": 1110.1631713970735,
+      "2024": 1126.1162714461416
+    },
+    "total_coverage_area_ha_2022": 1085.0469511992073,
+    "total_coverage_area_ha_2023": 1110.1631713970735
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 793496.0,
+    "overlap_ratio": 0.9435776936395289
+  }
+}

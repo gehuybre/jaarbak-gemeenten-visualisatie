@@ -1,0 +1,54 @@
+{
+  "name": "Oudenaarde",
+  "niscode": "45035",
+  "slug": "oudenaarde",
+  "relative_html": "45035_oudenaarde.html",
+  "generated_at": "2025-10-20T11:07:09Z",
+  "bounds_latlon": [
+    [
+      50.78988598710453,
+      3.539462226059971
+    ],
+    [
+      50.90427920977379,
+      3.698718625523648
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1732401,
+    "new_coverage_pixels": 22338,
+    "removed_coverage_pixels": 14869,
+    "no_change_pixels": 1695194,
+    "new_coverage_percent": 1.2894243307409774,
+    "removed_coverage_percent": 0.8582885833014411,
+    "no_change_percent": 97.85228708595758,
+    "pixel_area_m2": 39.78289142225584,
+    "new_coverage_area_m2": 888670.2285903508,
+    "removed_coverage_area_m2": 591531.8125575221,
+    "new_coverage_area_ha": 88.86702285903509,
+    "removed_coverage_area_ha": 59.15318125575221,
+    "net_change_ha": 29.71384160328288,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 404368.0,
+    "alignment_overlap_ratio": 0.9403600812996786,
+    "coverage_by_year_ha": {
+      "2019": 1140.822151002893,
+      "2020": 1129.3527434058565,
+      "2021": 1112.7433862370647,
+      "2022": 1126.94587847481,
+      "2023": 1156.6597200780927,
+      "2024": 1195.074080035423
+    },
+    "total_coverage_area_ha_2022": 1126.94587847481,
+    "total_coverage_area_ha_2023": 1156.6597200780927
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 404368.0,
+    "overlap_ratio": 0.9403600812996786
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "De Panne",
+  "niscode": "38008",
+  "slug": "de-panne",
+  "relative_html": "38008_de-panne.html",
+  "generated_at": "2025-10-20T10:32:03Z",
+  "bounds_latlon": [
+    [
+      51.04579323492873,
+      2.540579178938936
+    ],
+    [
+      51.11423766601985,
+      2.6356894270102624
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1913214,
+    "new_coverage_pixels": 27455,
+    "removed_coverage_pixels": 174306,
+    "no_change_pixels": 1711453,
+    "new_coverage_percent": 1.4350198148246875,
+    "removed_coverage_percent": 9.110637910866219,
+    "no_change_percent": 89.4543422743091,
+    "pixel_area_m2": 13.918047177481894,
+    "new_coverage_area_m2": 382119.9852577654,
+    "removed_coverage_area_m2": 2425999.131318159,
+    "new_coverage_area_ha": 38.211998525776536,
+    "removed_coverage_area_ha": 242.5999131318159,
+    "net_change_ha": -204.38791460603937,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 960647.0,
+    "alignment_overlap_ratio": 0.8071178497402579,
+    "coverage_by_year_ha": {
+      "2019": 567.0991830748062,
+      "2020": 572.7638282760413,
+      "2021": 574.5703907996785,
+      "2022": 576.9072309207777,
+      "2023": 372.5193163147384,
+      "2024": 385.3294869368927
+    },
+    "total_coverage_area_ha_2022": 576.9072309207777,
+    "total_coverage_area_ha_2023": 372.5193163147384
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 960647.0,
+    "overlap_ratio": 0.8071178497402579
+  }
+}

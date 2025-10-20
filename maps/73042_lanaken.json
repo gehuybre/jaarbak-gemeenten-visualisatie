@@ -1,0 +1,54 @@
+{
+  "name": "Lanaken",
+  "niscode": "73042",
+  "slug": "lanaken",
+  "relative_html": "73042_lanaken.html",
+  "generated_at": "2025-10-20T11:30:38Z",
+  "bounds_latlon": [
+    [
+      50.83227006041158,
+      5.569003859151489
+    ],
+    [
+      50.945148786938304,
+      5.725244270184764
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1540507,
+    "new_coverage_pixels": 9711,
+    "removed_coverage_pixels": 7292,
+    "no_change_pixels": 1523504,
+    "new_coverage_percent": 0.6303768824159838,
+    "removed_coverage_percent": 0.4733506566344716,
+    "no_change_percent": 98.89627246094955,
+    "pixel_area_m2": 38.26898629647691,
+    "new_coverage_area_m2": 371630.12592508725,
+    "removed_coverage_area_m2": 279057.4480739096,
+    "new_coverage_area_ha": 37.16301259250873,
+    "removed_coverage_area_ha": 27.905744807390963,
+    "net_change_ha": 9.257267785117765,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1304692.0,
+    "alignment_overlap_ratio": 0.9919952555466006,
+    "coverage_by_year_ha": {
+      "2019": 890.1940247354977,
+      "2020": 901.0662437423268,
+      "2021": 892.1725313270256,
+      "2022": 915.7615344801739,
+      "2023": 925.0188022652917,
+      "2024": 927.7856499745268
+    },
+    "total_coverage_area_ha_2022": 915.7615344801739,
+    "total_coverage_area_ha_2023": 925.0188022652917
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1304692.0,
+    "overlap_ratio": 0.9919952555466006
+  }
+}

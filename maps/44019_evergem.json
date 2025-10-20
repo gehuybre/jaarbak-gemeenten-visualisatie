@@ -1,0 +1,54 @@
+{
+  "name": "Evergem",
+  "niscode": "44019",
+  "slug": "evergem",
+  "relative_html": "44019_evergem.html",
+  "generated_at": "2025-10-20T10:34:04Z",
+  "bounds_latlon": [
+    [
+      51.087006430229984,
+      3.6317137543631834
+    ],
+    [
+      51.19905268323372,
+      3.800573152334633
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1972457,
+    "new_coverage_pixels": 34873,
+    "removed_coverage_pixels": 20575,
+    "no_change_pixels": 1917009,
+    "new_coverage_percent": 1.7679979842399607,
+    "removed_coverage_percent": 1.043115261828268,
+    "no_change_percent": 97.18888675393177,
+    "pixel_area_m2": 38.214986074194904,
+    "new_coverage_area_m2": 1332671.2093653989,
+    "removed_coverage_area_m2": 786273.3384765602,
+    "new_coverage_area_ha": 133.2671209365399,
+    "removed_coverage_area_ha": 78.62733384765602,
+    "net_change_ha": 54.63978708888388,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 801893.0,
+    "alignment_overlap_ratio": 0.9521645635904006,
+    "coverage_by_year_ha": {
+      "2019": 1279.2122653462077,
+      "2020": 1305.515640261076,
+      "2021": 1284.4973979202687,
+      "2022": 1347.3419425192824,
+      "2023": 1401.9817296081662,
+      "2024": 1427.7348087235662
+    },
+    "total_coverage_area_ha_2022": 1347.3419425192824,
+    "total_coverage_area_ha_2023": 1401.9817296081662
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 801893.0,
+    "overlap_ratio": 0.9521645635904006
+  }
+}

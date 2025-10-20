@@ -1,0 +1,54 @@
+{
+  "name": "Berlare",
+  "niscode": "42003",
+  "slug": "berlare",
+  "relative_html": "42003_berlare.html",
+  "generated_at": "2025-10-20T10:32:13Z",
+  "bounds_latlon": [
+    [
+      51.003862097585326,
+      3.9281205635735974
+    ],
+    [
+      51.07414568027355,
+      4.041925500180996
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2424575,
+    "new_coverage_pixels": 25533,
+    "removed_coverage_pixels": 20226,
+    "no_change_pixels": 2378816,
+    "new_coverage_percent": 1.0530917789715724,
+    "removed_coverage_percent": 0.834208057082169,
+    "no_change_percent": 98.11270016394626,
+    "pixel_area_m2": 15.766430859182611,
+    "new_coverage_area_m2": 402564.2791275096,
+    "removed_coverage_area_m2": 318891.8305578275,
+    "new_coverage_area_ha": 40.256427912750965,
+    "removed_coverage_area_ha": 31.88918305578275,
+    "net_change_ha": 8.367244856968217,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 553584.0,
+    "alignment_overlap_ratio": 0.9376724521961242,
+    "coverage_by_year_ha": {
+      "2019": 470.1328952176226,
+      "2020": 472.23613709423756,
+      "2021": 464.2740895103503,
+      "2022": 476.3464456192264,
+      "2023": 484.7136904761947,
+      "2024": 492.57956283184086
+    },
+    "total_coverage_area_ha_2022": 476.3464456192264,
+    "total_coverage_area_ha_2023": 484.7136904761947
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 553584.0,
+    "overlap_ratio": 0.9376724521961242
+  }
+}

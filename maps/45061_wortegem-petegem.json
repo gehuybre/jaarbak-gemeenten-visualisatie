@@ -1,0 +1,54 @@
+{
+  "name": "Wortegem-Petegem",
+  "niscode": "45061",
+  "slug": "wortegem-petegem",
+  "relative_html": "45061_wortegem-petegem.html",
+  "generated_at": "2025-10-20T11:23:12Z",
+  "bounds_latlon": [
+    [
+      50.80481393673963,
+      3.450952794825455
+    ],
+    [
+      50.88710251667594,
+      3.5897721227990043
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1815568,
+    "new_coverage_pixels": 21073,
+    "removed_coverage_pixels": 10113,
+    "no_change_pixels": 1784382,
+    "new_coverage_percent": 1.160683598741551,
+    "removed_coverage_percent": 0.5570157658650076,
+    "no_change_percent": 98.28230063539344,
+    "pixel_area_m2": 23.39349094933836,
+    "new_coverage_area_m2": 492971.0347754073,
+    "removed_coverage_area_m2": 236578.37397065884,
+    "new_coverage_area_ha": 49.29710347754073,
+    "removed_coverage_area_ha": 23.657837397065883,
+    "net_change_ha": 25.639266080474847,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 329962.0,
+    "alignment_overlap_ratio": 0.9326941287209595,
+    "coverage_by_year_ha": {
+      "2019": 348.050697693351,
+      "2020": 343.2831042378759,
+      "2021": 338.89448533578,
+      "2022": 345.02357996450667,
+      "2023": 370.6628460449815,
+      "2024": 406.07357329499496
+    },
+    "total_coverage_area_ha_2022": 345.02357996450667,
+    "total_coverage_area_ha_2023": 370.6628460449815
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 329962.0,
+    "overlap_ratio": 0.9326941287209595
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Torhout",
+  "niscode": "31033",
+  "slug": "torhout",
+  "relative_html": "31033_torhout.html",
+  "generated_at": "2025-10-20T10:31:28Z",
+  "bounds_latlon": [
+    [
+      51.013110839773454,
+      3.042333545798415
+    ],
+    [
+      51.10480291715609,
+      3.1593048173566007
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1790104,
+    "new_coverage_pixels": 24074,
+    "removed_coverage_pixels": 15042,
+    "no_change_pixels": 1750988,
+    "new_coverage_percent": 1.3448380652744198,
+    "removed_coverage_percent": 0.8402863744229385,
+    "no_change_percent": 97.81487556030264,
+    "pixel_area_m2": 25.32015981799829,
+    "new_coverage_area_m2": 609557.5274584909,
+    "removed_coverage_area_m2": 380865.8439823303,
+    "new_coverage_area_ha": 60.95575274584909,
+    "removed_coverage_area_ha": 38.08658439823303,
+    "net_change_ha": 22.86916834761606,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 492726.0,
+    "alignment_overlap_ratio": 0.950315051293475,
+    "coverage_by_year_ha": {
+      "2019": 743.3441879048303,
+      "2020": 747.8283882085977,
+      "2021": 753.0823213708323,
+      "2022": 755.0902100443997,
+      "2023": 777.9593783920157,
+      "2024": 788.8900913854455
+    },
+    "total_coverage_area_ha_2022": 755.0902100443997,
+    "total_coverage_area_ha_2023": 777.9593783920157
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 492726.0,
+    "overlap_ratio": 0.950315051293475
+  }
+}

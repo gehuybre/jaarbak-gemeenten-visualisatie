@@ -1,0 +1,54 @@
+{
+  "name": "Zedelgem",
+  "niscode": "31040",
+  "slug": "zedelgem",
+  "relative_html": "31040_zedelgem.html",
+  "generated_at": "2025-10-20T10:31:29Z",
+  "bounds_latlon": [
+    [
+      51.08287840400858,
+      3.0564412541320265
+    ],
+    [
+      51.1678374373585,
+      3.2171531272522125
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1969385,
+    "new_coverage_pixels": 28999,
+    "removed_coverage_pixels": 16512,
+    "no_change_pixels": 1923874,
+    "new_coverage_percent": 1.4724901428618578,
+    "removed_coverage_percent": 0.8384343335609847,
+    "no_change_percent": 97.68907552357716,
+    "pixel_area_m2": 30.80138657993852,
+    "new_coverage_area_m2": 893209.4094316371,
+    "removed_coverage_area_m2": 508592.4952079448,
+    "new_coverage_area_ha": 89.32094094316372,
+    "removed_coverage_area_ha": 50.859249520794485,
+    "net_change_ha": 38.461691422369235,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 431980.0,
+    "alignment_overlap_ratio": 0.9370925790545773,
+    "coverage_by_year_ha": {
+      "2019": 932.8600343759921,
+      "2020": 956.0750394412917,
+      "2021": 954.9600292470979,
+      "2022": 948.1190412876936,
+      "2023": 986.5807327100628,
+      "2024": 1012.9436394838322
+    },
+    "total_coverage_area_ha_2022": 948.1190412876936,
+    "total_coverage_area_ha_2023": 986.5807327100628
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 431980.0,
+    "overlap_ratio": 0.9370925790545773
+  }
+}

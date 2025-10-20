@@ -1,0 +1,54 @@
+{
+  "name": "Ieper",
+  "niscode": "33011",
+  "slug": "ieper",
+  "relative_html": "33011_ieper.html",
+  "generated_at": "2025-10-20T10:31:35Z",
+  "bounds_latlon": [
+    [
+      50.7914699103756,
+      2.7665072626229503
+    ],
+    [
+      50.940483865765096,
+      2.9776268885984742
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1982196,
+    "new_coverage_pixels": 38685,
+    "removed_coverage_pixels": 33373,
+    "no_change_pixels": 1910138,
+    "new_coverage_percent": 1.9516233510712362,
+    "removed_coverage_percent": 1.6836377431898764,
+    "no_change_percent": 96.36473890573889,
+    "pixel_area_m2": 66.32048162670645,
+    "new_coverage_area_m2": 2565607.831729139,
+    "removed_coverage_area_m2": 2213313.4333280744,
+    "new_coverage_area_ha": 256.56078317291394,
+    "removed_coverage_area_ha": 221.33134333280745,
+    "net_change_ha": 35.229439840106494,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 332879.0,
+    "alignment_overlap_ratio": 0.8583957379213599,
+    "coverage_by_year_ha": {
+      "2019": 1574.2890646621072,
+      "2020": 1591.7976718115576,
+      "2021": 1600.2734293634505,
+      "2022": 1586.8634279785308,
+      "2023": 1622.0928678186372,
+      "2024": 1667.9203206226914
+    },
+    "total_coverage_area_ha_2022": 1586.8634279785308,
+    "total_coverage_area_ha_2023": 1622.0928678186372
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 332879.0,
+    "overlap_ratio": 0.8583957379213599
+  }
+}

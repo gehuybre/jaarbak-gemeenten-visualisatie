@@ -1,0 +1,54 @@
+{
+  "name": "Hasselt",
+  "niscode": "71072",
+  "slug": "hasselt",
+  "relative_html": "71072_hasselt.html",
+  "generated_at": "2025-10-20T11:30:25Z",
+  "bounds_latlon": [
+    [
+      50.80742221771457,
+      5.20999469696253
+    ],
+    [
+      50.98233800269389,
+      5.453127102290563
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1476574,
+    "new_coverage_pixels": 23840,
+    "removed_coverage_pixels": 18198,
+    "no_change_pixels": 1434536,
+    "new_coverage_percent": 1.6145482718780093,
+    "removed_coverage_percent": 1.232447544112249,
+    "no_change_percent": 97.15300418400975,
+    "pixel_area_m2": 92.56436574144463,
+    "new_coverage_area_m2": 2206734.47927604,
+    "removed_coverage_area_m2": 1684486.3277628093,
+    "new_coverage_area_ha": 220.673447927604,
+    "removed_coverage_area_ha": 168.44863277628093,
+    "net_change_ha": 52.22481515132307,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 516222.0,
+    "alignment_overlap_ratio": 0.9322579654815588,
+    "coverage_by_year_ha": {
+      "2019": 2586.2206095062406,
+      "2020": 2613.2031221198718,
+      "2021": 2626.754545264419,
+      "2022": 2598.9019276128183,
+      "2023": 2651.1267427641415,
+      "2024": 2665.5112452003623
+    },
+    "total_coverage_area_ha_2022": 2598.9019276128183,
+    "total_coverage_area_ha_2023": 2651.1267427641415
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 516222.0,
+    "overlap_ratio": 0.9322579654815588
+  }
+}

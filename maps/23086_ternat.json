@@ -1,0 +1,54 @@
+{
+  "name": "Ternat",
+  "niscode": "23086",
+  "slug": "ternat",
+  "relative_html": "23086_ternat.html",
+  "generated_at": "2025-10-20T10:30:57Z",
+  "bounds_latlon": [
+    [
+      50.840595700852056,
+      4.106080464914328
+    ],
+    [
+      50.889787494177014,
+      4.206942593894373
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1969040,
+    "new_coverage_pixels": 23842,
+    "removed_coverage_pixels": 22069,
+    "no_change_pixels": 1923129,
+    "new_coverage_percent": 1.210843862999228,
+    "removed_coverage_percent": 1.1207999837484257,
+    "no_change_percent": 97.66835615325235,
+    "pixel_area_m2": 12.549519189881986,
+    "new_coverage_area_m2": 299205.6365251663,
+    "removed_coverage_area_m2": 276955.3390015055,
+    "new_coverage_area_ha": 29.920563652516627,
+    "removed_coverage_area_ha": 27.69553390015055,
+    "net_change_ha": 2.2250297523660763,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 492472.0,
+    "alignment_overlap_ratio": 0.9377043312026718,
+    "coverage_by_year_ha": {
+      "2019": 483.98099222123165,
+      "2020": 486.1909625505699,
+      "2021": 487.13845124940605,
+      "2022": 485.54717221612896,
+      "2023": 487.7722019684951,
+      "2024": 477.774000029916
+    },
+    "total_coverage_area_ha_2022": 485.54717221612896,
+    "total_coverage_area_ha_2023": 487.7722019684951
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 492472.0,
+    "overlap_ratio": 0.9377043312026718
+  }
+}

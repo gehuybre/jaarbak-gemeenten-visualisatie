@@ -1,0 +1,54 @@
+{
+  "name": "Affligem",
+  "niscode": "23105",
+  "slug": "affligem",
+  "relative_html": "23105_affligem.html",
+  "generated_at": "2025-10-20T10:31:04Z",
+  "bounds_latlon": [
+    [
+      50.88308538411182,
+      4.074033542139689
+    ],
+    [
+      50.93257567180962,
+      4.150523592392673
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2381017,
+    "new_coverage_pixels": 31772,
+    "removed_coverage_pixels": 26924,
+    "no_change_pixels": 2322321,
+    "new_coverage_percent": 1.3343877847155228,
+    "removed_coverage_percent": 1.1307773107037875,
+    "no_change_percent": 97.53483490458069,
+    "pixel_area_m2": 7.527074475590732,
+    "new_coverage_area_m2": 239150.21023846875,
+    "removed_coverage_area_m2": 202658.95318080488,
+    "new_coverage_area_ha": 23.915021023846876,
+    "removed_coverage_area_ha": 20.26589531808049,
+    "net_change_ha": 3.6491257057663873,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 677038.0,
+    "alignment_overlap_ratio": 0.944053009017501,
+    "coverage_by_year_ha": {
+      "2019": 339.00513293910296,
+      "2020": 340.1567753338683,
+      "2021": 341.3498166382494,
+      "2022": 343.9955833164196,
+      "2023": 347.644709022186,
+      "2024": 344.78667884380417
+    },
+    "total_coverage_area_ha_2022": 343.9955833164196,
+    "total_coverage_area_ha_2023": 347.644709022186
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 677038.0,
+    "overlap_ratio": 0.944053009017501
+  }
+}

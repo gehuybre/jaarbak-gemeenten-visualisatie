@@ -1,0 +1,54 @@
+{
+  "name": "Westerlo",
+  "niscode": "13049",
+  "slug": "westerlo",
+  "relative_html": "13049_westerlo.html",
+  "generated_at": "2025-10-20T10:30:44Z",
+  "bounds_latlon": [
+    [
+      51.06329341458084,
+      4.811380170173343
+    ],
+    [
+      51.14828859839371,
+      4.950657127064112
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2362318,
+    "new_coverage_pixels": 17364,
+    "removed_coverage_pixels": 10946,
+    "no_change_pixels": 2334008,
+    "new_coverage_percent": 0.7350407523457891,
+    "removed_coverage_percent": 0.4633584470846008,
+    "no_change_percent": 98.80160080056962,
+    "pixel_area_m2": 23.472500040383387,
+    "new_coverage_area_m2": 407576.49070121715,
+    "removed_coverage_area_m2": 256929.98544203656,
+    "new_coverage_area_ha": 40.757649070121715,
+    "removed_coverage_area_ha": 25.692998544203657,
+    "net_change_ha": 15.064650525918058,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 680489.0,
+    "alignment_overlap_ratio": 0.9741854575596153,
+    "coverage_by_year_ha": {
+      "2019": 970.5080701697158,
+      "2020": 994.3303104607008,
+      "2021": 987.8002609494662,
+      "2022": 981.2749059382396,
+      "2023": 996.3395564641577,
+      "2024": 1000.0646422205666
+    },
+    "total_coverage_area_ha_2022": 981.2749059382396,
+    "total_coverage_area_ha_2023": 996.3395564641577
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 680489.0,
+    "overlap_ratio": 0.9741854575596153
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Niel",
+  "niscode": "11030",
+  "slug": "niel",
+  "relative_html": "11030_niel.html",
+  "generated_at": "2025-10-20T10:30:14Z",
+  "bounds_latlon": [
+    [
+      51.09508642720486,
+      4.307832723972328
+    ],
+    [
+      51.11609048132971,
+      4.363188750716523
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1423677,
+    "new_coverage_pixels": 34829,
+    "removed_coverage_pixels": 3368,
+    "no_change_pixels": 1385480,
+    "new_coverage_percent": 2.4464116509573453,
+    "removed_coverage_percent": 0.23657051423883368,
+    "no_change_percent": 97.31701783480382,
+    "pixel_area_m2": 3.755377599821955,
+    "new_coverage_area_m2": 130796.04642419887,
+    "removed_coverage_area_m2": 12648.111756200344,
+    "new_coverage_area_ha": 13.079604642419886,
+    "removed_coverage_area_ha": 1.2648111756200344,
+    "net_change_ha": 11.814793466799852,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 712364.0,
+    "alignment_overlap_ratio": 0.9885610325739272,
+    "coverage_by_year_ha": {
+      "2019": 163.5662224357652,
+      "2020": 165.26327757312475,
+      "2021": 165.93173478589307,
+      "2022": 164.97035812033863,
+      "2023": 176.7851515871385,
+      "2024": 187.9427539739695
+    },
+    "total_coverage_area_ha_2022": 164.97035812033863,
+    "total_coverage_area_ha_2023": 176.7851515871385
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 712364.0,
+    "overlap_ratio": 0.9885610325739272
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Oud-Heverlee",
+  "niscode": "24086",
+  "slug": "oud-heverlee",
+  "relative_html": "24086_oud-heverlee.html",
+  "generated_at": "2025-10-20T10:31:18Z",
+  "bounds_latlon": [
+    [
+      50.79069070706109,
+      4.631979759703685
+    ],
+    [
+      50.85234833529742,
+      4.746740546902334
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1921528,
+    "new_coverage_pixels": 8621,
+    "removed_coverage_pixels": 3486,
+    "no_change_pixels": 1909421,
+    "new_coverage_percent": 0.4486533633649887,
+    "removed_coverage_percent": 0.18141812141170985,
+    "no_change_percent": 99.36992851522331,
+    "pixel_area_m2": 16.228148788250387,
+    "new_coverage_area_m2": 139902.87070350657,
+    "removed_coverage_area_m2": 56571.32667584085,
+    "new_coverage_area_ha": 13.990287070350657,
+    "removed_coverage_area_ha": 5.657132667584085,
+    "net_change_ha": 8.333154402766572,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 498962.0,
+    "alignment_overlap_ratio": 0.9848199852759186,
+    "coverage_by_year_ha": {
+      "2019": 294.1173458233712,
+      "2020": 296.58727006894287,
+      "2021": 291.6896147646489,
+      "2022": 296.697621480703,
+      "2023": 305.0307758834696,
+      "2024": 315.12630724464015
+    },
+    "total_coverage_area_ha_2022": 296.697621480703,
+    "total_coverage_area_ha_2023": 305.0307758834696
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 498962.0,
+    "overlap_ratio": 0.9848199852759186
+  }
+}

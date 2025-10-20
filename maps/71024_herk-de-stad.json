@@ -1,0 +1,54 @@
+{
+  "name": "Herk-de-Stad",
+  "niscode": "71024",
+  "slug": "herk-de-stad",
+  "relative_html": "71024_herk-de-stad.html",
+  "generated_at": "2025-10-20T11:30:18Z",
+  "bounds_latlon": [
+    [
+      50.89227476380834,
+      5.115648691932499
+    ],
+    [
+      50.9717887048815,
+      5.231022114633447
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2243009,
+    "new_coverage_pixels": 10339,
+    "removed_coverage_pixels": 6427,
+    "no_change_pixels": 2226243,
+    "new_coverage_percent": 0.4609433132011508,
+    "removed_coverage_percent": 0.28653473971794136,
+    "no_change_percent": 99.25252194708091,
+    "pixel_area_m2": 19.18364593464395,
+    "new_coverage_area_m2": 198339.7153182838,
+    "removed_coverage_area_m2": 123293.29242195665,
+    "new_coverage_area_ha": 19.83397153182838,
+    "removed_coverage_area_ha": 12.329329242195666,
+    "net_change_ha": 7.504642289632713,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 405385.0,
+    "alignment_overlap_ratio": 0.9759588416138826,
+    "coverage_by_year_ha": {
+      "2019": 516.5944830094334,
+      "2020": 516.7172583434151,
+      "2021": 512.1477138817829,
+      "2022": 524.0012887047994,
+      "2023": 531.5059309944321,
+      "2024": 540.4301630832285
+    },
+    "total_coverage_area_ha_2022": 524.0012887047994,
+    "total_coverage_area_ha_2023": 531.5059309944321
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 405385.0,
+    "overlap_ratio": 0.9759588416138826
+  }
+}

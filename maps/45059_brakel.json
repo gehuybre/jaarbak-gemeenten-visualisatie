@@ -1,0 +1,54 @@
+{
+  "name": "Brakel",
+  "niscode": "45059",
+  "slug": "brakel",
+  "relative_html": "45059_brakel.html",
+  "generated_at": "2025-10-20T11:07:11Z",
+  "bounds_latlon": [
+    [
+      50.74708036021656,
+      3.6986582475107306
+    ],
+    [
+      50.84761224768395,
+      3.82017379075834
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1844348,
+    "new_coverage_pixels": 16806,
+    "removed_coverage_pixels": 11957,
+    "no_change_pixels": 1815585,
+    "new_coverage_percent": 0.9112163214317471,
+    "removed_coverage_percent": 0.6483049836581817,
+    "no_change_percent": 98.44047869491007,
+    "pixel_area_m2": 30.885988249859277,
+    "new_coverage_area_m2": 519069.91852713504,
+    "removed_coverage_area_m2": 369303.7615035674,
+    "new_coverage_area_ha": 51.9069918527135,
+    "removed_coverage_area_ha": 36.93037615035674,
+    "net_change_ha": 14.97661570235676,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 664375.0,
+    "alignment_overlap_ratio": 0.9764405023478664,
+    "coverage_by_year_ha": {
+      "2019": 523.5514754221896,
+      "2020": 517.1951390403685,
+      "2021": 514.8045635498295,
+      "2022": 518.9463745741356,
+      "2023": 533.9229902764924,
+      "2024": 562.1249861474388
+    },
+    "total_coverage_area_ha_2022": 518.9463745741356,
+    "total_coverage_area_ha_2023": 533.9229902764924
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 664375.0,
+    "overlap_ratio": 0.9764405023478664
+  }
+}

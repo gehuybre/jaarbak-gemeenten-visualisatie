@@ -1,0 +1,54 @@
+{
+  "name": "Ingelmunster",
+  "niscode": "36007",
+  "slug": "ingelmunster",
+  "relative_html": "36007_ingelmunster.html",
+  "generated_at": "2025-10-20T10:31:54Z",
+  "bounds_latlon": [
+    [
+      50.896177024358444,
+      3.2297195526096907
+    ],
+    [
+      50.94770843508659,
+      3.2979954601692705
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2049066,
+    "new_coverage_pixels": 28710,
+    "removed_coverage_pixels": 30115,
+    "no_change_pixels": 1990241,
+    "new_coverage_percent": 1.4011261716313677,
+    "removed_coverage_percent": 1.4696939971674898,
+    "no_change_percent": 97.12917983120114,
+    "pixel_area_m2": 8.016918081019641,
+    "new_coverage_area_m2": 230165.7181060739,
+    "removed_coverage_area_m2": 241429.4880099065,
+    "new_coverage_area_ha": 23.01657181060739,
+    "removed_coverage_area_ha": 24.14294880099065,
+    "net_change_ha": -1.1263769903832568,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 754428.0,
+    "alignment_overlap_ratio": 0.9453522948126595,
+    "coverage_by_year_ha": {
+      "2019": 443.5512249767655,
+      "2020": 447.265463123702,
+      "2021": 452.10447487740544,
+      "2022": 449.5999896688949,
+      "2023": 448.47361267851164,
+      "2024": 446.93757117418824
+    },
+    "total_coverage_area_ha_2022": 449.5999896688949,
+    "total_coverage_area_ha_2023": 448.47361267851164
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 754428.0,
+    "overlap_ratio": 0.9453522948126595
+  }
+}

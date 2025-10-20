@@ -1,0 +1,54 @@
+{
+  "name": "Diksmuide",
+  "niscode": "32003",
+  "slug": "diksmuide",
+  "relative_html": "32003_diksmuide.html",
+  "generated_at": "2025-10-20T10:31:31Z",
+  "bounds_latlon": [
+    [
+      50.973234422244715,
+      2.7404228311169967
+    ],
+    [
+      51.116906296078675,
+      2.9541753876203876
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2450893,
+    "new_coverage_pixels": 30460,
+    "removed_coverage_pixels": 26188,
+    "no_change_pixels": 2394245,
+    "new_coverage_percent": 1.242812313715858,
+    "removed_coverage_percent": 1.0685084987390312,
+    "no_change_percent": 97.68867918754512,
+    "pixel_area_m2": 61.503204809180694,
+    "new_coverage_area_m2": 1873387.618487644,
+    "removed_coverage_area_m2": 1610645.927542824,
+    "new_coverage_area_ha": 187.3387618487644,
+    "removed_coverage_area_ha": 161.06459275428242,
+    "net_change_ha": 26.274169094481977,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 206212.0,
+    "alignment_overlap_ratio": 0.8378957120276953,
+    "coverage_by_year_ha": {
+      "2019": 994.2546586247341,
+      "2020": 1009.7042636728004,
+      "2021": 1014.384657558779,
+      "2022": 1016.0083421657413,
+      "2023": 1042.2825112602234,
+      "2024": 1049.2569746855845
+    },
+    "total_coverage_area_ha_2022": 1016.0083421657413,
+    "total_coverage_area_ha_2023": 1042.2825112602234
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 206212.0,
+    "overlap_ratio": 0.8378957120276953
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Dilbeek",
+  "niscode": "23016",
+  "slug": "dilbeek",
+  "relative_html": "23016_dilbeek.html",
+  "generated_at": "2025-10-20T10:30:48Z",
+  "bounds_latlon": [
+    [
+      50.812513563560046,
+      4.16582468676099
+    ],
+    [
+      50.89082507325592,
+      4.28991730642314
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2181240,
+    "new_coverage_pixels": 18565,
+    "removed_coverage_pixels": 21872,
+    "no_change_pixels": 2140803,
+    "new_coverage_percent": 0.8511213804991656,
+    "removed_coverage_percent": 1.0027323907502155,
+    "no_change_percent": 98.14614622875062,
+    "pixel_area_m2": 19.016497023689947,
+    "new_coverage_area_m2": 353041.2672448039,
+    "removed_coverage_area_m2": 415928.8229021465,
+    "new_coverage_area_ha": 35.30412672448039,
+    "removed_coverage_area_ha": 41.592882290214646,
+    "net_change_ha": -6.288755565734256,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1156238.0,
+    "alignment_overlap_ratio": 0.9715967291828251,
+    "coverage_by_year_ha": {
+      "2019": 949.5545491833149,
+      "2020": 956.3624551177958,
+      "2021": 958.321154311236,
+      "2022": 952.504007871689,
+      "2023": 946.2152523059549,
+      "2024": 934.2101377348995
+    },
+    "total_coverage_area_ha_2022": 952.504007871689,
+    "total_coverage_area_ha_2023": 946.2152523059549
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1156238.0,
+    "overlap_ratio": 0.9715967291828251
+  }
+}

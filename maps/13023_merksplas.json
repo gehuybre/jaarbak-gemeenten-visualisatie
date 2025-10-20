@@ -1,0 +1,54 @@
+{
+  "name": "Merksplas",
+  "niscode": "13023",
+  "slug": "merksplas",
+  "relative_html": "13023_merksplas.html",
+  "generated_at": "2025-10-20T10:30:38Z",
+  "bounds_latlon": [
+    [
+      51.33631735222297,
+      4.808385558068731
+    ],
+    [
+      51.41243096908197,
+      4.933721154639982
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2373054,
+    "new_coverage_pixels": 9889,
+    "removed_coverage_pixels": 11669,
+    "no_change_pixels": 2351496,
+    "new_coverage_percent": 0.416720394900411,
+    "removed_coverage_percent": 0.49172922318666157,
+    "no_change_percent": 99.09155038191292,
+    "pixel_area_m2": 18.79461601171674,
+    "new_coverage_area_m2": 185859.95773986686,
+    "removed_coverage_area_m2": 219314.37424072265,
+    "new_coverage_area_ha": 18.585995773986685,
+    "removed_coverage_area_ha": 21.931437424072264,
+    "net_change_ha": -3.3454416500855793,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 487164.0,
+    "alignment_overlap_ratio": 0.9687248952061278,
+    "coverage_by_year_ha": {
+      "2019": 525.0764642889376,
+      "2020": 540.4109914928973,
+      "2021": 544.9987572613574,
+      "2022": 548.0228109776426,
+      "2023": 544.677369327557,
+      "2024": 541.6044496096414
+    },
+    "total_coverage_area_ha_2022": 548.0228109776426,
+    "total_coverage_area_ha_2023": 544.677369327557
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 487164.0,
+    "overlap_ratio": 0.9687248952061278
+  }
+}

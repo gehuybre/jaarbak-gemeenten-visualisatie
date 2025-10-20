@@ -1,0 +1,54 @@
+{
+  "name": "Aarschot",
+  "niscode": "24001",
+  "slug": "aarschot",
+  "relative_html": "24001_aarschot.html",
+  "generated_at": "2025-10-20T10:31:06Z",
+  "bounds_latlon": [
+    [
+      50.95269464397146,
+      4.773745248883759
+    ],
+    [
+      51.03814802104461,
+      4.9364964612990745
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1952791,
+    "new_coverage_pixels": 11141,
+    "removed_coverage_pixels": 4655,
+    "no_change_pixels": 1936995,
+    "new_coverage_percent": 0.5705167629305953,
+    "removed_coverage_percent": 0.23837676433371519,
+    "no_change_percent": 99.1911064727357,
+    "pixel_area_m2": 32.284713308556455,
+    "new_coverage_area_m2": 359683.99097062746,
+    "removed_coverage_area_m2": 150285.3404513303,
+    "new_coverage_area_ha": 35.96839909706274,
+    "removed_coverage_area_ha": 15.02853404513303,
+    "net_change_ha": 20.939865051929715,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 497864.0,
+    "alignment_overlap_ratio": 0.9845319031968455,
+    "coverage_by_year_ha": {
+      "2019": 1027.8968446744748,
+      "2020": 1043.7550958516376,
+      "2021": 1026.2826090090468,
+      "2022": 1033.3271334529738,
+      "2023": 1054.2669985049035,
+      "2024": 1087.6784483079286
+    },
+    "total_coverage_area_ha_2022": 1033.3271334529738,
+    "total_coverage_area_ha_2023": 1054.2669985049035
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 497864.0,
+    "overlap_ratio": 0.9845319031968455
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Lochristi",
+  "niscode": "44087",
+  "slug": "lochristi",
+  "relative_html": "44087_lochristi.html",
+  "generated_at": "2025-10-20T11:07:08Z",
+  "bounds_latlon": [
+    [
+      51.049894248991244,
+      3.785121345028382
+    ],
+    [
+      51.22315665547565,
+      3.9235761812123555
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1032752,
+    "new_coverage_pixels": 29449,
+    "removed_coverage_pixels": 26260,
+    "no_change_pixels": 977043,
+    "new_coverage_percent": 2.851507428695369,
+    "removed_coverage_percent": 2.5427208080933275,
+    "no_change_percent": 94.6057717632113,
+    "pixel_area_m2": 92.26591975672935,
+    "new_coverage_area_m2": 2717139.0709159225,
+    "removed_coverage_area_m2": 2422903.0528117125,
+    "new_coverage_area_ha": 271.71390709159226,
+    "removed_coverage_area_ha": 242.29030528117124,
+    "net_change_ha": 29.42360181042102,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 389317.0,
+    "alignment_overlap_ratio": 0.8876093503840515,
+    "coverage_by_year_ha": {
+      "2019": 1426.2834939674249,
+      "2020": 1439.5328800444913,
+      "2021": 1375.278893525905,
+      "2022": 1363.422722837165,
+      "2023": 1392.8463246475862,
+      "2024": 1408.3469991667168
+    },
+    "total_coverage_area_ha_2022": 1363.422722837165,
+    "total_coverage_area_ha_2023": 1392.8463246475862
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 389317.0,
+    "overlap_ratio": 0.8876093503840515
+  }
+}

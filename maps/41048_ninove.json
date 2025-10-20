@@ -1,0 +1,54 @@
+{
+  "name": "Ninove",
+  "niscode": "41048",
+  "slug": "ninove",
+  "relative_html": "41048_ninove.html",
+  "generated_at": "2025-10-20T10:32:10Z",
+  "bounds_latlon": [
+    [
+      50.770841826555596,
+      3.9178407583216437
+    ],
+    [
+      50.8718415007248,
+      4.075762422518386
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2340372,
+    "new_coverage_pixels": 27696,
+    "removed_coverage_pixels": 17287,
+    "no_change_pixels": 2295389,
+    "new_coverage_percent": 1.1834016130768954,
+    "removed_coverage_percent": 0.7386432584221654,
+    "no_change_percent": 98.07795512850093,
+    "pixel_area_m2": 31.243049018921376,
+    "new_coverage_area_m2": 865307.4856280464,
+    "removed_coverage_area_m2": 540098.5883900939,
+    "new_coverage_area_ha": 86.53074856280465,
+    "removed_coverage_area_ha": 54.00985883900939,
+    "net_change_ha": 32.52088972379526,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 459168.0,
+    "alignment_overlap_ratio": 0.9442402880627124,
+    "coverage_by_year_ha": {
+      "2019": 1078.010163348863,
+      "2020": 1064.7349918207233,
+      "2021": 1052.115924321981,
+      "2022": 1069.6214046872828,
+      "2023": 1102.1422944110782,
+      "2024": 1134.1351766064536
+    },
+    "total_coverage_area_ha_2022": 1069.6214046872828,
+    "total_coverage_area_ha_2023": 1102.1422944110782
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 459168.0,
+    "overlap_ratio": 0.9442402880627124
+  }
+}

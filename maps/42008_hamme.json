@@ -1,0 +1,54 @@
+{
+  "name": "Hamme",
+  "niscode": "42008",
+  "slug": "hamme",
+  "relative_html": "42008_hamme.html",
+  "generated_at": "2025-10-20T10:32:15Z",
+  "bounds_latlon": [
+    [
+      51.03196262891131,
+      4.058471080373707
+    ],
+    [
+      51.11161899804318,
+      4.199369729894565
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1671753,
+    "new_coverage_pixels": 20201,
+    "removed_coverage_pixels": 18202,
+    "no_change_pixels": 1633350,
+    "new_coverage_percent": 1.2083722894470654,
+    "removed_coverage_percent": 1.088797208678555,
+    "no_change_percent": 97.70283050187439,
+    "pixel_area_m2": 24.246795914554347,
+    "new_coverage_area_m2": 489809.5242699124,
+    "removed_coverage_area_m2": 441340.1792367182,
+    "new_coverage_area_ha": 48.98095242699124,
+    "removed_coverage_area_ha": 44.13401792367182,
+    "net_change_ha": 4.846934503319417,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 524477.0,
+    "alignment_overlap_ratio": 0.9366262831182005,
+    "coverage_by_year_ha": {
+      "2019": 697.5390989086739,
+      "2020": 702.0902225018357,
+      "2021": 690.6360361118002,
+      "2022": 704.6725062667357,
+      "2023": 709.5194407700552,
+      "2024": 723.0467282107851
+    },
+    "total_coverage_area_ha_2022": 704.6725062667357,
+    "total_coverage_area_ha_2023": 709.5194407700552
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 524477.0,
+    "overlap_ratio": 0.9366262831182005
+  }
+}

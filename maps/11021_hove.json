@@ -1,0 +1,54 @@
+{
+  "name": "Hove",
+  "niscode": "11021",
+  "slug": "hove",
+  "relative_html": "11021_hove.html",
+  "generated_at": "2025-10-20T10:30:10Z",
+  "bounds_latlon": [
+    [
+      51.130494653354255,
+      4.45805573512617
+    ],
+    [
+      51.16341750494233,
+      4.51041251905979
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1798589,
+    "new_coverage_pixels": 39387,
+    "removed_coverage_pixels": 5592,
+    "no_change_pixels": 1753610,
+    "new_coverage_percent": 2.189883291847109,
+    "removed_coverage_percent": 0.31091038586358527,
+    "no_change_percent": 97.4992063222893,
+    "pixel_area_m2": 3.3459995055065175,
+    "new_coverage_area_m2": 131788.8825233852,
+    "removed_coverage_area_m2": 18710.829234792447,
+    "new_coverage_area_ha": 13.17888825233852,
+    "removed_coverage_area_ha": 1.8710829234792448,
+    "net_change_ha": 11.307805328859276,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 944577.0,
+    "alignment_overlap_ratio": 0.9884369110542084,
+    "coverage_by_year_ha": {
+      "2019": 150.26047279353392,
+      "2020": 151.0852616716413,
+      "2021": 150.42308836950156,
+      "2022": 150.28121799046806,
+      "2023": 161.58902331932734,
+      "2024": 171.84216960405098
+    },
+    "total_coverage_area_ha_2022": 150.28121799046806,
+    "total_coverage_area_ha_2023": 161.58902331932734
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 944577.0,
+    "overlap_ratio": 0.9884369110542084
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Knokke-Heist",
+  "niscode": "31043",
+  "slug": "knokke-heist",
+  "relative_html": "31043_knokke-heist.html",
+  "generated_at": "2025-10-20T10:31:30Z",
+  "bounds_latlon": [
+    [
+      51.29574701371721,
+      3.224258067212665
+    ],
+    [
+      51.37318624354714,
+      3.386119162230488
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1977276,
+    "new_coverage_pixels": 23760,
+    "removed_coverage_pixels": 169010,
+    "no_change_pixels": 1784506,
+    "new_coverage_percent": 1.2016531834705928,
+    "removed_coverage_percent": 8.547618036126469,
+    "no_change_percent": 90.25072878040294,
+    "pixel_area_m2": 31.15134559814895,
+    "new_coverage_area_m2": 740155.9714120191,
+    "removed_coverage_area_m2": 5264888.919543154,
+    "new_coverage_area_ha": 74.01559714120191,
+    "removed_coverage_area_ha": 526.4888919543154,
+    "net_change_ha": -452.47329481311345,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1112575.0,
+    "alignment_overlap_ratio": 0.8667884633363457,
+    "coverage_by_year_ha": {
+      "2019": 1410.4083233017918,
+      "2020": 1440.1672037517035,
+      "2021": 1441.1858527527631,
+      "2022": 1420.6166192543053,
+      "2023": 968.1433244411918,
+      "2024": 1016.0603242402644
+    },
+    "total_coverage_area_ha_2022": 1420.6166192543053,
+    "total_coverage_area_ha_2023": 968.1433244411918
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1112575.0,
+    "overlap_ratio": 0.8667884633363457
+  }
+}

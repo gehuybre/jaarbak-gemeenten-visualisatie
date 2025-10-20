@@ -1,0 +1,54 @@
+{
+  "name": "Merchtem",
+  "niscode": "23052",
+  "slug": "merchtem",
+  "relative_html": "23052_merchtem.html",
+  "generated_at": "2025-10-20T10:30:54Z",
+  "bounds_latlon": [
+    [
+      50.90884374909233,
+      4.181271529045257
+    ],
+    [
+      50.99859560554343,
+      4.301799782857134
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1484551,
+    "new_coverage_pixels": 7511,
+    "removed_coverage_pixels": 8677,
+    "no_change_pixels": 1468363,
+    "new_coverage_percent": 0.5059442215188296,
+    "removed_coverage_percent": 0.5844864878336952,
+    "no_change_percent": 98.90956929064747,
+    "pixel_area_m2": 24.857356974919366,
+    "new_coverage_area_m2": 186703.60823861934,
+    "removed_coverage_area_m2": 215687.28647137535,
+    "new_coverage_area_ha": 18.670360823861934,
+    "removed_coverage_area_ha": 21.568728647137537,
+    "net_change_ha": -2.8983678232756027,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 425249.0,
+    "alignment_overlap_ratio": 0.9500308299971404,
+    "coverage_by_year_ha": {
+      "2019": 457.944601813242,
+      "2020": 458.35723393902566,
+      "2021": 451.96143598937886,
+      "2022": 461.2829448549736,
+      "2023": 458.3845770316981,
+      "2024": 448.15577463651874
+    },
+    "total_coverage_area_ha_2022": 461.2829448549736,
+    "total_coverage_area_ha_2023": 458.3845770316981
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 425249.0,
+    "overlap_ratio": 0.9500308299971404
+  }
+}

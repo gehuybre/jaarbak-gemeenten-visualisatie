@@ -1,0 +1,54 @@
+{
+  "name": "Rotselaar",
+  "niscode": "24094",
+  "slug": "rotselaar",
+  "relative_html": "24094_rotselaar.html",
+  "generated_at": "2025-10-20T10:31:19Z",
+  "bounds_latlon": [
+    [
+      50.92812415954006,
+      4.669579757088343
+    ],
+    [
+      50.98630739773485,
+      4.803763514893069
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1686750,
+    "new_coverage_pixels": 9924,
+    "removed_coverage_pixels": 3378,
+    "no_change_pixels": 1673448,
+    "new_coverage_percent": 0.5883503779457536,
+    "removed_coverage_percent": 0.20026678523788352,
+    "no_change_percent": 99.21138283681637,
+    "pixel_area_m2": 22.06823688007268,
+    "new_coverage_area_m2": 219005.18279784126,
+    "removed_coverage_area_m2": 74546.5041808855,
+    "new_coverage_area_ha": 21.900518279784126,
+    "removed_coverage_area_ha": 7.4546504180885504,
+    "net_change_ha": 14.445867861695575,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 328741.0,
+    "alignment_overlap_ratio": 0.9854169289521172,
+    "coverage_by_year_ha": {
+      "2019": 520.4639190506981,
+      "2020": 522.5979175570011,
+      "2021": 507.60917106805573,
+      "2022": 509.50924626343,
+      "2023": 523.9551141251255,
+      "2024": 550.0993543569476
+    },
+    "total_coverage_area_ha_2022": 509.50924626343,
+    "total_coverage_area_ha_2023": 523.9551141251255
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 328741.0,
+    "overlap_ratio": 0.9854169289521172
+  }
+}

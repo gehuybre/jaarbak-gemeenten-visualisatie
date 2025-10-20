@@ -1,0 +1,54 @@
+{
+  "name": "Izegem",
+  "niscode": "36008",
+  "slug": "izegem",
+  "relative_html": "36008_izegem.html",
+  "generated_at": "2025-10-20T10:31:55Z",
+  "bounds_latlon": [
+    [
+      50.890698683021014,
+      3.171983521676754
+    ],
+    [
+      50.95499066667864,
+      3.2444877681877435
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2048465,
+    "new_coverage_pixels": 38898,
+    "removed_coverage_pixels": 32066,
+    "no_change_pixels": 1977501,
+    "new_coverage_percent": 1.8988852628675619,
+    "removed_coverage_percent": 1.565367238395579,
+    "no_change_percent": 96.53574749873685,
+    "pixel_area_m2": 12.514219879686186,
+    "new_coverage_area_m2": 486778.12488003325,
+    "removed_coverage_area_m2": 401280.97466201725,
+    "new_coverage_area_ha": 48.677812488003326,
+    "removed_coverage_area_ha": 40.12809746620172,
+    "net_change_ha": 8.549715021801603,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 812430.0,
+    "alignment_overlap_ratio": 0.9549484107113891,
+    "coverage_by_year_ha": {
+      "2019": 902.7232623970667,
+      "2020": 905.547721823912,
+      "2021": 910.5008500522918,
+      "2022": 921.2493135069542,
+      "2023": 929.7990285287557,
+      "2024": 929.3259910173036
+    },
+    "total_coverage_area_ha_2022": 921.2493135069542,
+    "total_coverage_area_ha_2023": 929.7990285287557
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 812430.0,
+    "overlap_ratio": 0.9549484107113891
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Maarkedal",
+  "niscode": "45064",
+  "slug": "maarkedal",
+  "relative_html": "45064_maarkedal.html",
+  "generated_at": "2025-10-20T11:23:13Z",
+  "bounds_latlon": [
+    [
+      50.76477045476777,
+      3.577298542290987
+    ],
+    [
+      50.83041867786884,
+      3.712275494018462
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2069451,
+    "new_coverage_pixels": 15818,
+    "removed_coverage_pixels": 11223,
+    "no_change_pixels": 2042410,
+    "new_coverage_percent": 0.7643573102238227,
+    "removed_coverage_percent": 0.5423177451411026,
+    "no_change_percent": 98.69332494463508,
+    "pixel_area_m2": 22.30357109272724,
+    "new_coverage_area_m2": 352797.8875447595,
+    "removed_coverage_area_m2": 250312.9783736778,
+    "new_coverage_area_ha": 35.27978875447595,
+    "removed_coverage_area_ha": 25.031297837367777,
+    "net_change_ha": 10.248490917108175,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 306429.0,
+    "alignment_overlap_ratio": 0.9503177246634351,
+    "coverage_by_year_ha": {
+      "2019": 325.5384629552282,
+      "2020": 322.2709897901437,
+      "2021": 317.71213985879024,
+      "2022": 322.1973880055377,
+      "2023": 332.4458789226458,
+      "2024": 354.34129466437616
+    },
+    "total_coverage_area_ha_2022": 322.1973880055377,
+    "total_coverage_area_ha_2023": 332.4458789226458
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 306429.0,
+    "overlap_ratio": 0.9503177246634351
+  }
+}

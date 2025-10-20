@@ -1,0 +1,54 @@
+{
+  "name": "Herstappe",
+  "niscode": "73028",
+  "slug": "herstappe",
+  "relative_html": "73028_herstappe.html",
+  "generated_at": "2025-10-20T11:30:37Z",
+  "bounds_latlon": [
+    [
+      50.71806629861347,
+      5.415355672675611
+    ],
+    [
+      50.73551321709933,
+      5.436560894425118
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1347343,
+    "new_coverage_pixels": 1184,
+    "removed_coverage_pixels": 2526,
+    "no_change_pixels": 1343633,
+    "new_coverage_percent": 0.08787665798538309,
+    "removed_coverage_percent": 0.18748009972219398,
+    "no_change_percent": 99.72464324229242,
+    "pixel_area_m2": 1.0000000017204553,
+    "new_coverage_area_m2": 1184.0000020370192,
+    "removed_coverage_area_m2": 2526.0000043458704,
+    "new_coverage_area_ha": 0.11840000020370192,
+    "removed_coverage_area_ha": 0.252600000434587,
+    "net_change_ha": -0.1342000002308851,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 535604.0,
+    "alignment_overlap_ratio": 0.994588853111688,
+    "coverage_by_year_ha": {
+      "2019": 10.249500017633807,
+      "2020": 10.134900017436642,
+      "2021": 10.027500017251866,
+      "2022": 10.071800017328082,
+      "2023": 9.937600017097196,
+      "2024": 9.636900016579856
+    },
+    "total_coverage_area_ha_2022": 10.071800017328082,
+    "total_coverage_area_ha_2023": 9.937600017097196
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 535604.0,
+    "overlap_ratio": 0.994588853111688
+  }
+}

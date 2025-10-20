@@ -1,0 +1,54 @@
+{
+  "name": "Diest",
+  "niscode": "24020",
+  "slug": "diest",
+  "relative_html": "24020_diest.html",
+  "generated_at": "2025-10-20T10:31:11Z",
+  "bounds_latlon": [
+    [
+      50.942058340165154,
+      4.993947033110672
+    ],
+    [
+      51.050365782438035,
+      5.160131724941258
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1647489,
+    "new_coverage_pixels": 7969,
+    "removed_coverage_pixels": 4023,
+    "no_change_pixels": 1635497,
+    "new_coverage_percent": 0.4837058092648874,
+    "removed_coverage_percent": 0.24418979428694212,
+    "no_change_percent": 99.27210439644817,
+    "pixel_area_m2": 35.6411543248849,
+    "new_coverage_area_m2": 284024.3588150078,
+    "removed_coverage_area_m2": 143384.36384901195,
+    "new_coverage_area_ha": 28.40243588150078,
+    "removed_coverage_area_ha": 14.338436384901195,
+    "net_change_ha": 14.063999496599584,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 436781.0,
+    "alignment_overlap_ratio": 0.9761538134901923,
+    "coverage_by_year_ha": {
+      "2019": 770.5617565040116,
+      "2020": 784.0768822240079,
+      "2021": 776.7134197404868,
+      "2022": 781.7887201163503,
+      "2023": 795.85271961295,
+      "2024": 812.1371630239898
+    },
+    "total_coverage_area_ha_2022": 781.7887201163503,
+    "total_coverage_area_ha_2023": 795.85271961295
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 436781.0,
+    "overlap_ratio": 0.9761538134901923
+  }
+}

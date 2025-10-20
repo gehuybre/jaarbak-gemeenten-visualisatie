@@ -1,0 +1,54 @@
+{
+  "name": "Waregem",
+  "niscode": "34040",
+  "slug": "waregem",
+  "relative_html": "34040_waregem.html",
+  "generated_at": "2025-10-20T10:31:45Z",
+  "bounds_latlon": [
+    [
+      50.84429312391433,
+      3.3192815520619314
+    ],
+    [
+      50.91188877596484,
+      3.4774170686347707
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1462109,
+    "new_coverage_pixels": 28867,
+    "removed_coverage_pixels": 20497,
+    "no_change_pixels": 1412745,
+    "new_coverage_percent": 1.9743398064029427,
+    "removed_coverage_percent": 1.4018790664717884,
+    "no_change_percent": 96.62378112712527,
+    "pixel_area_m2": 30.43634410621628,
+    "new_coverage_area_m2": 878605.9453141453,
+    "removed_coverage_area_m2": 623853.7451451151,
+    "new_coverage_area_ha": 87.86059453141453,
+    "removed_coverage_area_ha": 62.385374514511504,
+    "net_change_ha": 25.47522001690303,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 805368.0,
+    "alignment_overlap_ratio": 0.9586881140091397,
+    "coverage_by_year_ha": {
+      "2019": 1506.105964483185,
+      "2020": 1526.3643951202826,
+      "2021": 1532.1381695972318,
+      "2022": 1537.0932064177239,
+      "2023": 1562.568426434627,
+      "2024": 1588.2262645161672
+    },
+    "total_coverage_area_ha_2022": 1537.0932064177239,
+    "total_coverage_area_ha_2023": 1562.568426434627
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 805368.0,
+    "overlap_ratio": 0.9586881140091397
+  }
+}

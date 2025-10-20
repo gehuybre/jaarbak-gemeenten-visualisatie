@@ -1,0 +1,54 @@
+{
+  "name": "Ravels",
+  "niscode": "13035",
+  "slug": "ravels",
+  "relative_html": "13035_ravels.html",
+  "generated_at": "2025-10-20T10:30:40Z",
+  "bounds_latlon": [
+    [
+      51.35237917646017,
+      4.927381669457057
+    ],
+    [
+      51.487943528966724,
+      5.105474477292466
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1696457,
+    "new_coverage_pixels": 19125,
+    "removed_coverage_pixels": 18429,
+    "no_change_pixels": 1658903,
+    "new_coverage_percent": 1.127349529047892,
+    "removed_coverage_percent": 1.0863228481476395,
+    "no_change_percent": 97.78632762280446,
+    "pixel_area_m2": 56.07912135488113,
+    "new_coverage_area_m2": 1072513.1959121015,
+    "removed_coverage_area_m2": 1033482.1274491043,
+    "new_coverage_area_ha": 107.25131959121015,
+    "removed_coverage_area_ha": 103.34821274491043,
+    "net_change_ha": 3.903106846299721,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1210218.0,
+    "alignment_overlap_ratio": 0.9820455976577969,
+    "coverage_by_year_ha": {
+      "2019": 775.3275002040446,
+      "2020": 816.2876904416498,
+      "2021": 825.5351375530696,
+      "2022": 818.0710065007349,
+      "2023": 821.9741133470347,
+      "2024": 821.9909370834412
+    },
+    "total_coverage_area_ha_2022": 818.0710065007349,
+    "total_coverage_area_ha_2023": 821.9741133470347
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1210218.0,
+    "overlap_ratio": 0.9820455976577969
+  }
+}

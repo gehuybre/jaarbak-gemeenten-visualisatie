@@ -1,0 +1,54 @@
+{
+  "name": "Gistel",
+  "niscode": "35005",
+  "slug": "gistel",
+  "relative_html": "35005_gistel.html",
+  "generated_at": "2025-10-20T10:31:49Z",
+  "bounds_latlon": [
+    [
+      51.109567031365806,
+      2.8718552811932256
+    ],
+    [
+      51.19804030562344,
+      3.0017587596383764
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1831486,
+    "new_coverage_pixels": 16815,
+    "removed_coverage_pixels": 11259,
+    "no_change_pixels": 1803412,
+    "new_coverage_percent": 0.9181069361163557,
+    "removed_coverage_percent": 0.6147467138705948,
+    "no_change_percent": 98.46714635001305,
+    "pixel_area_m2": 23.391741485111364,
+    "new_coverage_area_m2": 393332.1330721476,
+    "removed_coverage_area_m2": 263367.6173808689,
+    "new_coverage_area_ha": 39.33321330721476,
+    "removed_coverage_area_ha": 26.33676173808689,
+    "net_change_ha": 12.996451569127874,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 305181.0,
+    "alignment_overlap_ratio": 0.9415766528753505,
+    "coverage_by_year_ha": {
+      "2019": 451.7600249536588,
+      "2020": 466.44769943216016,
+      "2021": 466.726061155833,
+      "2022": 462.24888183558267,
+      "2023": 475.2453334047105,
+      "2024": 482.9856606621339
+    },
+    "total_coverage_area_ha_2022": 462.24888183558267,
+    "total_coverage_area_ha_2023": 475.2453334047105
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 305181.0,
+    "overlap_ratio": 0.9415766528753505
+  }
+}

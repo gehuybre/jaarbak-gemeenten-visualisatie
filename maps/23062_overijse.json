@@ -1,0 +1,54 @@
+{
+  "name": "Overijse",
+  "niscode": "23062",
+  "slug": "overijse",
+  "relative_html": "23062_overijse.html",
+  "generated_at": "2025-10-20T10:30:55Z",
+  "bounds_latlon": [
+    [
+      50.72718146606958,
+      4.451535549975068
+    ],
+    [
+      50.808917973489976,
+      4.613577894557874
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1381860,
+    "new_coverage_pixels": 5211,
+    "removed_coverage_pixels": 5640,
+    "no_change_pixels": 1371009,
+    "new_coverage_percent": 0.37710042985541226,
+    "removed_coverage_percent": 0.4081455429638314,
+    "no_change_percent": 99.21475402718075,
+    "pixel_area_m2": 32.556179099434985,
+    "new_coverage_area_m2": 169650.24928715572,
+    "removed_coverage_area_m2": 183616.85012081332,
+    "new_coverage_area_ha": 16.96502492871557,
+    "removed_coverage_area_ha": 18.36168501208133,
+    "net_change_ha": -1.3966600833657594,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1157103.0,
+    "alignment_overlap_ratio": 0.9920038064864587,
+    "coverage_by_year_ha": {
+      "2019": 670.3349832752763,
+      "2020": 672.7994860331036,
+      "2021": 664.0809412702748,
+      "2022": 667.6523541174828,
+      "2023": 666.2556940341171,
+      "2024": 661.3006435751831
+    },
+    "total_coverage_area_ha_2022": 667.6523541174828,
+    "total_coverage_area_ha_2023": 666.2556940341171
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1157103.0,
+    "overlap_ratio": 0.9920038064864587
+  }
+}

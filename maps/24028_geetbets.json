@@ -1,0 +1,54 @@
+{
+  "name": "Geetbets",
+  "niscode": "24028",
+  "slug": "geetbets",
+  "relative_html": "24028_geetbets.html",
+  "generated_at": "2025-10-20T10:31:11Z",
+  "bounds_latlon": [
+    [
+      50.85763364666378,
+      5.065058666341259
+    ],
+    [
+      50.921957589094845,
+      5.188361806933251
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1919180,
+    "new_coverage_pixels": 3611,
+    "removed_coverage_pixels": 3585,
+    "no_change_pixels": 1911984,
+    "new_coverage_percent": 0.1881532737940162,
+    "removed_coverage_percent": 0.18679852853822987,
+    "no_change_percent": 99.62504819766775,
+    "pixel_area_m2": 18.50671701297205,
+    "new_coverage_area_m2": 66827.75513384207,
+    "removed_coverage_area_m2": 66346.5804915048,
+    "new_coverage_area_ha": 6.6827755133842075,
+    "removed_coverage_area_ha": 6.634658049150481,
+    "net_change_ha": 0.04811746423372654,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 262176.0,
+    "alignment_overlap_ratio": 0.9781153699793316,
+    "coverage_by_year_ha": {
+      "2019": 300.2825875656793,
+      "2020": 299.122216408966,
+      "2021": 292.3172965632961,
+      "2022": 286.75602810089805,
+      "2023": 286.80414556513176,
+      "2024": 288.9527754103378
+    },
+    "total_coverage_area_ha_2022": 286.75602810089805,
+    "total_coverage_area_ha_2023": 286.80414556513176
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 262176.0,
+    "overlap_ratio": 0.9781153699793316
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Sint-Pieters-Leeuw",
+  "niscode": "23077",
+  "slug": "sint-pieters-leeuw",
+  "relative_html": "23077_sint-pieters-leeuw.html",
+  "generated_at": "2025-10-20T10:30:56Z",
+  "bounds_latlon": [
+    [
+      50.74941856486218,
+      4.173349402026486
+    ],
+    [
+      50.82762439326482,
+      4.313473428147259
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1671049,
+    "new_coverage_pixels": 8608,
+    "removed_coverage_pixels": 10692,
+    "no_change_pixels": 1651749,
+    "new_coverage_percent": 0.5151255289342204,
+    "removed_coverage_percent": 0.6398376109856743,
+    "no_change_percent": 98.8450368600801,
+    "pixel_area_m2": 24.3370676555072,
+    "new_coverage_area_m2": 209493.478378606,
+    "removed_coverage_area_m2": 260211.927372683,
+    "new_coverage_area_ha": 20.9493478378606,
+    "removed_coverage_area_ha": 26.0211927372683,
+    "net_change_ha": -5.071844899407701,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 898159.0,
+    "alignment_overlap_ratio": 0.9803816480594499,
+    "coverage_by_year_ha": {
+      "2019": 754.3249782756802,
+      "2020": 758.036381093145,
+      "2021": 754.7679129070104,
+      "2022": 754.8822971249913,
+      "2023": 749.8104522255836,
+      "2024": 738.4791135251794
+    },
+    "total_coverage_area_ha_2022": 754.8822971249913,
+    "total_coverage_area_ha_2023": 749.8104522255836
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 898159.0,
+    "overlap_ratio": 0.9803816480594499
+  }
+}

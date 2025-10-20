@@ -1,0 +1,54 @@
+{
+  "name": "Maasmechelen",
+  "niscode": "73107",
+  "slug": "maasmechelen",
+  "relative_html": "73107_maasmechelen.html",
+  "generated_at": "2025-10-20T11:30:41Z",
+  "bounds_latlon": [
+    [
+      50.90993453148864,
+      5.593608515991578
+    ],
+    [
+      51.01391521566979,
+      5.768004502346274
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2115590,
+    "new_coverage_pixels": 14538,
+    "removed_coverage_pixels": 11018,
+    "no_change_pixels": 2090034,
+    "new_coverage_percent": 0.687184189753213,
+    "removed_coverage_percent": 0.5208003441120445,
+    "no_change_percent": 98.79201546613474,
+    "pixel_area_m2": 36.32533658054283,
+    "new_coverage_area_m2": 528097.7432079316,
+    "removed_coverage_area_m2": 400232.5584444209,
+    "new_coverage_area_ha": 52.80977432079316,
+    "removed_coverage_area_ha": 40.02325584444209,
+    "net_change_ha": 12.78651847635107,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 928966.0,
+    "alignment_overlap_ratio": 0.9820403718992975,
+    "coverage_by_year_ha": {
+      "2019": 1194.823868408189,
+      "2020": 1195.7864898275734,
+      "2021": 1200.378012371354,
+      "2022": 1201.4387121995057,
+      "2023": 1214.225230675857,
+      "2024": 1231.1056145848352
+    },
+    "total_coverage_area_ha_2022": 1201.4387121995057,
+    "total_coverage_area_ha_2023": 1214.225230675857
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 928966.0,
+    "overlap_ratio": 0.9820403718992975
+  }
+}

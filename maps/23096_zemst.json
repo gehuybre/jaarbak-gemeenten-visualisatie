@@ -1,0 +1,54 @@
+{
+  "name": "Zemst",
+  "niscode": "23096",
+  "slug": "zemst",
+  "relative_html": "23096_zemst.html",
+  "generated_at": "2025-10-20T10:30:59Z",
+  "bounds_latlon": [
+    [
+      50.946439475870065,
+      4.36939403954063
+    ],
+    [
+      51.009419206730435,
+      4.5287525658729235
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1382742,
+    "new_coverage_pixels": 5412,
+    "removed_coverage_pixels": 8337,
+    "no_change_pixels": 1368993,
+    "new_coverage_percent": 0.39139622576012006,
+    "removed_coverage_percent": 0.6029324342502071,
+    "no_change_percent": 99.00567133998968,
+    "pixel_area_m2": 31.263347775609734,
+    "new_coverage_area_m2": 169197.23816159987,
+    "removed_coverage_area_m2": 260642.53040525835,
+    "new_coverage_area_ha": 16.919723816159987,
+    "removed_coverage_area_ha": 26.064253040525834,
+    "net_change_ha": -9.144529224365847,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 376351.0,
+    "alignment_overlap_ratio": 0.9643151804611072,
+    "coverage_by_year_ha": {
+      "2019": 647.7046602107498,
+      "2020": 649.2709539343078,
+      "2021": 633.1672034950913,
+      "2022": 642.7400405839829,
+      "2023": 633.5955113596171,
+      "2024": 616.2037109920454
+    },
+    "total_coverage_area_ha_2022": 642.7400405839829,
+    "total_coverage_area_ha_2023": 633.5955113596171
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 376351.0,
+    "overlap_ratio": 0.9643151804611072
+  }
+}

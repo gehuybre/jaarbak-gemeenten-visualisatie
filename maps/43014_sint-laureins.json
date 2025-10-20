@@ -1,0 +1,54 @@
+{
+  "name": "Sint-Laureins",
+  "niscode": "43014",
+  "slug": "sint-laureins",
+  "relative_html": "43014_sint-laureins.html",
+  "generated_at": "2025-10-20T10:34:01Z",
+  "bounds_latlon": [
+    [
+      51.215214951394536,
+      3.4745600677182917
+    ],
+    [
+      51.306554454736926,
+      3.6879136242837234
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1363052,
+    "new_coverage_pixels": 17218,
+    "removed_coverage_pixels": 17279,
+    "no_change_pixels": 1328555,
+    "new_coverage_percent": 1.2631946543492105,
+    "removed_coverage_percent": 1.267669905476827,
+    "no_change_percent": 97.46913544017396,
+    "pixel_area_m2": 54.68171775852683,
+    "new_coverage_area_m2": 941509.816366315,
+    "removed_coverage_area_m2": 944845.4011495851,
+    "new_coverage_area_ha": 94.1509816366315,
+    "removed_coverage_area_ha": 94.48454011495852,
+    "net_change_ha": -0.3335584783270207,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 842206.0,
+    "alignment_overlap_ratio": 0.9693676480743998,
+    "coverage_by_year_ha": {
+      "2019": 403.6659086652209,
+      "2020": 412.39857899125764,
+      "2021": 401.2981902862767,
+      "2022": 416.58173039978493,
+      "2023": 416.248171921458,
+      "2024": 446.7496340871642
+    },
+    "total_coverage_area_ha_2022": 416.58173039978493,
+    "total_coverage_area_ha_2023": 416.248171921458
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 842206.0,
+    "overlap_ratio": 0.9693676480743998
+  }
+}

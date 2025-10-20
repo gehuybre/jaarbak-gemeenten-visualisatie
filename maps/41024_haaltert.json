@@ -1,0 +1,54 @@
+{
+  "name": "Haaltert",
+  "niscode": "41024",
+  "slug": "haaltert",
+  "relative_html": "41024_haaltert.html",
+  "generated_at": "2025-10-20T10:32:08Z",
+  "bounds_latlon": [
+    [
+      50.8582551348983,
+      3.936622626037249
+    ],
+    [
+      50.91652909443553,
+      4.041828358423256
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2247606,
+    "new_coverage_pixels": 28845,
+    "removed_coverage_pixels": 18860,
+    "no_change_pixels": 2199901,
+    "new_coverage_percent": 1.28336550089295,
+    "removed_coverage_percent": 0.8391150406254476,
+    "no_change_percent": 97.8775194584816,
+    "pixel_area_m2": 13.579088073676681,
+    "new_coverage_area_m2": 391688.79548520385,
+    "removed_coverage_area_m2": 256101.6010695422,
+    "new_coverage_area_ha": 39.16887954852039,
+    "removed_coverage_area_ha": 25.61016010695422,
+    "net_change_ha": 13.558719441566168,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 490838.0,
+    "alignment_overlap_ratio": 0.9462521061540182,
+    "coverage_by_year_ha": {
+      "2019": 478.164502064799,
+      "2020": 472.110944601554,
+      "2021": 464.47678128653297,
+      "2022": 472.52239097018645,
+      "2023": 486.08111041175255,
+      "2024": 501.8179155803365
+    },
+    "total_coverage_area_ha_2022": 472.52239097018645,
+    "total_coverage_area_ha_2023": 486.08111041175255
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 490838.0,
+    "overlap_ratio": 0.9462521061540182
+  }
+}

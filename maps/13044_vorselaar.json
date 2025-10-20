@@ -1,0 +1,54 @@
+{
+  "name": "Vorselaar",
+  "niscode": "13044",
+  "slug": "vorselaar",
+  "relative_html": "13044_vorselaar.html",
+  "generated_at": "2025-10-20T10:30:42Z",
+  "bounds_latlon": [
+    [
+      51.18270620334378,
+      4.725771507069149
+    ],
+    [
+      51.25131074869569,
+      4.836233506863065
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1875715,
+    "new_coverage_pixels": 6486,
+    "removed_coverage_pixels": 4045,
+    "no_change_pixels": 1865184,
+    "new_coverage_percent": 0.34578813945615405,
+    "removed_coverage_percent": 0.21565109838115065,
+    "no_change_percent": 99.4385607621627,
+    "pixel_area_m2": 14.727209327663088,
+    "new_coverage_area_m2": 95520.67969922279,
+    "removed_coverage_area_m2": 59571.56173039719,
+    "new_coverage_area_ha": 9.552067969922279,
+    "removed_coverage_area_ha": 5.957156173039719,
+    "net_change_ha": 3.5949117968825597,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 400607.0,
+    "alignment_overlap_ratio": 0.9714016212375819,
+    "coverage_by_year_ha": {
+      "2019": 238.1139385724551,
+      "2020": 247.48928003044543,
+      "2021": 248.85743777698534,
+      "2022": 244.03133128031013,
+      "2023": 247.6262430771927,
+      "2024": 249.64534347601528
+    },
+    "total_coverage_area_ha_2022": 244.03133128031013,
+    "total_coverage_area_ha_2023": 247.6262430771927
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 400607.0,
+    "overlap_ratio": 0.9714016212375819
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Boechout",
+  "niscode": "11004",
+  "slug": "boechout",
+  "relative_html": "11004_boechout.html",
+  "generated_at": "2025-10-20T10:30:06Z",
+  "bounds_latlon": [
+    [
+      51.129562257876955,
+      4.479824919531742
+    ],
+    [
+      51.19056221160204,
+      4.565179254428431
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1805371,
+    "new_coverage_pixels": 19978,
+    "removed_coverage_pixels": 6041,
+    "no_change_pixels": 1779352,
+    "new_coverage_percent": 1.1065869563652015,
+    "removed_coverage_percent": 0.3346126641006198,
+    "no_change_percent": 98.55880037953419,
+    "pixel_area_m2": 11.47035760927375,
+    "new_coverage_area_m2": 229154.80431807096,
+    "removed_coverage_area_m2": 69292.43031762273,
+    "new_coverage_area_ha": 22.915480431807097,
+    "removed_coverage_area_ha": 6.929243031762272,
+    "net_change_ha": 15.986237400044825,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 699126.0,
+    "alignment_overlap_ratio": 0.9842769332135707,
+    "coverage_by_year_ha": {
+      "2019": 356.77859122189443,
+      "2020": 359.9031166346606,
+      "2021": 357.09058494886665,
+      "2022": 356.8061200801567,
+      "2023": 372.7923574802015,
+      "2024": 385.261783237243
+    },
+    "total_coverage_area_ha_2022": 356.8061200801567,
+    "total_coverage_area_ha_2023": 372.7923574802015
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 699126.0,
+    "overlap_ratio": 0.9842769332135707
+  }
+}

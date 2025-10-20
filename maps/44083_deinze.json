@@ -1,0 +1,54 @@
+{
+  "name": "Deinze",
+  "niscode": "44083",
+  "slug": "deinze",
+  "relative_html": "44083_deinze.html",
+  "generated_at": "2025-10-20T10:49:12Z",
+  "bounds_latlon": [
+    [
+      50.946836026665565,
+      3.4105106555949636
+    ],
+    [
+      51.10126783976267,
+      3.615285932458176
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1768814,
+    "new_coverage_pixels": 49628,
+    "removed_coverage_pixels": 45738,
+    "no_change_pixels": 1673448,
+    "new_coverage_percent": 2.805721800030981,
+    "removed_coverage_percent": 2.585800428988011,
+    "no_change_percent": 94.608477770981,
+    "pixel_area_m2": 72.38268199728027,
+    "new_coverage_area_m2": 3592207.7421610253,
+    "removed_coverage_area_m2": 3310639.109191605,
+    "new_coverage_area_ha": 359.22077421610254,
+    "removed_coverage_area_ha": 331.0639109191605,
+    "net_change_ha": 28.15686329694205,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 376486.0,
+    "alignment_overlap_ratio": 0.8170942916299522,
+    "coverage_by_year_ha": {
+      "2019": 1781.185800320873,
+      "2020": 1800.910081165132,
+      "2021": 1778.855077960561,
+      "2022": 1802.5386915100707,
+      "2023": 1830.695554807013,
+      "2024": 1860.2855952075013
+    },
+    "total_coverage_area_ha_2022": 1802.5386915100707,
+    "total_coverage_area_ha_2023": 1830.695554807013
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 376486.0,
+    "overlap_ratio": 0.8170942916299522
+  }
+}

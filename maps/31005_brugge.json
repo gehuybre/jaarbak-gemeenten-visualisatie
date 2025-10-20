@@ -1,0 +1,54 @@
+{
+  "name": "Brugge",
+  "niscode": "31005",
+  "slug": "brugge",
+  "relative_html": "31005_brugge.html",
+  "generated_at": "2025-10-20T10:31:26Z",
+  "bounds_latlon": [
+    [
+      51.15791364986356,
+      3.1288085909230094
+    ],
+    [
+      51.36440836552532,
+      3.311428642875322
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1086137,
+    "new_coverage_pixels": 44047,
+    "removed_coverage_pixels": 44100,
+    "no_change_pixels": 997990,
+    "new_coverage_percent": 4.055381595507749,
+    "removed_coverage_percent": 4.06026127459059,
+    "no_change_percent": 91.88435712990166,
+    "pixel_area_m2": 129.80957972700804,
+    "new_coverage_area_m2": 5717722.558235523,
+    "removed_coverage_area_m2": 5724602.465961055,
+    "new_coverage_area_ha": 571.7722558235523,
+    "removed_coverage_area_ha": 572.4602465961054,
+    "net_change_ha": -0.6879907725531211,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 539975.0,
+    "alignment_overlap_ratio": 0.8503047853904576,
+    "coverage_by_year_ha": {
+      "2019": 4139.380859292805,
+      "2020": 4239.100578439093,
+      "2021": 4257.429691096547,
+      "2022": 4269.398134347376,
+      "2023": 4268.710143574824,
+      "2024": 4368.442843679084
+    },
+    "total_coverage_area_ha_2022": 4269.398134347376,
+    "total_coverage_area_ha_2023": 4268.710143574824
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 539975.0,
+    "overlap_ratio": 0.8503047853904576
+  }
+}

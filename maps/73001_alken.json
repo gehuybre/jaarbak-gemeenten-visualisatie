@@ -1,0 +1,54 @@
+{
+  "name": "Alken",
+  "niscode": "73001",
+  "slug": "alken",
+  "relative_html": "73001_alken.html",
+  "generated_at": "2025-10-20T11:30:35Z",
+  "bounds_latlon": [
+    [
+      50.853115535390096,
+      5.241854495805
+    ],
+    [
+      50.91063261396089,
+      5.352880745614003
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1887154,
+    "new_coverage_pixels": 9268,
+    "removed_coverage_pixels": 5657,
+    "no_change_pixels": 1872229,
+    "new_coverage_percent": 0.49110989352220324,
+    "removed_coverage_percent": 0.2997635593067656,
+    "no_change_percent": 99.20912654717104,
+    "pixel_area_m2": 14.961930658031081,
+    "new_coverage_area_m2": 138667.17333863207,
+    "removed_coverage_area_m2": 84639.64173248182,
+    "new_coverage_area_ha": 13.866717333863207,
+    "removed_coverage_area_ha": 8.463964173248181,
+    "net_change_ha": 5.402753160615026,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 495036.0,
+    "alignment_overlap_ratio": 0.9823682680420145,
+    "coverage_by_year_ha": {
+      "2019": 472.2149896911847,
+      "2020": 473.79197718254125,
+      "2021": 471.19159363417543,
+      "2022": 473.4837614109858,
+      "2023": 478.8865145716008,
+      "2024": 479.86502483663605
+    },
+    "total_coverage_area_ha_2022": 473.4837614109858,
+    "total_coverage_area_ha_2023": 478.8865145716008
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 495036.0,
+    "overlap_ratio": 0.9823682680420145
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Londerzeel",
+  "niscode": "23045",
+  "slug": "londerzeel",
+  "relative_html": "23045_londerzeel.html",
+  "generated_at": "2025-10-20T10:30:52Z",
+  "bounds_latlon": [
+    [
+      50.973874556052394,
+      4.221089626991079
+    ],
+    [
+      51.04323080802672,
+      4.333458406868604
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2355330,
+    "new_coverage_pixels": 11682,
+    "removed_coverage_pixels": 19542,
+    "no_change_pixels": 2324106,
+    "new_coverage_percent": 0.4959814548279859,
+    "removed_coverage_percent": 0.829692654532486,
+    "no_change_percent": 98.67432589063952,
+    "pixel_area_m2": 15.508472688919753,
+    "new_coverage_area_m2": 181169.97795196055,
+    "removed_coverage_area_m2": 303066.5732868698,
+    "new_coverage_area_ha": 18.116997795196056,
+    "removed_coverage_area_ha": 30.30665732868698,
+    "net_change_ha": -12.189659533490925,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 544325.0,
+    "alignment_overlap_ratio": 0.9484699371665348,
+    "coverage_by_year_ha": {
+      "2019": 612.8498660953107,
+      "2020": 610.0009596623562,
+      "2021": 596.9598849782436,
+      "2022": 600.5469947111908,
+      "2023": 588.3573351776997,
+      "2024": 569.5982866131825
+    },
+    "total_coverage_area_ha_2022": 600.5469947111908,
+    "total_coverage_area_ha_2023": 588.3573351776997
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 544325.0,
+    "overlap_ratio": 0.9484699371665348
+  }
+}

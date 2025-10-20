@@ -1,0 +1,54 @@
+{
+  "name": "Beveren-Kruibeke-Zwijndrecht",
+  "niscode": "46030",
+  "slug": "beveren-kruibeke-zwijndrecht",
+  "relative_html": "46030_beveren-kruibeke-zwijndrecht.html",
+  "generated_at": "2025-10-20T11:30:13Z",
+  "bounds_latlon": [
+    [
+      51.123310114140686,
+      4.151838720958827
+    ],
+    [
+      51.35403813671794,
+      4.357301010026568
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1255582,
+    "new_coverage_pixels": 56661,
+    "removed_coverage_pixels": 48404,
+    "no_change_pixels": 1150517,
+    "new_coverage_percent": 4.5127279620128355,
+    "removed_coverage_percent": 3.8551046446986335,
+    "no_change_percent": 91.63216739328853,
+    "pixel_area_m2": 164.4367744764545,
+    "new_coverage_area_m2": 9317152.078610389,
+    "removed_coverage_area_m2": 7959397.631758303,
+    "new_coverage_area_ha": 931.7152078610388,
+    "removed_coverage_area_ha": 795.9397631758303,
+    "net_change_ha": 135.77544468520853,
+    "alignment_shift_y_px": -1.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 558883.0,
+    "alignment_overlap_ratio": 0.857883822204348,
+    "coverage_by_year_ha": {
+      "2019": 4203.020399295625,
+      "2020": 4294.069041323238,
+      "2021": 4296.108057326746,
+      "2022": 4400.06498615076,
+      "2023": 4535.840430835969,
+      "2024": 4619.752516851304
+    },
+    "total_coverage_area_ha_2022": 4400.06498615076,
+    "total_coverage_area_ha_2023": 4535.840430835969
+  },
+  "alignment": {
+    "shift": [
+      -1.0,
+      0.0
+    ],
+    "score": 558883.0,
+    "overlap_ratio": 0.857883822204348
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Beerse",
+  "niscode": "13004",
+  "slug": "beerse",
+  "relative_html": "13004_beerse.html",
+  "generated_at": "2025-10-20T10:30:30Z",
+  "bounds_latlon": [
+    [
+      51.27268240001867,
+      4.7653395293235645
+    ],
+    [
+      51.34479649093818,
+      4.896043629280908
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1818886,
+    "new_coverage_pixels": 15084,
+    "removed_coverage_pixels": 13904,
+    "no_change_pixels": 1789898,
+    "new_coverage_percent": 0.8292988125698916,
+    "removed_coverage_percent": 0.7644239386085769,
+    "no_change_percent": 98.40627724882152,
+    "pixel_area_m2": 20.540630012586107,
+    "new_coverage_area_m2": 309834.8631098488,
+    "removed_coverage_area_m2": 285596.91969499725,
+    "new_coverage_area_ha": 30.98348631098488,
+    "removed_coverage_area_ha": 28.559691969499724,
+    "net_change_ha": 2.4237943414851557,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 559126.0,
+    "alignment_overlap_ratio": 0.9612194937457451,
+    "coverage_by_year_ha": {
+      "2019": 679.8291234005599,
+      "2020": 695.9884370314613,
+      "2021": 702.9640349837356,
+      "2022": 712.7393208067253,
+      "2023": 715.1631151482104,
+      "2024": 718.8974016844986
+    },
+    "total_coverage_area_ha_2022": 712.7393208067253,
+    "total_coverage_area_ha_2023": 715.1631151482104
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 559126.0,
+    "overlap_ratio": 0.9612194937457451
+  }
+}

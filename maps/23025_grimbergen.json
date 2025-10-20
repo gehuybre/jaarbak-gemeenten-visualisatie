@@ -1,0 +1,54 @@
+{
+  "name": "Grimbergen",
+  "niscode": "23025",
+  "slug": "grimbergen",
+  "relative_html": "23025_grimbergen.html",
+  "generated_at": "2025-10-20T10:30:48Z",
+  "bounds_latlon": [
+    [
+      50.900913815154816,
+      4.31824912173061
+    ],
+    [
+      50.99040727120534,
+      4.426437997835138
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1560912,
+    "new_coverage_pixels": 6451,
+    "removed_coverage_pixels": 8452,
+    "no_change_pixels": 1546009,
+    "new_coverage_percent": 0.4132840288241746,
+    "removed_coverage_percent": 0.541478315241346,
+    "no_change_percent": 99.04523765593449,
+    "pixel_area_m2": 24.77411013436587,
+    "new_coverage_area_m2": 159817.78447679422,
+    "removed_coverage_area_m2": 209390.77885566032,
+    "new_coverage_area_ha": 15.981778447679421,
+    "removed_coverage_area_ha": 20.939077885566032,
+    "net_change_ha": -4.957299437886611,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 751395.0,
+    "alignment_overlap_ratio": 0.9756970099115582,
+    "coverage_by_year_ha": {
+      "2019": 818.5861470597171,
+      "2020": 826.9746607512133,
+      "2021": 825.8350516850326,
+      "2022": 831.342336367902,
+      "2023": 826.3850369300154,
+      "2024": 804.0462218218577
+    },
+    "total_coverage_area_ha_2022": 831.342336367902,
+    "total_coverage_area_ha_2023": 826.3850369300154
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 751395.0,
+    "overlap_ratio": 0.9756970099115582
+  }
+}

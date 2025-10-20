@@ -1,0 +1,54 @@
+{
+  "name": "Maldegem",
+  "niscode": "43010",
+  "slug": "maldegem",
+  "relative_html": "43010_maldegem.html",
+  "generated_at": "2025-10-20T10:34:01Z",
+  "bounds_latlon": [
+    [
+      51.14565738948036,
+      3.358456615944099
+    ],
+    [
+      51.27568239156347,
+      3.545326456340322
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1868652,
+    "new_coverage_pixels": 37846,
+    "removed_coverage_pixels": 37225,
+    "no_change_pixels": 1793581,
+    "new_coverage_percent": 2.025310223626443,
+    "removed_coverage_percent": 1.9920777116338408,
+    "no_change_percent": 95.98261206473971,
+    "pixel_area_m2": 51.17433767827081,
+    "new_coverage_area_m2": 1936743.983771837,
+    "removed_coverage_area_m2": 1904964.7200736308,
+    "new_coverage_area_ha": 193.6743983771837,
+    "removed_coverage_area_ha": 190.49647200736308,
+    "net_change_ha": 3.177926369820625,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 803525.0,
+    "alignment_overlap_ratio": 0.9320835566320292,
+    "coverage_by_year_ha": {
+      "2019": 1032.2478001759362,
+      "2020": 1044.0281327094742,
+      "2021": 1022.6781990300994,
+      "2022": 1048.1783714951819,
+      "2023": 1051.3562978650025,
+      "2024": 1057.0315319135227
+    },
+    "total_coverage_area_ha_2022": 1048.1783714951819,
+    "total_coverage_area_ha_2023": 1051.3562978650025
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 803525.0,
+    "overlap_ratio": 0.9320835566320292
+  }
+}

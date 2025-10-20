@@ -1,0 +1,54 @@
+{
+  "name": "Aalst",
+  "niscode": "41002",
+  "slug": "aalst",
+  "relative_html": "41002_aalst.html",
+  "generated_at": "2025-10-20T10:32:06Z",
+  "bounds_latlon": [
+    [
+      50.899135964333524,
+      3.9818242333910687
+    ],
+    [
+      50.99509210672202,
+      4.163653986989545
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1939329,
+    "new_coverage_pixels": 67576,
+    "removed_coverage_pixels": 58853,
+    "no_change_pixels": 1812900,
+    "new_coverage_percent": 3.4845041764445335,
+    "removed_coverage_percent": 3.034709427848498,
+    "no_change_percent": 93.48078639570697,
+    "pixel_area_m2": 40.55973148464932,
+    "new_coverage_area_m2": 2740864.4148066626,
+    "removed_coverage_area_m2": 2387061.8770660665,
+    "new_coverage_area_ha": 274.0864414806663,
+    "removed_coverage_area_ha": 238.70618770660664,
+    "net_change_ha": 35.38025377405964,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": -1.0,
+    "alignment_overlap_score": 607456.0,
+    "alignment_overlap_ratio": 0.8639386509349702,
+    "coverage_by_year_ha": {
+      "2019": 1926.0478010920967,
+      "2020": 1911.121819905746,
+      "2021": 1903.7358928023912,
+      "2022": 1913.2025341309086,
+      "2023": 1948.5827879049682,
+      "2024": 1973.7622692106381
+    },
+    "total_coverage_area_ha_2022": 1913.2025341309086,
+    "total_coverage_area_ha_2023": 1948.5827879049682
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      -1.0
+    ],
+    "score": 607456.0,
+    "overlap_ratio": 0.8639386509349702
+  }
+}

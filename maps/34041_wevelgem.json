@@ -1,0 +1,54 @@
+{
+  "name": "Wevelgem",
+  "niscode": "34041",
+  "slug": "wevelgem",
+  "relative_html": "34041_wevelgem.html",
+  "generated_at": "2025-10-20T10:31:46Z",
+  "bounds_latlon": [
+    [
+      50.79342150617426,
+      3.101630942005571
+    ],
+    [
+      50.866254138753725,
+      3.2241153065635606
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2166451,
+    "new_coverage_pixels": 40014,
+    "removed_coverage_pixels": 21114,
+    "no_change_pixels": 2105323,
+    "new_coverage_percent": 1.8469838459305103,
+    "removed_coverage_percent": 0.9745893168135351,
+    "no_change_percent": 97.17842683725596,
+    "pixel_area_m2": 18.065759102586135,
+    "new_coverage_area_m2": 722883.2847308816,
+    "removed_coverage_area_m2": 381440.4376920037,
+    "new_coverage_area_ha": 72.28832847308816,
+    "removed_coverage_area_ha": 38.144043769200366,
+    "net_change_ha": 34.14428470388779,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 997707.0,
+    "alignment_overlap_ratio": 0.9638870935486582,
+    "coverage_by_year_ha": {
+      "2019": 1090.38598927524,
+      "2020": 1103.1909993271531,
+      "2021": 1111.7288770790353,
+      "2022": 1113.522806957922,
+      "2023": 1147.66709166181,
+      "2024": 1179.8422086235157
+    },
+    "total_coverage_area_ha_2022": 1113.522806957922,
+    "total_coverage_area_ha_2023": 1147.66709166181
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 997707.0,
+    "overlap_ratio": 0.9638870935486582
+  }
+}

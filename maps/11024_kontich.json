@@ -1,0 +1,54 @@
+{
+  "name": "Kontich",
+  "niscode": "11024",
+  "slug": "kontich",
+  "relative_html": "11024_kontich.html",
+  "generated_at": "2025-10-20T10:30:12Z",
+  "bounds_latlon": [
+    [
+      51.09301087699519,
+      4.396404904689928
+    ],
+    [
+      51.14983069540299,
+      4.4866043211757445
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2387177,
+    "new_coverage_pixels": 39365,
+    "removed_coverage_pixels": 5862,
+    "no_change_pixels": 2341950,
+    "new_coverage_percent": 1.649018903918729,
+    "removed_coverage_percent": 0.24556201739544242,
+    "no_change_percent": 98.10541907868583,
+    "pixel_area_m2": 9.970304071207519,
+    "new_coverage_area_m2": 392481.01976308395,
+    "removed_coverage_area_m2": 58445.92246541847,
+    "new_coverage_area_ha": 39.2481019763084,
+    "removed_coverage_area_ha": 5.844592246541847,
+    "net_change_ha": 33.403509729766554,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 952626.0,
+    "alignment_overlap_ratio": 0.9898492822593633,
+    "coverage_by_year_ha": {
+      "2019": 616.2934085231433,
+      "2020": 615.2784315686943,
+      "2021": 611.1507256832144,
+      "2022": 614.6004508918522,
+      "2023": 648.0039606216187,
+      "2024": 665.2515896344006
+    },
+    "total_coverage_area_ha_2022": 614.6004508918522,
+    "total_coverage_area_ha_2023": 648.0039606216187
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 952626.0,
+    "overlap_ratio": 0.9898492822593633
+  }
+}

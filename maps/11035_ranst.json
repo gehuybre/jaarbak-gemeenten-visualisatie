@@ -1,0 +1,54 @@
+{
+  "name": "Ranst",
+  "niscode": "11035",
+  "slug": "ranst",
+  "relative_html": "11035_ranst.html",
+  "generated_at": "2025-10-20T10:30:14Z",
+  "bounds_latlon": [
+    [
+      51.148092702800554,
+      4.529931065395457
+    ],
+    [
+      51.23625504029773,
+      4.643963583507964
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1825117,
+    "new_coverage_pixels": 23162,
+    "removed_coverage_pixels": 6886,
+    "no_change_pixels": 1795069,
+    "new_coverage_percent": 1.2690693254185896,
+    "removed_coverage_percent": 0.37729088052985094,
+    "no_change_percent": 98.35363979405156,
+    "pixel_area_m2": 23.929265743139677,
+    "new_coverage_area_m2": 554249.6531426013,
+    "removed_coverage_area_m2": 164776.92390725983,
+    "new_coverage_area_ha": 55.42496531426013,
+    "removed_coverage_area_ha": 16.477692390725984,
+    "net_change_ha": 38.94727292353414,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 495913.0,
+    "alignment_overlap_ratio": 0.9772897916391592,
+    "coverage_by_year_ha": {
+      "2019": 691.4504912074668,
+      "2020": 700.7781189941427,
+      "2021": 699.423722553081,
+      "2022": 718.5216695426808,
+      "2023": 757.4689424662149,
+      "2024": 805.6576978197495
+    },
+    "total_coverage_area_ha_2022": 718.5216695426808,
+    "total_coverage_area_ha_2023": 757.4689424662149
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 495913.0,
+    "overlap_ratio": 0.9772897916391592
+  }
+}

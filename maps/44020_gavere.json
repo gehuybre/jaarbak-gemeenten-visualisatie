@@ -1,0 +1,54 @@
+{
+  "name": "Gavere",
+  "niscode": "44020",
+  "slug": "gavere",
+  "relative_html": "44020_gavere.html",
+  "generated_at": "2025-10-20T10:34:05Z",
+  "bounds_latlon": [
+    [
+      50.90178166432427,
+      3.6233856388233647
+    ],
+    [
+      50.95697868820354,
+      3.755813666594399
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1475938,
+    "new_coverage_pixels": 17949,
+    "removed_coverage_pixels": 12786,
+    "no_change_pixels": 1445203,
+    "new_coverage_percent": 1.2161079936962123,
+    "removed_coverage_percent": 0.8662965517521739,
+    "no_change_percent": 97.91759545455162,
+    "pixel_area_m2": 21.408815926825273,
+    "new_coverage_area_m2": 384266.8370705868,
+    "removed_coverage_area_m2": 273733.1204403879,
+    "new_coverage_area_ha": 38.42668370705868,
+    "removed_coverage_area_ha": 27.37331204403879,
+    "net_change_ha": 11.053371663019888,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 303218.0,
+    "alignment_overlap_ratio": 0.9344764992495662,
+    "coverage_by_year_ha": {
+      "2019": 440.4949512208007,
+      "2020": 437.06525890932335,
+      "2021": 431.9956512978511,
+      "2022": 436.8126348813868,
+      "2023": 447.86600654440673,
+      "2024": 465.3141915247693
+    },
+    "total_coverage_area_ha_2022": 436.8126348813868,
+    "total_coverage_area_ha_2023": 447.86600654440673
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 303218.0,
+    "overlap_ratio": 0.9344764992495662
+  }
+}

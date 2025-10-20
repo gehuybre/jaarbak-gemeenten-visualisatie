@@ -1,0 +1,54 @@
+{
+  "name": "Halle",
+  "niscode": "23027",
+  "slug": "halle",
+  "relative_html": "23027_halle.html",
+  "generated_at": "2025-10-20T10:30:49Z",
+  "bounds_latlon": [
+    [
+      50.689426954219726,
+      4.171852320736587
+    ],
+    [
+      50.778216719394635,
+      4.311971984330567
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1845155,
+    "new_coverage_pixels": 14392,
+    "removed_coverage_pixels": 12906,
+    "no_change_pixels": 1817857,
+    "new_coverage_percent": 0.7799886730383084,
+    "removed_coverage_percent": 0.6994534334513903,
+    "no_change_percent": 98.5205578935103,
+    "pixel_area_m2": 24.378442705938014,
+    "new_coverage_area_m2": 350854.5474238599,
+    "removed_coverage_area_m2": 314628.181562836,
+    "new_coverage_area_ha": 35.08545474238599,
+    "removed_coverage_area_ha": 31.4628181562836,
+    "net_change_ha": 3.6226365861023915,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1113188.0,
+    "alignment_overlap_ratio": 0.9826706649517708,
+    "coverage_by_year_ha": {
+      "2019": 823.1064259904794,
+      "2020": 831.2512636985332,
+      "2021": 836.9143759391226,
+      "2022": 836.2171524777327,
+      "2023": 839.8397890638352,
+      "2024": 834.7276296284
+    },
+    "total_coverage_area_ha_2022": 836.2171524777327,
+    "total_coverage_area_ha_2023": 839.8397890638352
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1113188.0,
+    "overlap_ratio": 0.9826706649517708
+  }
+}

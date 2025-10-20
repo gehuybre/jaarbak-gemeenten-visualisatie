@@ -1,0 +1,54 @@
+{
+  "name": "Ichtegem",
+  "niscode": "35006",
+  "slug": "ichtegem",
+  "relative_html": "35006_ichtegem.html",
+  "generated_at": "2025-10-20T10:31:50Z",
+  "bounds_latlon": [
+    [
+      51.05442621395548,
+      2.980992492851539
+    ],
+    [
+      51.16514293052096,
+      3.081040358025278
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1230823,
+    "new_coverage_pixels": 13664,
+    "removed_coverage_pixels": 7851,
+    "no_change_pixels": 1209308,
+    "new_coverage_percent": 1.1101515002563325,
+    "removed_coverage_percent": 0.6378658832342262,
+    "no_change_percent": 98.25198261650944,
+    "pixel_area_m2": 37.193726928320785,
+    "new_coverage_area_m2": 508215.08474857523,
+    "removed_coverage_area_m2": 292007.95011424646,
+    "new_coverage_area_ha": 50.821508474857524,
+    "removed_coverage_area_ha": 29.200795011424646,
+    "net_change_ha": 21.620713463432878,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 233178.0,
+    "alignment_overlap_ratio": 0.9426208301667125,
+    "coverage_by_year_ha": {
+      "2019": 544.3413517140532,
+      "2020": 555.5887347371773,
+      "2021": 556.637597836556,
+      "2022": 553.4649729295703,
+      "2023": 575.0856863930031,
+      "2024": 587.6832017036254
+    },
+    "total_coverage_area_ha_2022": 553.4649729295703,
+    "total_coverage_area_ha_2023": 575.0856863930031
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 233178.0,
+    "overlap_ratio": 0.9426208301667125
+  }
+}

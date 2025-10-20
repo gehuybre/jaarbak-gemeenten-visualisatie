@@ -1,0 +1,54 @@
+{
+  "name": "Alveringem",
+  "niscode": "38002",
+  "slug": "alveringem",
+  "relative_html": "38002_alveringem.html",
+  "generated_at": "2025-10-20T10:32:02Z",
+  "bounds_latlon": [
+    [
+      50.90569936716792,
+      2.585477305427317
+    ],
+    [
+      51.04465126245388,
+      2.774255116007391
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1403070,
+    "new_coverage_pixels": 14199,
+    "removed_coverage_pixels": 14538,
+    "no_change_pixels": 1374333,
+    "new_coverage_percent": 1.0119951249759456,
+    "removed_coverage_percent": 1.0361564284034297,
+    "no_change_percent": 97.95184844662063,
+    "pixel_area_m2": 57.52350450295957,
+    "new_coverage_area_m2": 816776.2404375229,
+    "removed_coverage_area_m2": 836276.7084640262,
+    "new_coverage_area_ha": 81.67762404375229,
+    "removed_coverage_area_ha": 83.62767084640262,
+    "net_change_ha": -1.9500468026503341,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 419433.0,
+    "alignment_overlap_ratio": 0.9297015613501556,
+    "coverage_by_year_ha": {
+      "2019": 415.1356272969586,
+      "2020": 416.7232760212403,
+      "2021": 417.49984333203025,
+      "2022": 418.3742006004752,
+      "2023": 416.4241537978249,
+      "2024": 420.54283672023683
+    },
+    "total_coverage_area_ha_2022": 418.3742006004752,
+    "total_coverage_area_ha_2023": 416.4241537978249
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 419433.0,
+    "overlap_ratio": 0.9297015613501556
+  }
+}

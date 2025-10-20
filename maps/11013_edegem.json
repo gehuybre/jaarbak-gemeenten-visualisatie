@@ -1,0 +1,54 @@
+{
+  "name": "Edegem",
+  "niscode": "11013",
+  "slug": "edegem",
+  "relative_html": "11013_edegem.html",
+  "generated_at": "2025-10-20T10:30:08Z",
+  "bounds_latlon": [
+    [
+      51.144707781874345,
+      4.396893544273069
+    ],
+    [
+      51.17322788384192,
+      4.4637716330731
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1594256,
+    "new_coverage_pixels": 51149,
+    "removed_coverage_pixels": 5727,
+    "no_change_pixels": 1537380,
+    "new_coverage_percent": 3.2083304061581073,
+    "removed_coverage_percent": 0.3592271253801146,
+    "no_change_percent": 96.43244246846177,
+    "pixel_area_m2": 5.467986725274585,
+    "new_coverage_area_m2": 279682.0530110698,
+    "removed_coverage_area_m2": 31315.159975647548,
+    "new_coverage_area_ha": 27.968205301106977,
+    "removed_coverage_area_ha": 3.1315159975647546,
+    "net_change_ha": 24.836689303542222,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1007729.0,
+    "alignment_overlap_ratio": 0.9891857244102062,
+    "coverage_by_year_ha": {
+      "2019": 318.50311836450174,
+      "2020": 320.85325905902477,
+      "2021": 318.8629118910248,
+      "2022": 318.53100509680064,
+      "2023": 343.3676944003428,
+      "2024": 360.1084825584435
+    },
+    "total_coverage_area_ha_2022": 318.53100509680064,
+    "total_coverage_area_ha_2023": 343.3676944003428
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1007729.0,
+    "overlap_ratio": 0.9891857244102062
+  }
+}

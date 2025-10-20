@@ -1,0 +1,54 @@
+{
+  "name": "Langemark-Poelkapelle",
+  "niscode": "33040",
+  "slug": "langemark-poelkapelle",
+  "relative_html": "33040_langemark-poelkapelle.html",
+  "generated_at": "2025-10-20T10:31:38Z",
+  "bounds_latlon": [
+    [
+      50.86718014302658,
+      2.842378183421598
+    ],
+    [
+      50.957711559480465,
+      2.9912388888841006
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2009326,
+    "new_coverage_pixels": 13591,
+    "removed_coverage_pixels": 11516,
+    "no_change_pixels": 1984219,
+    "new_coverage_percent": 0.6763959656123496,
+    "removed_coverage_percent": 0.573127506437482,
+    "no_change_percent": 98.75047652795017,
+    "pixel_area_m2": 26.409270217221497,
+    "new_coverage_area_m2": 358928.39152225736,
+    "removed_coverage_area_m2": 304129.15582152276,
+    "new_coverage_area_ha": 35.89283915222573,
+    "removed_coverage_area_ha": 30.412915582152277,
+    "net_change_ha": 5.479923570073456,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 375505.0,
+    "alignment_overlap_ratio": 0.9425657528125988,
+    "coverage_by_year_ha": {
+      "2019": 488.045954541275,
+      "2020": 490.7872367898226,
+      "2021": 494.6403493145152,
+      "2022": 493.7186657839342,
+      "2023": 499.1985893540076,
+      "2024": 495.30058106994574
+    },
+    "total_coverage_area_ha_2022": 493.7186657839342,
+    "total_coverage_area_ha_2023": 499.1985893540076
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 375505.0,
+    "overlap_ratio": 0.9425657528125988
+  }
+}

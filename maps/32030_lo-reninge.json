@@ -1,0 +1,54 @@
+{
+  "name": "Lo-Reninge",
+  "niscode": "32030",
+  "slug": "lo-reninge",
+  "relative_html": "32030_lo-reninge.html",
+  "generated_at": "2025-10-20T10:31:34Z",
+  "bounds_latlon": [
+    [
+      50.9019827454788,
+      2.694813077869322
+    ],
+    [
+      51.0182367257355,
+      2.857711662258648
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1572924,
+    "new_coverage_pixels": 15167,
+    "removed_coverage_pixels": 14695,
+    "no_change_pixels": 1543062,
+    "new_coverage_percent": 0.9642551070490373,
+    "removed_coverage_percent": 0.9342472999331182,
+    "no_change_percent": 98.10149759301784,
+    "pixel_area_m2": 40.30619325116319,
+    "new_coverage_area_m2": 611324.0330403921,
+    "removed_coverage_area_m2": 592299.509825843,
+    "new_coverage_area_ha": 61.13240330403921,
+    "removed_coverage_area_ha": 59.229950982584306,
+    "net_change_ha": 1.902452321454902,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 155011.0,
+    "alignment_overlap_ratio": 0.8140564442437165,
+    "coverage_by_year_ha": {
+      "2019": 316.45601507285755,
+      "2020": 318.37862049093803,
+      "2021": 318.4229573035143,
+      "2022": 319.8780108798813,
+      "2023": 321.7804632013362,
+      "2024": 317.15734283542776
+    },
+    "total_coverage_area_ha_2022": 319.8780108798813,
+    "total_coverage_area_ha_2023": 321.7804632013362
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 155011.0,
+    "overlap_ratio": 0.8140564442437165
+  }
+}

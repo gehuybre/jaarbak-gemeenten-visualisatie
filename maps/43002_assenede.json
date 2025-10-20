@@ -1,0 +1,54 @@
+{
+  "name": "Assenede",
+  "niscode": "43002",
+  "slug": "assenede",
+  "relative_html": "43002_assenede.html",
+  "generated_at": "2025-10-20T10:33:59Z",
+  "bounds_latlon": [
+    [
+      51.167272394180024,
+      3.6119675341434188
+    ],
+    [
+      51.28140447001205,
+      3.796550759590697
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2142084,
+    "new_coverage_pixels": 34387,
+    "removed_coverage_pixels": 31804,
+    "no_change_pixels": 2075893,
+    "new_coverage_percent": 1.6053058610213233,
+    "removed_coverage_percent": 1.4847223544921675,
+    "no_change_percent": 96.90997178448652,
+    "pixel_area_m2": 40.84846934402098,
+    "new_coverage_area_m2": 1404656.3153328493,
+    "removed_coverage_area_m2": 1299144.7190172432,
+    "new_coverage_area_ha": 140.46563153328492,
+    "removed_coverage_area_ha": 129.9144719017243,
+    "net_change_ha": 10.551159631560608,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": -1.0,
+    "alignment_overlap_score": 586048.0,
+    "alignment_overlap_ratio": 0.8997753816439361,
+    "coverage_by_year_ha": {
+      "2019": 666.7328014800448,
+      "2020": 675.3722527463052,
+      "2021": 656.018247971108,
+      "2022": 663.2729361266062,
+      "2023": 673.8240957581668,
+      "2024": 694.6363908889455
+    },
+    "total_coverage_area_ha_2022": 663.2729361266062,
+    "total_coverage_area_ha_2023": 673.8240957581668
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      -1.0
+    ],
+    "score": 586048.0,
+    "overlap_ratio": 0.8997753816439361
+  }
+}

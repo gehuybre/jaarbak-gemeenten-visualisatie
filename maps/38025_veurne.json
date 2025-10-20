@@ -1,0 +1,54 @@
+{
+  "name": "Veurne",
+  "niscode": "38025",
+  "slug": "veurne",
+  "relative_html": "38025_veurne.html",
+  "generated_at": "2025-10-20T10:32:05Z",
+  "bounds_latlon": [
+    [
+      50.98470241930225,
+      2.5639874975028993
+    ],
+    [
+      51.09823130538334,
+      2.779559979291894
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1765525,
+    "new_coverage_pixels": 23244,
+    "removed_coverage_pixels": 18758,
+    "no_change_pixels": 1723523,
+    "new_coverage_percent": 1.3165489018847085,
+    "removed_coverage_percent": 1.0624601747355602,
+    "no_change_percent": 97.62099092337974,
+    "pixel_area_m2": 55.059610233532666,
+    "new_coverage_area_m2": 1279805.5802682333,
+    "removed_coverage_area_m2": 1032808.1687606057,
+    "new_coverage_area_ha": 127.98055802682333,
+    "removed_coverage_area_ha": 103.28081687606057,
+    "net_change_ha": 24.699741150762762,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 282298.0,
+    "alignment_overlap_ratio": 0.8914101305074095,
+    "coverage_by_year_ha": {
+      "2019": 705.6329528309079,
+      "2020": 713.8533526387744,
+      "2021": 721.6608053698893,
+      "2022": 729.1764421667665,
+      "2023": 753.8761833175292,
+      "2024": 765.9948035299299
+    },
+    "total_coverage_area_ha_2022": 729.1764421667665,
+    "total_coverage_area_ha_2023": 753.8761833175292
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 282298.0,
+    "overlap_ratio": 0.8914101305074095
+  }
+}

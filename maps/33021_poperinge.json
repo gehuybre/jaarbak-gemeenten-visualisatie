@@ -1,0 +1,54 @@
+{
+  "name": "Poperinge",
+  "niscode": "33021",
+  "slug": "poperinge",
+  "relative_html": "33021_poperinge.html",
+  "generated_at": "2025-10-20T10:31:36Z",
+  "bounds_latlon": [
+    [
+      50.79246280906862,
+      2.59538048414509
+    ],
+    [
+      50.9393514658365,
+      2.8048244028427165
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1875699,
+    "new_coverage_pixels": 26662,
+    "removed_coverage_pixels": 25529,
+    "no_change_pixels": 1823508,
+    "new_coverage_percent": 1.4214434192266456,
+    "removed_coverage_percent": 1.3610392712263535,
+    "no_change_percent": 97.21751730954699,
+    "pixel_area_m2": 64.17320389659868,
+    "new_coverage_area_m2": 1710985.962291114,
+    "removed_coverage_area_m2": 1638277.7222762676,
+    "new_coverage_area_ha": 171.0985962291114,
+    "removed_coverage_area_ha": 163.82777222762675,
+    "net_change_ha": 7.270824001484641,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 722100.0,
+    "alignment_overlap_ratio": 0.9462916271341032,
+    "coverage_by_year_ha": {
+      "2019": 1006.8583171764642,
+      "2020": 1028.6066159770214,
+      "2021": 1040.504327979451,
+      "2022": 1037.8026360954043,
+      "2023": 1045.0734600968888,
+      "2024": 1055.5721962543723
+    },
+    "total_coverage_area_ha_2022": 1037.8026360954043,
+    "total_coverage_area_ha_2023": 1045.0734600968888
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 722100.0,
+    "overlap_ratio": 0.9462916271341032
+  }
+}

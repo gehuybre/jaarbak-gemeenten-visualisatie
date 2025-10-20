@@ -1,0 +1,54 @@
+{
+  "name": "Mechelen",
+  "niscode": "12025",
+  "slug": "mechelen",
+  "relative_html": "12025_mechelen.html",
+  "generated_at": "2025-10-20T10:30:25Z",
+  "bounds_latlon": [
+    [
+      50.99088840749153,
+      4.370078971435295
+    ],
+    [
+      51.078598278196516,
+      4.549324492005442
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1667693,
+    "new_coverage_pixels": 24035,
+    "removed_coverage_pixels": 6887,
+    "no_change_pixels": 1636771,
+    "new_coverage_percent": 1.4412125013416737,
+    "removed_coverage_percent": 0.41296569572457276,
+    "no_change_percent": 98.14582180293375,
+    "pixel_area_m2": 39.44850490345933,
+    "new_coverage_area_m2": 948144.815354645,
+    "removed_coverage_area_m2": 271681.8532701244,
+    "new_coverage_area_ha": 94.81448153546451,
+    "removed_coverage_area_ha": 27.16818532701244,
+    "net_change_ha": 67.64629620845207,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 688439.0,
+    "alignment_overlap_ratio": 0.9826658654292211,
+    "coverage_by_year_ha": {
+      "2019": 1664.7939693843198,
+      "2020": 1672.758622524328,
+      "2021": 1670.2220836590357,
+      "2022": 1670.2812564163908,
+      "2023": 1737.927552624843,
+      "2024": 1799.7630840610154
+    },
+    "total_coverage_area_ha_2022": 1670.2812564163908,
+    "total_coverage_area_ha_2023": 1737.927552624843
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 688439.0,
+    "overlap_ratio": 0.9826658654292211
+  }
+}

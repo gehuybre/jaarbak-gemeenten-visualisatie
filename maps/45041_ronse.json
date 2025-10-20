@@ -1,0 +1,54 @@
+{
+  "name": "Ronse",
+  "niscode": "45041",
+  "slug": "ronse",
+  "relative_html": "45041_ronse.html",
+  "generated_at": "2025-10-20T11:07:10Z",
+  "bounds_latlon": [
+    [
+      50.720397596484425,
+      3.5374592230792157
+    ],
+    [
+      50.78434750319866,
+      3.678321955134723
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1424912,
+    "new_coverage_pixels": 20861,
+    "removed_coverage_pixels": 13251,
+    "no_change_pixels": 1390800,
+    "new_coverage_percent": 1.4640202342320088,
+    "removed_coverage_percent": 0.9299521654670604,
+    "no_change_percent": 97.60602760030093,
+    "pixel_area_m2": 24.35302502430505,
+    "new_coverage_area_m2": 508028.4550320277,
+    "removed_coverage_area_m2": 322701.93459706625,
+    "new_coverage_area_ha": 50.80284550320277,
+    "removed_coverage_area_ha": 32.270193459706626,
+    "net_change_ha": 18.532652043496142,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 967911.0,
+    "alignment_overlap_ratio": 0.9827235927129625,
+    "coverage_by_year_ha": {
+      "2019": 648.9033988901251,
+      "2020": 654.9916551462013,
+      "2021": 648.5770683547994,
+      "2022": 649.2784354754994,
+      "2023": 667.8110875189956,
+      "2024": 685.4402423340899
+    },
+    "total_coverage_area_ha_2022": 649.2784354754994,
+    "total_coverage_area_ha_2023": 667.8110875189956
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 967911.0,
+    "overlap_ratio": 0.9827235927129625
+  }
+}

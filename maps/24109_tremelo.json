@@ -1,0 +1,54 @@
+{
+  "name": "Tremelo",
+  "niscode": "24109",
+  "slug": "tremelo",
+  "relative_html": "24109_tremelo.html",
+  "generated_at": "2025-10-20T10:31:20Z",
+  "bounds_latlon": [
+    [
+      50.97893710596752,
+      4.652804438516314
+    ],
+    [
+      51.02707026839898,
+      4.774608791909812
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1204939,
+    "new_coverage_pixels": 11398,
+    "removed_coverage_pixels": 2699,
+    "no_change_pixels": 1190842,
+    "new_coverage_percent": 0.945940001942007,
+    "removed_coverage_percent": 0.22399474164252298,
+    "no_change_percent": 98.83006525641547,
+    "pixel_area_m2": 18.16775263751182,
+    "new_coverage_area_m2": 207076.04456235975,
+    "removed_coverage_area_m2": 49034.764368644406,
+    "new_coverage_area_ha": 20.707604456235973,
+    "removed_coverage_area_ha": 4.903476436864441,
+    "net_change_ha": 15.804128019371532,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 409117.0,
+    "alignment_overlap_ratio": 0.9867347455603606,
+    "coverage_by_year_ha": {
+      "2019": 417.9128139206844,
+      "2020": 422.9361975249564,
+      "2021": 406.6978602175484,
+      "2022": 416.24319745329706,
+      "2023": 432.04732547266866,
+      "2024": 454.80061887588846
+    },
+    "total_coverage_area_ha_2022": 416.24319745329706,
+    "total_coverage_area_ha_2023": 432.04732547266866
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 409117.0,
+    "overlap_ratio": 0.9867347455603606
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Kalmthout",
+  "niscode": "11022",
+  "slug": "kalmthout",
+  "relative_html": "11022_kalmthout.html",
+  "generated_at": "2025-10-20T10:30:11Z",
+  "bounds_latlon": [
+    [
+      51.352410938190715,
+      4.383601602283849
+    ],
+    [
+      51.45394480986359,
+      4.535514030326253
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1865964,
+    "new_coverage_pixels": 12492,
+    "removed_coverage_pixels": 4984,
+    "no_change_pixels": 1848488,
+    "new_coverage_percent": 0.6694662919541856,
+    "removed_coverage_percent": 0.2671005442763097,
+    "no_change_percent": 99.0634331637695,
+    "pixel_area_m2": 31.837646233289416,
+    "new_coverage_area_m2": 397715.87674625136,
+    "removed_coverage_area_m2": 158678.82882671445,
+    "new_coverage_area_ha": 39.77158767462514,
+    "removed_coverage_area_ha": 15.867882882671445,
+    "net_change_ha": 23.903704791953693,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 802421.0,
+    "alignment_overlap_ratio": 0.9880121700607148,
+    "coverage_by_year_ha": {
+      "2019": 537.5340839443652,
+      "2020": 540.2148137572082,
+      "2021": 560.6100099342533,
+      "2022": 566.442666724192,
+      "2023": 590.3463715161457,
+      "2024": 628.7457566381161
+    },
+    "total_coverage_area_ha_2022": 566.442666724192,
+    "total_coverage_area_ha_2023": 590.3463715161457
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 802421.0,
+    "overlap_ratio": 0.9880121700607148
+  }
+}

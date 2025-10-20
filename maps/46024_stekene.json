@@ -1,0 +1,54 @@
+{
+  "name": "Stekene",
+  "niscode": "46024",
+  "slug": "stekene",
+  "relative_html": "46024_stekene.html",
+  "generated_at": "2025-10-20T11:23:16Z",
+  "bounds_latlon": [
+    [
+      51.16881724593999,
+      3.970759195858566
+    ],
+    [
+      51.24999701025056,
+      4.0937598781622
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2239209,
+    "new_coverage_pixels": 26093,
+    "removed_coverage_pixels": 20608,
+    "no_change_pixels": 2192508,
+    "new_coverage_percent": 1.16527756006697,
+    "removed_coverage_percent": 0.9203249897620096,
+    "no_change_percent": 97.91439745017102,
+    "pixel_area_m2": 20.214165825634108,
+    "new_coverage_area_m2": 527448.2288882708,
+    "removed_coverage_area_m2": 416573.5293346677,
+    "new_coverage_area_ha": 52.74482288882708,
+    "removed_coverage_area_ha": 41.657352933466775,
+    "net_change_ha": 11.087469955360305,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 744366.0,
+    "alignment_overlap_ratio": 0.9628539238348276,
+    "coverage_by_year_ha": {
+      "2019": 595.9277584557715,
+      "2020": 599.3661880627118,
+      "2021": 588.5596950123279,
+      "2022": 613.2351272356793,
+      "2023": 624.3225971910397,
+      "2024": 639.5196070587514
+    },
+    "total_coverage_area_ha_2022": 613.2351272356793,
+    "total_coverage_area_ha_2023": 624.3225971910397
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 744366.0,
+    "overlap_ratio": 0.9628539238348276
+  }
+}

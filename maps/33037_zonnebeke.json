@@ -1,0 +1,54 @@
+{
+  "name": "Zonnebeke",
+  "niscode": "33037",
+  "slug": "zonnebeke",
+  "relative_html": "33037_zonnebeke.html",
+  "generated_at": "2025-10-20T10:31:37Z",
+  "bounds_latlon": [
+    [
+      50.799826291485616,
+      2.9364114366658005
+    ],
+    [
+      50.92913900854859,
+      3.0710107582458455
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1346965,
+    "new_coverage_pixels": 24863,
+    "removed_coverage_pixels": 21889,
+    "no_change_pixels": 1300213,
+    "new_coverage_percent": 1.8458534557319601,
+    "removed_coverage_percent": 1.6250607848013867,
+    "no_change_percent": 96.52908575946665,
+    "pixel_area_m2": 50.55288897586288,
+    "new_coverage_area_m2": 1256896.4786068788,
+    "removed_coverage_area_m2": 1106552.1867926626,
+    "new_coverage_area_ha": 125.68964786068788,
+    "removed_coverage_area_ha": 110.65521867926626,
+    "net_change_ha": 15.034429181421629,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 258021.0,
+    "alignment_overlap_ratio": 0.8634605216483392,
+    "coverage_by_year_ha": {
+      "2019": 723.7151585784529,
+      "2020": 737.7991934471285,
+      "2021": 739.36633300538,
+      "2022": 720.2573409725039,
+      "2023": 735.2917701539255,
+      "2024": 750.6042402247144
+    },
+    "total_coverage_area_ha_2022": 720.2573409725039,
+    "total_coverage_area_ha_2023": 735.2917701539255
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 258021.0,
+    "overlap_ratio": 0.8634605216483392
+  }
+}

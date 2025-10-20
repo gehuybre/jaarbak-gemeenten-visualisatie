@@ -1,0 +1,54 @@
+{
+  "name": "Middelkerke",
+  "niscode": "35011",
+  "slug": "middelkerke",
+  "relative_html": "35011_middelkerke.html",
+  "generated_at": "2025-10-20T10:31:51Z",
+  "bounds_latlon": [
+    [
+      51.09365268890809,
+      2.7448513799126273
+    ],
+    [
+      51.20325820335508,
+      2.9258308472839594
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2049877,
+    "new_coverage_pixels": 17164,
+    "removed_coverage_pixels": 92288,
+    "no_change_pixels": 1940425,
+    "new_coverage_percent": 0.8373185317948345,
+    "removed_coverage_percent": 4.502123785963743,
+    "no_change_percent": 94.66055768224142,
+    "pixel_area_m2": 38.558190393950746,
+    "new_coverage_area_m2": 661812.7799217706,
+    "removed_coverage_area_m2": 3558458.275076926,
+    "new_coverage_area_ha": 66.18127799217706,
+    "removed_coverage_area_ha": 355.8458275076926,
+    "net_change_ha": -289.66454951551555,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 670087.0,
+    "alignment_overlap_ratio": 0.8679658558068444,
+    "coverage_by_year_ha": {
+      "2019": 1098.1488298768354,
+      "2020": 1121.9855031783757,
+      "2021": 1126.9517981011168,
+      "2022": 1122.984160309579,
+      "2023": 833.3196107940635,
+      "2024": 842.6429812313208
+    },
+    "total_coverage_area_ha_2022": 1122.984160309579,
+    "total_coverage_area_ha_2023": 833.3196107940635
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 670087.0,
+    "overlap_ratio": 0.8679658558068444
+  }
+}

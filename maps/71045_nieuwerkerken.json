@@ -1,0 +1,54 @@
+{
+  "name": "Nieuwerkerken",
+  "niscode": "71045",
+  "slug": "nieuwerkerken",
+  "relative_html": "71045_nieuwerkerken.html",
+  "generated_at": "2025-10-20T11:30:20Z",
+  "bounds_latlon": [
+    [
+      50.8510133693515,
+      5.14828162064599
+    ],
+    [
+      50.91087933335616,
+      5.2639289484179805
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1384272,
+    "new_coverage_pixels": 7543,
+    "removed_coverage_pixels": 3092,
+    "no_change_pixels": 1373637,
+    "new_coverage_percent": 0.5449073592473155,
+    "removed_coverage_percent": 0.22336650600460026,
+    "no_change_percent": 99.23172613474809,
+    "pixel_area_m2": 16.261198616067514,
+    "new_coverage_area_m2": 122658.22116099726,
+    "removed_coverage_area_m2": 50279.626120880755,
+    "new_coverage_area_ha": 12.265822116099725,
+    "removed_coverage_area_ha": 5.027962612088076,
+    "net_change_ha": 7.23785950401165,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 350413.0,
+    "alignment_overlap_ratio": 0.9802310618775876,
+    "coverage_by_year_ha": {
+      "2019": 285.1612572909447,
+      "2020": 289.13874647243483,
+      "2021": 287.94517449401553,
+      "2022": 298.6222775053254,
+      "2023": 305.86013700933705,
+      "2024": 313.39395032816117
+    },
+    "total_coverage_area_ha_2022": 298.6222775053254,
+    "total_coverage_area_ha_2023": 305.86013700933705
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 350413.0,
+    "overlap_ratio": 0.9802310618775876
+  }
+}

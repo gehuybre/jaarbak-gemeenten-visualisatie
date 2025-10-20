@@ -1,0 +1,54 @@
+{
+  "name": "Linter",
+  "niscode": "24133",
+  "slug": "linter",
+  "relative_html": "24133_linter.html",
+  "generated_at": "2025-10-20T10:31:21Z",
+  "bounds_latlon": [
+    [
+      50.775805866795096,
+      4.991674618950132
+    ],
+    [
+      50.868502874507605,
+      5.094535720707492
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1405107,
+    "new_coverage_pixels": 3285,
+    "removed_coverage_pixels": 2251,
+    "no_change_pixels": 1399571,
+    "new_coverage_percent": 0.23379002453193953,
+    "removed_coverage_percent": 0.16020132274623924,
+    "no_change_percent": 99.60600865272183,
+    "pixel_area_m2": 26.240975349369762,
+    "new_coverage_area_m2": 86201.60402267968,
+    "removed_coverage_area_m2": 59068.43551143134,
+    "new_coverage_area_ha": 8.620160402267967,
+    "removed_coverage_area_ha": 5.906843551143134,
+    "net_change_ha": 2.7133168511248327,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 194562.0,
+    "alignment_overlap_ratio": 0.9817587308315294,
+    "coverage_by_year_ha": {
+      "2019": 297.8534388980913,
+      "2020": 297.1633012464029,
+      "2021": 292.42418109830675,
+      "2022": 292.69971133947513,
+      "2023": 295.41302819059996,
+      "2024": 299.51974083277634
+    },
+    "total_coverage_area_ha_2022": 292.69971133947513,
+    "total_coverage_area_ha_2023": 295.41302819059996
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 194562.0,
+    "overlap_ratio": 0.9817587308315294
+  }
+}

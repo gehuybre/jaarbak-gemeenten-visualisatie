@@ -1,0 +1,54 @@
+{
+  "name": "Horebeke",
+  "niscode": "45062",
+  "slug": "horebeke",
+  "relative_html": "45062_horebeke.html",
+  "generated_at": "2025-10-20T11:23:12Z",
+  "bounds_latlon": [
+    [
+      50.79831616586074,
+      3.671581365973703
+    ],
+    [
+      50.86240225484433,
+      3.7166673657716656
+    ]
+  ],
+  "stats": {
+    "total_pixels": 891739,
+    "new_coverage_pixels": 7786,
+    "removed_coverage_pixels": 5974,
+    "no_change_pixels": 877979,
+    "new_coverage_percent": 0.8731254324415553,
+    "removed_coverage_percent": 0.6699269629342218,
+    "no_change_percent": 98.45694760462422,
+    "pixel_area_m2": 12.613191802522351,
+    "new_coverage_area_m2": 98206.31137443903,
+    "removed_coverage_area_m2": 75351.20782826853,
+    "new_coverage_area_ha": 9.820631137443902,
+    "removed_coverage_area_ha": 7.535120782826852,
+    "net_change_ha": 2.28551035461705,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 117712.0,
+    "alignment_overlap_ratio": 0.9208480012516623,
+    "coverage_by_year_ha": {
+      "2019": 94.41100196106005,
+      "2020": 92.41181106036026,
+      "2021": 90.66992927243193,
+      "2022": 92.0094502418598,
+      "2023": 94.29496059647684,
+      "2024": 100.37325772611237
+    },
+    "total_coverage_area_ha_2022": 92.0094502418598,
+    "total_coverage_area_ha_2023": 94.29496059647684
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 117712.0,
+    "overlap_ratio": 0.9208480012516623
+  }
+}

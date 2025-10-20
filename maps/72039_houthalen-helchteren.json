@@ -1,0 +1,54 @@
+{
+  "name": "Houthalen-Helchteren",
+  "niscode": "72039",
+  "slug": "houthalen-helchteren",
+  "relative_html": "72039_houthalen-helchteren.html",
+  "generated_at": "2025-10-20T11:30:32Z",
+  "bounds_latlon": [
+    [
+      51.000476790877585,
+      5.3344916565304175
+    ],
+    [
+      51.104527178143016,
+      5.523979630577851
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1816002,
+    "new_coverage_pixels": 43143,
+    "removed_coverage_pixels": 39940,
+    "no_change_pixels": 1732919,
+    "new_coverage_percent": 2.375713242606561,
+    "removed_coverage_percent": 2.1993367848713823,
+    "no_change_percent": 95.42494997252206,
+    "pixel_area_m2": 43.07798998765843,
+    "new_coverage_area_m2": 1858513.7220375475,
+    "removed_coverage_area_m2": 1720534.9201070776,
+    "new_coverage_area_ha": 185.85137220375475,
+    "removed_coverage_area_ha": 172.05349201070777,
+    "net_change_ha": 13.797880193046979,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 317802.0,
+    "alignment_overlap_ratio": 0.821648146520298,
+    "coverage_by_year_ha": {
+      "2019": 1031.592934033455,
+      "2020": 1026.2986490639719,
+      "2021": 1038.7395725724077,
+      "2022": 993.0769031854898,
+      "2023": 1006.8747833785367,
+      "2024": 1044.1113979238687
+    },
+    "total_coverage_area_ha_2022": 993.0769031854898,
+    "total_coverage_area_ha_2023": 1006.8747833785367
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 317802.0,
+    "overlap_ratio": 0.821648146520298
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Koksijde",
+  "niscode": "38014",
+  "slug": "koksijde",
+  "relative_html": "38014_koksijde.html",
+  "generated_at": "2025-10-20T10:32:04Z",
+  "bounds_latlon": [
+    [
+      51.079857331867366,
+      2.6004873100419252
+    ],
+    [
+      51.15057743789371,
+      2.758427204538231
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1698996,
+    "new_coverage_pixels": 26632,
+    "removed_coverage_pixels": 212547,
+    "no_change_pixels": 1459817,
+    "new_coverage_percent": 1.5675139906156341,
+    "removed_coverage_percent": 12.510153055098423,
+    "no_change_percent": 85.92233295428593,
+    "pixel_area_m2": 29.641413622425294,
+    "new_coverage_area_m2": 789410.1275924305,
+    "removed_coverage_area_m2": 6300193.541205629,
+    "new_coverage_area_ha": 78.94101275924305,
+    "removed_coverage_area_ha": 630.0193541205629,
+    "net_change_ha": -551.0783413613199,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 753049.0,
+    "alignment_overlap_ratio": 0.7632916101161485,
+    "coverage_by_year_ha": {
+      "2019": 1301.913133265526,
+      "2020": 1310.3016533206724,
+      "2021": 1316.0817289770453,
+      "2022": 1321.482394539051,
+      "2023": 770.4040531777313,
+      "2024": 800.001004679723
+    },
+    "total_coverage_area_ha_2022": 1321.482394539051,
+    "total_coverage_area_ha_2023": 770.4040531777313
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 753049.0,
+    "overlap_ratio": 0.7632916101161485
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Wuustwezel",
+  "niscode": "11053",
+  "slug": "wuustwezel",
+  "relative_html": "11053_wuustwezel.html",
+  "generated_at": "2025-10-20T10:30:19Z",
+  "bounds_latlon": [
+    [
+      51.33715905555344,
+      4.506569252777211
+    ],
+    [
+      51.432950753361865,
+      4.71736993309778
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1668053,
+    "new_coverage_pixels": 28839,
+    "removed_coverage_pixels": 22385,
+    "no_change_pixels": 1616829,
+    "new_coverage_percent": 1.728901899400079,
+    "removed_coverage_percent": 1.3419837379267925,
+    "no_change_percent": 96.92911436267313,
+    "pixel_area_m2": 53.602833080489056,
+    "new_coverage_area_m2": 1545852.1032082238,
+    "removed_coverage_area_m2": 1199899.4185067476,
+    "new_coverage_area_ha": 154.58521032082237,
+    "removed_coverage_area_ha": 119.98994185067475,
+    "net_change_ha": 34.595268470147616,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 343482.0,
+    "alignment_overlap_ratio": 0.9033318518089938,
+    "coverage_by_year_ha": {
+      "2019": 833.3900473189036,
+      "2020": 845.595412411331,
+      "2021": 850.1409326565564,
+      "2022": 875.725564885874,
+      "2023": 910.3208333560216,
+      "2024": 941.2550283267718
+    },
+    "total_coverage_area_ha_2022": 875.725564885874,
+    "total_coverage_area_ha_2023": 910.3208333560216
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 343482.0,
+    "overlap_ratio": 0.9033318518089938
+  }
+}

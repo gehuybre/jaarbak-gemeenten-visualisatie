@@ -1,0 +1,54 @@
+{
+  "name": "Buggenhout",
+  "niscode": "42004",
+  "slug": "buggenhout",
+  "relative_html": "42004_buggenhout.html",
+  "generated_at": "2025-10-20T10:32:14Z",
+  "bounds_latlon": [
+    [
+      50.98215917771242,
+      4.154243525557714
+    ],
+    [
+      51.04328429930652,
+      4.241231312093618
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2227811,
+    "new_coverage_pixels": 29126,
+    "removed_coverage_pixels": 21181,
+    "no_change_pixels": 2177504,
+    "new_coverage_percent": 1.3073819996400053,
+    "removed_coverage_percent": 0.9507539014754842,
+    "no_change_percent": 97.7418640988845,
+    "pixel_area_m2": 11.509736510052683,
+    "new_coverage_area_m2": 335232.58559179446,
+    "removed_coverage_area_m2": 243787.72901942587,
+    "new_coverage_area_ha": 33.523258559179446,
+    "removed_coverage_area_ha": 24.378772901942586,
+    "net_change_ha": 9.14448565723686,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 584290.0,
+    "alignment_overlap_ratio": 0.9436360406337312,
+    "coverage_by_year_ha": {
+      "2019": 427.92739954915476,
+      "2020": 427.775471027222,
+      "2021": 423.63311685725404,
+      "2022": 437.32049551500876,
+      "2023": 446.46498117224553,
+      "2024": 450.7500560749382
+    },
+    "total_coverage_area_ha_2022": 437.32049551500876,
+    "total_coverage_area_ha_2023": 446.46498117224553
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 584290.0,
+    "overlap_ratio": 0.9436360406337312
+  }
+}

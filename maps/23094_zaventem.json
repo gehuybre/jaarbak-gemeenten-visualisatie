@@ -1,0 +1,54 @@
+{
+  "name": "Zaventem",
+  "niscode": "23094",
+  "slug": "zaventem",
+  "relative_html": "23094_zaventem.html",
+  "generated_at": "2025-10-20T10:30:58Z",
+  "bounds_latlon": [
+    [
+      50.83427652709048,
+      4.420821584807841
+    ],
+    [
+      50.902435587418154,
+      4.536589157137359
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1674264,
+    "new_coverage_pixels": 13264,
+    "removed_coverage_pixels": 14487,
+    "no_change_pixels": 1646513,
+    "new_coverage_percent": 0.7922287046726203,
+    "removed_coverage_percent": 0.8652757271254712,
+    "no_change_percent": 98.3424955682019,
+    "pixel_area_m2": 16.560392501609698,
+    "new_coverage_area_m2": 219657.04614135102,
+    "removed_coverage_area_m2": 239910.40617081968,
+    "new_coverage_area_ha": 21.965704614135102,
+    "removed_coverage_area_ha": 23.991040617081968,
+    "net_change_ha": -2.025336002946865,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1684042.0,
+    "alignment_overlap_ratio": 0.9837596087959001,
+    "coverage_by_year_ha": {
+      "2019": 972.0172059997317,
+      "2020": 983.5813280836057,
+      "2021": 996.6160130216227,
+      "2022": 992.3765525412107,
+      "2023": 990.3512165382639,
+      "2024": 971.320013475414
+    },
+    "total_coverage_area_ha_2022": 992.3765525412107,
+    "total_coverage_area_ha_2023": 990.3512165382639
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1684042.0,
+    "overlap_ratio": 0.9837596087959001
+  }
+}

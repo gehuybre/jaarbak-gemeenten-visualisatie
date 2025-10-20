@@ -1,0 +1,54 @@
+{
+  "name": "Mortsel",
+  "niscode": "11029",
+  "slug": "mortsel",
+  "relative_html": "11029_mortsel.html",
+  "generated_at": "2025-10-20T10:30:13Z",
+  "bounds_latlon": [
+    [
+      51.1610579069974,
+      4.432926915412105
+    ],
+    [
+      51.1895637036579,
+      4.4840591304202
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2440110,
+    "new_coverage_pixels": 70561,
+    "removed_coverage_pixels": 16127,
+    "no_change_pixels": 2353422,
+    "new_coverage_percent": 2.8917138981439363,
+    "removed_coverage_percent": 0.6609128277003906,
+    "no_change_percent": 96.44737327415568,
+    "pixel_area_m2": 3.19022109967927,
+    "new_coverage_area_m2": 225105.19101446896,
+    "removed_coverage_area_m2": 51448.69567452759,
+    "new_coverage_area_ha": 22.510519101446896,
+    "removed_coverage_area_ha": 5.144869567452759,
+    "net_change_ha": 17.365649533994137,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1393779.0,
+    "alignment_overlap_ratio": 0.9845491688635343,
+    "coverage_by_year_ha": {
+      "2019": 334.6918379653317,
+      "2020": 335.3652936394739,
+      "2021": 332.1259431348596,
+      "2022": 329.46242753873736,
+      "2023": 346.8280770727315,
+      "2024": 359.64829958390266
+    },
+    "total_coverage_area_ha_2022": 329.46242753873736,
+    "total_coverage_area_ha_2023": 346.8280770727315
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1393779.0,
+    "overlap_ratio": 0.9845491688635343
+  }
+}

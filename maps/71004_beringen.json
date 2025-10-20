@@ -1,0 +1,54 @@
+{
+  "name": "Beringen",
+  "niscode": "71004",
+  "slug": "beringen",
+  "relative_html": "71004_beringen.html",
+  "generated_at": "2025-10-20T11:30:14Z",
+  "bounds_latlon": [
+    [
+      51.0151100268161,
+      5.12102904783812
+    ],
+    [
+      51.107071103015414,
+      5.344637577882255
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1298174,
+    "new_coverage_pixels": 23347,
+    "removed_coverage_pixels": 21442,
+    "no_change_pixels": 1253385,
+    "new_coverage_percent": 1.7984492063467608,
+    "removed_coverage_percent": 1.6517046251118879,
+    "no_change_percent": 96.54984616854135,
+    "pixel_area_m2": 60.51780196170331,
+    "new_coverage_area_m2": 1412909.1223998873,
+    "removed_coverage_area_m2": 1297622.7096628423,
+    "new_coverage_area_ha": 141.29091223998873,
+    "removed_coverage_area_ha": 129.76227096628423,
+    "net_change_ha": 11.528641273704494,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 443533.0,
+    "alignment_overlap_ratio": 0.9138585036088028,
+    "coverage_by_year_ha": {
+      "2019": 1443.8942370042794,
+      "2020": 1454.2427811397306,
+      "2021": 1494.656569289756,
+      "2022": 1465.1359854928373,
+      "2023": 1476.6646267665417,
+      "2024": 1492.774465648747
+    },
+    "total_coverage_area_ha_2022": 1465.1359854928373,
+    "total_coverage_area_ha_2023": 1476.6646267665417
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 443533.0,
+    "overlap_ratio": 0.9138585036088028
+  }
+}

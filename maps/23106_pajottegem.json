@@ -1,0 +1,54 @@
+{
+  "name": "Pajottegem",
+  "niscode": "23106",
+  "slug": "pajottegem",
+  "relative_html": "23106_pajottegem.html",
+  "generated_at": "2025-10-20T10:31:05Z",
+  "bounds_latlon": [
+    [
+      50.68730201390726,
+      3.9304753468539855
+    ],
+    [
+      50.81656092020294,
+      4.152754730691757
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1969390,
+    "new_coverage_pixels": 32772,
+    "removed_coverage_pixels": 32489,
+    "no_change_pixels": 1904129,
+    "new_coverage_percent": 1.6640685694555166,
+    "removed_coverage_percent": 1.6496986376492213,
+    "no_change_percent": 96.68623279289527,
+    "pixel_area_m2": 61.01668405694154,
+    "new_coverage_area_m2": 1999638.7699140883,
+    "removed_coverage_area_m2": 1982371.0483259738,
+    "new_coverage_area_ha": 199.96387699140882,
+    "removed_coverage_area_ha": 198.23710483259737,
+    "net_change_ha": 1.7267721588114568,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 591631.0,
+    "alignment_overlap_ratio": 0.9183779277971726,
+    "coverage_by_year_ha": {
+      "2019": 935.7213583552272,
+      "2020": 935.6115283239245,
+      "2021": 931.1207003773337,
+      "2022": 929.7600283228637,
+      "2023": 931.4868004816752,
+      "2024": 921.8644694058956
+    },
+    "total_coverage_area_ha_2022": 929.7600283228637,
+    "total_coverage_area_ha_2023": 931.4868004816752
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 591631.0,
+    "overlap_ratio": 0.9183779277971726
+  }
+}

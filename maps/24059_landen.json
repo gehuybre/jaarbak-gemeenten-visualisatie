@@ -1,0 +1,54 @@
+{
+  "name": "Landen",
+  "niscode": "24059",
+  "slug": "landen",
+  "relative_html": "24059_landen.html",
+  "generated_at": "2025-10-20T10:31:17Z",
+  "bounds_latlon": [
+    [
+      50.7031871707903,
+      4.982930861159215
+    ],
+    [
+      50.79494033971536,
+      5.122374937819881
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2082991,
+    "new_coverage_pixels": 7415,
+    "removed_coverage_pixels": 3030,
+    "no_change_pixels": 2072546,
+    "new_coverage_percent": 0.35597849438619755,
+    "removed_coverage_percent": 0.1454639026284799,
+    "no_change_percent": 99.49855760298533,
+    "pixel_area_m2": 25.589132374071664,
+    "new_coverage_area_m2": 189743.41655374138,
+    "removed_coverage_area_m2": 77535.07109343715,
+    "new_coverage_area_ha": 18.974341655374136,
+    "removed_coverage_area_ha": 7.7535071093437145,
+    "net_change_ha": 11.22083454603042,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1359318.0,
+    "alignment_overlap_ratio": 0.9970396536776215,
+    "coverage_by_year_ha": {
+      "2019": 500.38780683525914,
+      "2020": 501.61864410245204,
+      "2021": 498.28949798058534,
+      "2022": 490.4643413005941,
+      "2023": 501.6851758466246,
+      "2024": 512.4326114437347
+    },
+    "total_coverage_area_ha_2022": 490.4643413005941,
+    "total_coverage_area_ha_2023": 501.6851758466246
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1359318.0,
+    "overlap_ratio": 0.9970396536776215
+  }
+}

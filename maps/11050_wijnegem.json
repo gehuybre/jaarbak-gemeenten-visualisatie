@@ -1,0 +1,54 @@
+{
+  "name": "Wijnegem",
+  "niscode": "11050",
+  "slug": "wijnegem",
+  "relative_html": "11050_wijnegem.html",
+  "generated_at": "2025-10-20T10:30:18Z",
+  "bounds_latlon": [
+    [
+      51.21578205949055,
+      4.481333878524059
+    ],
+    [
+      51.24236106877217,
+      4.553083318348254
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1258067,
+    "new_coverage_pixels": 29567,
+    "removed_coverage_pixels": 4372,
+    "no_change_pixels": 1224128,
+    "new_coverage_percent": 2.350192795773198,
+    "removed_coverage_percent": 0.3475172625941226,
+    "no_change_percent": 97.30228994163268,
+    "pixel_area_m2": 6.267069679431321,
+    "new_coverage_area_m2": 185298.44921174587,
+    "removed_coverage_area_m2": 27399.628638473736,
+    "new_coverage_area_ha": 18.529844921174586,
+    "removed_coverage_area_ha": 2.7399628638473734,
+    "net_change_ha": 15.789882057327212,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 605367.0,
+    "alignment_overlap_ratio": 0.9830099215692643,
+    "coverage_by_year_ha": {
+      "2019": 266.04650849637875,
+      "2020": 266.68888313852045,
+      "2021": 263.0007126321751,
+      "2022": 260.58977092649786,
+      "2023": 276.3796529838251,
+      "2024": 288.3886119035514
+    },
+    "total_coverage_area_ha_2022": 260.58977092649786,
+    "total_coverage_area_ha_2023": 276.3796529838251
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 605367.0,
+    "overlap_ratio": 0.9830099215692643
+  }
+}

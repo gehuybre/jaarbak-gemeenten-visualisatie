@@ -1,0 +1,54 @@
+{
+  "name": "Tielt-Winge",
+  "niscode": "24135",
+  "slug": "tielt-winge",
+  "relative_html": "24135_tielt-winge.html",
+  "generated_at": "2025-10-20T10:31:23Z",
+  "bounds_latlon": [
+    [
+      50.880080216035715,
+      4.842247358465318
+    ],
+    [
+      50.963424099855935,
+      4.952290354209989
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2096706,
+    "new_coverage_pixels": 5913,
+    "removed_coverage_pixels": 3131,
+    "no_change_pixels": 2087662,
+    "new_coverage_percent": 0.2820137873407144,
+    "removed_coverage_percent": 0.14932947203852137,
+    "no_change_percent": 99.56865674062077,
+    "pixel_area_m2": 21.235082318816293,
+    "new_coverage_area_m2": 125563.04175116074,
+    "removed_coverage_area_m2": 66487.04274021382,
+    "new_coverage_area_ha": 12.556304175116074,
+    "removed_coverage_area_ha": 6.648704274021382,
+    "net_change_ha": 5.907599901094692,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 285808.0,
+    "alignment_overlap_ratio": 0.9822323337159511,
+    "coverage_by_year_ha": {
+      "2019": 438.63186037746937,
+      "2020": 438.30271660152766,
+      "2021": 434.2701744691845,
+      "2022": 434.7607048707492,
+      "2023": 440.66830477184385,
+      "2024": 455.1527544215084
+    },
+    "total_coverage_area_ha_2022": 434.7607048707492,
+    "total_coverage_area_ha_2023": 440.66830477184385
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 285808.0,
+    "overlap_ratio": 0.9822323337159511
+  }
+}

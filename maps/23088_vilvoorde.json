@@ -1,0 +1,54 @@
+{
+  "name": "Vilvoorde",
+  "niscode": "23088",
+  "slug": "vilvoorde",
+  "relative_html": "23088_vilvoorde.html",
+  "generated_at": "2025-10-20T10:30:58Z",
+  "bounds_latlon": [
+    [
+      50.896930734859026,
+      4.360441568273186
+    ],
+    [
+      50.95934068789753,
+      4.487104861647133
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1089814,
+    "new_coverage_pixels": 11508,
+    "removed_coverage_pixels": 11588,
+    "no_change_pixels": 1066718,
+    "new_coverage_percent": 1.0559600078545512,
+    "removed_coverage_percent": 1.0633007100294178,
+    "no_change_percent": 97.88073928211604,
+    "pixel_area_m2": 19.795851220715992,
+    "new_coverage_area_m2": 227810.65584799965,
+    "removed_coverage_area_m2": 229394.3239456569,
+    "new_coverage_area_ha": 22.781065584799965,
+    "removed_coverage_area_ha": 22.939432394565692,
+    "net_change_ha": -0.15836680976572737,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1189524.0,
+    "alignment_overlap_ratio": 0.9796053493031724,
+    "coverage_by_year_ha": {
+      "2019": 760.9505413392006,
+      "2020": 765.6381989082662,
+      "2021": 774.8056576085797,
+      "2022": 774.0197623151174,
+      "2023": 773.8613955053517,
+      "2024": 754.073462625124
+    },
+    "total_coverage_area_ha_2022": 774.0197623151174,
+    "total_coverage_area_ha_2023": 773.8613955053517
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1189524.0,
+    "overlap_ratio": 0.9796053493031724
+  }
+}

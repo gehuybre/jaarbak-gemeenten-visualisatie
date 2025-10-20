@@ -1,0 +1,54 @@
+{
+  "name": "Tervuren",
+  "niscode": "24104",
+  "slug": "tervuren",
+  "relative_html": "24104_tervuren.html",
+  "generated_at": "2025-10-20T10:31:19Z",
+  "bounds_latlon": [
+    [
+      50.7936686779271,
+      4.447143065757119
+    ],
+    [
+      50.867928361025946,
+      4.586781894117546
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1394082,
+    "new_coverage_pixels": 10300,
+    "removed_coverage_pixels": 6191,
+    "no_change_pixels": 1377591,
+    "new_coverage_percent": 0.7388374571940531,
+    "removed_coverage_percent": 0.44409152402799834,
+    "no_change_percent": 98.81707101877795,
+    "pixel_area_m2": 24.11646637045435,
+    "new_coverage_area_m2": 248399.6036156798,
+    "removed_coverage_area_m2": 149305.04329948287,
+    "new_coverage_area_ha": 24.839960361567982,
+    "removed_coverage_area_ha": 14.930504329948286,
+    "net_change_ha": 9.909456031619696,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 796805.0,
+    "alignment_overlap_ratio": 0.9810211519046563,
+    "coverage_by_year_ha": {
+      "2019": 442.79761573463827,
+      "2020": 444.5605294263185,
+      "2021": 438.37224415565987,
+      "2022": 441.66655346186394,
+      "2023": 451.5760094934836,
+      "2024": 443.1883024898396
+    },
+    "total_coverage_area_ha_2022": 441.66655346186394,
+    "total_coverage_area_ha_2023": 451.5760094934836
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 796805.0,
+    "overlap_ratio": 0.9810211519046563
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Opwijk",
+  "niscode": "23060",
+  "slug": "opwijk",
+  "relative_html": "23060_opwijk.html",
+  "generated_at": "2025-10-20T10:30:54Z",
+  "bounds_latlon": [
+    [
+      50.93191466740273,
+      4.142711615058496
+    ],
+    [
+      50.98922388058634,
+      4.225392233312319
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1968751,
+    "new_coverage_pixels": 34999,
+    "removed_coverage_pixels": 33286,
+    "no_change_pixels": 1900466,
+    "new_coverage_percent": 1.7777260811550062,
+    "removed_coverage_percent": 1.690716601540774,
+    "no_change_percent": 96.53155731730422,
+    "pixel_area_m2": 10.117867397967471,
+    "new_coverage_area_m2": 354115.2410614635,
+    "removed_coverage_area_m2": 336783.3342087452,
+    "new_coverage_area_ha": 35.41152410614635,
+    "removed_coverage_area_ha": 33.67833342087452,
+    "net_change_ha": 1.733190685271829,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": -1.0,
+    "alignment_overlap_score": 491175.0,
+    "alignment_overlap_ratio": 0.9030313392827596,
+    "coverage_by_year_ha": {
+      "2019": 360.01496954121836,
+      "2020": 357.6129878209409,
+      "2021": 352.85556657041656,
+      "2022": 363.61490676141517,
+      "2023": 365.348097446687,
+      "2024": 359.8298125678355
+    },
+    "total_coverage_area_ha_2022": 363.61490676141517,
+    "total_coverage_area_ha_2023": 365.348097446687
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      -1.0
+    ],
+    "score": 491175.0,
+    "overlap_ratio": 0.9030313392827596
+  }
+}

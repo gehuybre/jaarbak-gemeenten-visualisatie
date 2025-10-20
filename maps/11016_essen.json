@@ -1,0 +1,54 @@
+{
+  "name": "Essen",
+  "niscode": "11016",
+  "slug": "essen",
+  "relative_html": "11016_essen.html",
+  "generated_at": "2025-10-20T10:30:09Z",
+  "bounds_latlon": [
+    [
+      51.415396733792385,
+      4.379310713203564
+    ],
+    [
+      51.482525324290435,
+      4.5481831959779155
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1382868,
+    "new_coverage_pixels": 9384,
+    "removed_coverage_pixels": 5511,
+    "no_change_pixels": 1367973,
+    "new_coverage_percent": 0.6785897135518357,
+    "removed_coverage_percent": 0.39851959839984724,
+    "no_change_percent": 98.92289068804831,
+    "pixel_area_m2": 34.39924238805726,
+    "new_coverage_area_m2": 322802.49056952936,
+    "removed_coverage_area_m2": 189574.22480058356,
+    "new_coverage_area_ha": 32.28024905695293,
+    "removed_coverage_area_ha": 18.957422480058355,
+    "net_change_ha": 13.322826576894577,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 901595.0,
+    "alignment_overlap_ratio": 0.9925066215177861,
+    "coverage_by_year_ha": {
+      "2019": 513.0406207482024,
+      "2020": 510.95602665948616,
+      "2021": 539.820430947305,
+      "2022": 590.6246720302267,
+      "2023": 603.9474986071214,
+      "2024": 623.8509002528513
+    },
+    "total_coverage_area_ha_2022": 590.6246720302267,
+    "total_coverage_area_ha_2023": 603.9474986071214
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 901595.0,
+    "overlap_ratio": 0.9925066215177861
+  }
+}

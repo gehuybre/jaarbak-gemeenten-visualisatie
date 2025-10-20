@@ -1,0 +1,54 @@
+{
+  "name": "Huldenberg",
+  "niscode": "24045",
+  "slug": "huldenberg",
+  "relative_html": "24045_huldenberg.html",
+  "generated_at": "2025-10-20T10:31:14Z",
+  "bounds_latlon": [
+    [
+      50.74092089957699,
+      4.554940396020611
+    ],
+    [
+      50.835299547076055,
+      4.65589185330551
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1456392,
+    "new_coverage_pixels": 4268,
+    "removed_coverage_pixels": 3155,
+    "no_change_pixels": 1448969,
+    "new_coverage_percent": 0.2930529692555301,
+    "removed_coverage_percent": 0.21663123664507908,
+    "no_change_percent": 99.49031579409939,
+    "pixel_area_m2": 27.42884705384199,
+    "new_coverage_area_m2": 117066.31922579762,
+    "removed_coverage_area_m2": 86538.01245487148,
+    "new_coverage_area_ha": 11.706631922579762,
+    "removed_coverage_area_ha": 8.653801245487148,
+    "net_change_ha": 3.0528306770926132,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 535320.0,
+    "alignment_overlap_ratio": 0.990073739520277,
+    "coverage_by_year_ha": {
+      "2019": 300.7161646747967,
+      "2020": 301.46222931466116,
+      "2021": 297.191557828378,
+      "2022": 302.7650995497187,
+      "2023": 305.8179302268113,
+      "2024": 316.4548371142912
+    },
+    "total_coverage_area_ha_2022": 302.7650995497187,
+    "total_coverage_area_ha_2023": 305.8179302268113
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 535320.0,
+    "overlap_ratio": 0.990073739520277
+  }
+}

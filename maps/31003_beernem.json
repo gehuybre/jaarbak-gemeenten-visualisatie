@@ -1,0 +1,54 @@
+{
+  "name": "Beernem",
+  "niscode": "31003",
+  "slug": "beernem",
+  "relative_html": "31003_beernem.html",
+  "generated_at": "2025-10-20T10:31:24Z",
+  "bounds_latlon": [
+    [
+      51.09836498991419,
+      3.272213060870009
+    ],
+    [
+      51.20170798290987,
+      3.4122145287963885
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2242280,
+    "new_coverage_pixels": 21298,
+    "removed_coverage_pixels": 13258,
+    "no_change_pixels": 2207724,
+    "new_coverage_percent": 0.9498367732843356,
+    "removed_coverage_percent": 0.5912731683821824,
+    "no_change_percent": 98.45889005833348,
+    "pixel_area_m2": 32.299115621606916,
+    "new_coverage_area_m2": 687906.5645089841,
+    "removed_coverage_area_m2": 428221.6749112645,
+    "new_coverage_area_ha": 68.79065645089841,
+    "removed_coverage_area_ha": 42.82216749112645,
+    "net_change_ha": 25.96848895977196,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 280242.0,
+    "alignment_overlap_ratio": 0.9305573541863824,
+    "coverage_by_year_ha": {
+      "2019": 693.3780346952843,
+      "2020": 715.141178801123,
+      "2021": 719.9569769403046,
+      "2022": 702.2312222871668,
+      "2023": 728.1997112469387,
+      "2024": 742.1077104336026
+    },
+    "total_coverage_area_ha_2022": 702.2312222871668,
+    "total_coverage_area_ha_2023": 728.1997112469387
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 280242.0,
+    "overlap_ratio": 0.9305573541863824
+  }
+}

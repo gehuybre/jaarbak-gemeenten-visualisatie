@@ -1,0 +1,54 @@
+{
+  "name": "Zulte",
+  "niscode": "44081",
+  "slug": "zulte",
+  "relative_html": "44081_zulte.html",
+  "generated_at": "2025-10-20T10:49:11Z",
+  "bounds_latlon": [
+    [
+      50.89668646517361,
+      3.4137248058861545
+    ],
+    [
+      50.9837795472453,
+      3.5287735463762875
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1424150,
+    "new_coverage_pixels": 21158,
+    "removed_coverage_pixels": 17455,
+    "no_change_pixels": 1385537,
+    "new_coverage_percent": 1.485658111856195,
+    "removed_coverage_percent": 1.225643366218446,
+    "no_change_percent": 97.28869852192535,
+    "pixel_area_m2": 23.004152566653428,
+    "new_coverage_area_m2": 486721.8600052532,
+    "removed_coverage_area_m2": 401537.48305093555,
+    "new_coverage_area_ha": 48.67218600052532,
+    "removed_coverage_area_ha": 40.15374830509356,
+    "net_change_ha": 8.518437695431764,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 571929.0,
+    "alignment_overlap_ratio": 0.9420625495179565,
+    "coverage_by_year_ha": {
+      "2019": 628.1076820951619,
+      "2020": 624.8732982442905,
+      "2021": 617.2819278972948,
+      "2022": 624.5880467524638,
+      "2023": 633.1064844478957,
+      "2024": 642.5151828476569
+    },
+    "total_coverage_area_ha_2022": 624.5880467524638,
+    "total_coverage_area_ha_2023": 633.1064844478957
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 571929.0,
+    "overlap_ratio": 0.9420625495179565
+  }
+}

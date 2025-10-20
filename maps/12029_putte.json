@@ -1,0 +1,54 @@
+{
+  "name": "Putte",
+  "niscode": "12029",
+  "slug": "putte",
+  "relative_html": "12029_putte.html",
+  "generated_at": "2025-10-20T10:30:26Z",
+  "bounds_latlon": [
+    [
+      51.01707212825235,
+      4.563438844465674
+    ],
+    [
+      51.08699330157197,
+      4.68938197147028
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1814250,
+    "new_coverage_pixels": 15409,
+    "removed_coverage_pixels": 5962,
+    "no_change_pixels": 1792879,
+    "new_coverage_percent": 0.8493316797574755,
+    "removed_coverage_percent": 0.3286206421386248,
+    "no_change_percent": 98.8220476781039,
+    "pixel_area_m2": 19.378804578794913,
+    "new_coverage_area_m2": 298607.9997546508,
+    "removed_coverage_area_m2": 115536.43289877527,
+    "new_coverage_area_ha": 29.86079997546508,
+    "removed_coverage_area_ha": 11.553643289877527,
+    "net_change_ha": 18.307156685587554,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 552212.0,
+    "alignment_overlap_ratio": 0.9806519897639348,
+    "coverage_by_year_ha": {
+      "2019": 586.5615327518802,
+      "2020": 599.8883366607174,
+      "2021": 601.8727262495861,
+      "2022": 588.5982451131116,
+      "2023": 606.905401798699,
+      "2024": 622.8386549233843
+    },
+    "total_coverage_area_ha_2022": 588.5982451131116,
+    "total_coverage_area_ha_2023": 606.905401798699
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 552212.0,
+    "overlap_ratio": 0.9806519897639348
+  }
+}

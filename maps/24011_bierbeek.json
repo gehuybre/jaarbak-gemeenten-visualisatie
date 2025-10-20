@@ -1,0 +1,54 @@
+{
+  "name": "Bierbeek",
+  "niscode": "24011",
+  "slug": "bierbeek",
+  "relative_html": "24011_bierbeek.html",
+  "generated_at": "2025-10-20T10:31:09Z",
+  "bounds_latlon": [
+    [
+      50.787717203236234,
+      4.691200996866141
+    ],
+    [
+      50.87587773372222,
+      4.820130210121808
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1636349,
+    "new_coverage_pixels": 6584,
+    "removed_coverage_pixels": 3023,
+    "no_change_pixels": 1626742,
+    "new_coverage_percent": 0.40235915443465914,
+    "removed_coverage_percent": 0.18474054129039708,
+    "no_change_percent": 99.41290030427494,
+    "pixel_area_m2": 23.812079997747738,
+    "new_coverage_area_m2": 156778.7347051711,
+    "removed_coverage_area_m2": 71983.91783319142,
+    "new_coverage_area_ha": 15.677873470517111,
+    "removed_coverage_area_ha": 7.198391783319142,
+    "net_change_ha": 8.47948168719797,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 835644.0,
+    "alignment_overlap_ratio": 0.9904374952590458,
+    "coverage_by_year_ha": {
+      "2019": 322.3655578015091,
+      "2020": 326.3112194571359,
+      "2021": 322.5298611534935,
+      "2022": 324.9063067372688,
+      "2023": 333.38578842446674,
+      "2024": 340.1198446478298
+    },
+    "total_coverage_area_ha_2022": 324.9063067372688,
+    "total_coverage_area_ha_2023": 333.38578842446674
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 835644.0,
+    "overlap_ratio": 0.9904374952590458
+  }
+}

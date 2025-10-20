@@ -1,0 +1,54 @@
+{
+  "name": "Dentergem",
+  "niscode": "37002",
+  "slug": "dentergem",
+  "relative_html": "37002_dentergem.html",
+  "generated_at": "2025-10-20T10:31:58Z",
+  "bounds_latlon": [
+    [
+      50.91865991138802,
+      3.3604247478722056
+    ],
+    [
+      50.98207149879942,
+      3.4619062817500854
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2104595,
+    "new_coverage_pixels": 23929,
+    "removed_coverage_pixels": 16910,
+    "no_change_pixels": 2063756,
+    "new_coverage_percent": 1.1369883516781139,
+    "removed_coverage_percent": 0.8034800044664175,
+    "no_change_percent": 98.05953164385546,
+    "pixel_area_m2": 12.39648333780889,
+    "new_coverage_area_m2": 296635.4497904289,
+    "removed_coverage_area_m2": 209624.53324234832,
+    "new_coverage_area_ha": 29.663544979042893,
+    "removed_coverage_area_ha": 20.962453324234833,
+    "net_change_ha": 8.70109165480806,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 513380.0,
+    "alignment_overlap_ratio": 0.9399155617559932,
+    "coverage_by_year_ha": {
+      "2019": 364.94627122342484,
+      "2020": 365.5214680502992,
+      "2021": 366.7251665824004,
+      "2022": 369.0457882632382,
+      "2023": 377.7468799180463,
+      "2024": 380.51129570237765
+    },
+    "total_coverage_area_ha_2022": 369.0457882632382,
+    "total_coverage_area_ha_2023": 377.7468799180463
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 513380.0,
+    "overlap_ratio": 0.9399155617559932
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Grobbendonk",
+  "niscode": "13010",
+  "slug": "grobbendonk",
+  "relative_html": "13010_grobbendonk.html",
+  "generated_at": "2025-10-20T10:30:32Z",
+  "bounds_latlon": [
+    [
+      51.14934849038551,
+      4.692044584108415
+    ],
+    [
+      51.21637134114314,
+      4.793462448396316
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2060429,
+    "new_coverage_pixels": 20521,
+    "removed_coverage_pixels": 11935,
+    "no_change_pixels": 2027973,
+    "new_coverage_percent": 0.9959576379482136,
+    "removed_coverage_percent": 0.5792483021739647,
+    "no_change_percent": 98.42479405987781,
+    "pixel_area_m2": 13.76847293268331,
+    "new_coverage_area_m2": 282542.8330515942,
+    "removed_coverage_area_m2": 164326.72445157528,
+    "new_coverage_area_ha": 28.254283305159422,
+    "removed_coverage_area_ha": 16.43267244515753,
+    "net_change_ha": 11.821610860001893,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 593280.0,
+    "alignment_overlap_ratio": 0.9701885496557702,
+    "coverage_by_year_ha": {
+      "2019": 461.53573487106377,
+      "2020": 472.2916659260759,
+      "2021": 476.97156987589506,
+      "2022": 477.176720122592,
+      "2023": 488.9983309825939,
+      "2024": 488.88956004642563
+    },
+    "total_coverage_area_ha_2022": 477.176720122592,
+    "total_coverage_area_ha_2023": 488.9983309825939
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 593280.0,
+    "overlap_ratio": 0.9701885496557702
+  }
+}

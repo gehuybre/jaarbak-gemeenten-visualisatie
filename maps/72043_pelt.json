@@ -1,0 +1,54 @@
+{
+  "name": "Pelt",
+  "niscode": "72043",
+  "slug": "pelt",
+  "relative_html": "72043_pelt.html",
+  "generated_at": "2025-10-20T11:30:34Z",
+  "bounds_latlon": [
+    [
+      51.16313458329724,
+      5.319804996312669
+    ],
+    [
+      51.27737343675969,
+      5.5303723002227025
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1586794,
+    "new_coverage_pixels": 23393,
+    "removed_coverage_pixels": 15748,
+    "no_change_pixels": 1547653,
+    "new_coverage_percent": 1.4742304294067157,
+    "removed_coverage_percent": 0.9924413628990278,
+    "no_change_percent": 97.53332820769425,
+    "pixel_area_m2": 52.802335942093336,
+    "new_coverage_area_m2": 1235205.0446933894,
+    "removed_coverage_area_m2": 831531.1864160858,
+    "new_coverage_area_ha": 123.52050446933895,
+    "removed_coverage_area_ha": 83.15311864160859,
+    "net_change_ha": 40.36738582773036,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 589115.0,
+    "alignment_overlap_ratio": 0.9420368649888144,
+    "coverage_by_year_ha": {
+      "2019": 1320.1112008882756,
+      "2020": 1297.9130988582194,
+      "2021": 1313.0779297407887,
+      "2022": 1370.347343303583,
+      "2023": 1410.7147291313133,
+      "2024": 1419.305669189092
+    },
+    "total_coverage_area_ha_2022": 1370.347343303583,
+    "total_coverage_area_ha_2023": 1410.7147291313133
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 589115.0,
+    "overlap_ratio": 0.9420368649888144
+  }
+}

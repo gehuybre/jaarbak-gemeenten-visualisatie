@@ -1,0 +1,54 @@
+{
+  "name": "Nieuwpoort",
+  "niscode": "38016",
+  "slug": "nieuwpoort",
+  "relative_html": "38016_nieuwpoort.html",
+  "generated_at": "2025-10-20T10:32:04Z",
+  "bounds_latlon": [
+    [
+      51.08583164965328,
+      2.6987654802488237
+    ],
+    [
+      51.166010969659574,
+      2.8256496854600477
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1745001,
+    "new_coverage_pixels": 20797,
+    "removed_coverage_pixels": 107450,
+    "no_change_pixels": 1616754,
+    "new_coverage_percent": 1.1918044746106162,
+    "removed_coverage_percent": 6.157589594504531,
+    "no_change_percent": 92.65060593088485,
+    "pixel_area_m2": 19.07354699414115,
+    "new_coverage_area_m2": 396672.5568371535,
+    "removed_coverage_area_m2": 2049452.6245204667,
+    "new_coverage_area_ha": 39.667255683715354,
+    "removed_coverage_area_ha": 204.94526245204668,
+    "net_change_ha": -165.27800676833132,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 543917.0,
+    "alignment_overlap_ratio": 0.8048240584415104,
+    "coverage_by_year_ha": {
+      "2019": 635.3608312765352,
+      "2020": 646.3338428622646,
+      "2021": 642.2749920619115,
+      "2022": 632.7344038554421,
+      "2023": 467.45639708711076,
+      "2024": 480.0811778425327
+    },
+    "total_coverage_area_ha_2022": 632.7344038554421,
+    "total_coverage_area_ha_2023": 467.45639708711076
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 543917.0,
+    "overlap_ratio": 0.8048240584415104
+  }
+}

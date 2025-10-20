@@ -1,0 +1,54 @@
+{
+  "name": "Nazareth-De Pinte",
+  "niscode": "44086",
+  "slug": "nazareth-de-pinte",
+  "relative_html": "44086_nazareth-de-pinte.html",
+  "generated_at": "2025-10-20T11:07:07Z",
+  "bounds_latlon": [
+    [
+      50.92793663541201,
+      3.537341220866981
+    ],
+    [
+      51.01459458866162,
+      3.711798014428225
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1440040,
+    "new_coverage_pixels": 19321,
+    "removed_coverage_pixels": 16845,
+    "no_change_pixels": 1403874,
+    "new_coverage_percent": 1.3416988416988418,
+    "removed_coverage_percent": 1.1697591733562958,
+    "no_change_percent": 97.48854198494486,
+    "pixel_area_m2": 36.95450868426824,
+    "new_coverage_area_m2": 713998.0622887467,
+    "removed_coverage_area_m2": 622498.6987864985,
+    "new_coverage_area_ha": 71.39980622887467,
+    "removed_coverage_area_ha": 62.249869878649854,
+    "net_change_ha": 9.149936350224813,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 492331.0,
+    "alignment_overlap_ratio": 0.93158582897971,
+    "coverage_by_year_ha": {
+      "2019": 896.2355264143471,
+      "2020": 904.3876910300967,
+      "2021": 897.9354338138234,
+      "2022": 918.814731220435,
+      "2023": 927.9646675706597,
+      "2024": 945.3111139470553
+    },
+    "total_coverage_area_ha_2022": 918.814731220435,
+    "total_coverage_area_ha_2023": 927.9646675706597
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 492331.0,
+    "overlap_ratio": 0.93158582897971
+  }
+}

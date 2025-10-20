@@ -1,0 +1,54 @@
+{
+  "name": "Zutendaal",
+  "niscode": "71067",
+  "slug": "zutendaal",
+  "relative_html": "71067_zutendaal.html",
+  "generated_at": "2025-10-20T11:30:22Z",
+  "bounds_latlon": [
+    [
+      50.89491463481149,
+      5.527781628053608
+    ],
+    [
+      50.97800885984342,
+      5.61580790597749
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1535658,
+    "new_coverage_pixels": 12612,
+    "removed_coverage_pixels": 3200,
+    "no_change_pixels": 1519846,
+    "new_coverage_percent": 0.8212766123707231,
+    "removed_coverage_percent": 0.20837973038267632,
+    "no_change_percent": 98.9703436572466,
+    "pixel_area_m2": 20.91138535013305,
+    "new_coverage_area_m2": 263734.39203587803,
+    "removed_coverage_area_m2": 66916.43312042576,
+    "new_coverage_area_ha": 26.373439203587804,
+    "removed_coverage_area_ha": 6.691643312042576,
+    "net_change_ha": 19.681795891545228,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 229943.0,
+    "alignment_overlap_ratio": 0.9780729738236821,
+    "coverage_by_year_ha": {
+      "2019": 335.02757811008667,
+      "2020": 331.1861566212672,
+      "2021": 324.2979462869334,
+      "2022": 329.8206431579035,
+      "2023": 349.5024390494487,
+      "2024": 351.2339017564397
+    },
+    "total_coverage_area_ha_2022": 329.8206431579035,
+    "total_coverage_area_ha_2023": 349.5024390494487
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 229943.0,
+    "overlap_ratio": 0.9780729738236821
+  }
+}

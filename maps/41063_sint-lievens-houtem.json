@@ -1,0 +1,54 @@
+{
+  "name": "Sint-Lievens-Houtem",
+  "niscode": "41063",
+  "slug": "sint-lievens-houtem",
+  "relative_html": "41063_sint-lievens-houtem.html",
+  "generated_at": "2025-10-20T10:32:11Z",
+  "bounds_latlon": [
+    [
+      50.90242576112961,
+      3.822993074237114
+    ],
+    [
+      50.95518211846539,
+      3.9382090543741186
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1665142,
+    "new_coverage_pixels": 17281,
+    "removed_coverage_pixels": 13175,
+    "no_change_pixels": 1634686,
+    "new_coverage_percent": 1.0378093880281682,
+    "removed_coverage_percent": 0.7912238115427994,
+    "no_change_percent": 98.17096680042903,
+    "pixel_area_m2": 16.24691340286546,
+    "new_coverage_area_m2": 280762.910514918,
+    "removed_coverage_area_m2": 214053.08408275244,
+    "new_coverage_area_ha": 28.076291051491797,
+    "removed_coverage_area_ha": 21.405308408275243,
+    "net_change_ha": 6.670982643216554,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 355700.0,
+    "alignment_overlap_ratio": 0.940201890976758,
+    "coverage_by_year_ha": {
+      "2019": 358.3581689270034,
+      "2020": 352.80172454322343,
+      "2021": 349.80741840307536,
+      "2022": 353.53608502903296,
+      "2023": 360.20706767224954,
+      "2024": 370.80005521091783
+    },
+    "total_coverage_area_ha_2022": 353.53608502903296,
+    "total_coverage_area_ha_2023": 360.20706767224954
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 355700.0,
+    "overlap_ratio": 0.940201890976758
+  }
+}

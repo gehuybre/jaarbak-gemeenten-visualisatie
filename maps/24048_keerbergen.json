@@ -1,0 +1,54 @@
+{
+  "name": "Keerbergen",
+  "niscode": "24048",
+  "slug": "keerbergen",
+  "relative_html": "24048_keerbergen.html",
+  "generated_at": "2025-10-20T10:31:15Z",
+  "bounds_latlon": [
+    [
+      50.98522007099417,
+      4.598468154387404
+    ],
+    [
+      51.024312964630276,
+      4.7095621109346
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1224902,
+    "new_coverage_pixels": 14839,
+    "removed_coverage_pixels": 2342,
+    "no_change_pixels": 1207721,
+    "new_coverage_percent": 1.211443854283853,
+    "removed_coverage_percent": 0.1911989693869387,
+    "no_change_percent": 98.5973571763292,
+    "pixel_area_m2": 15.137900476494531,
+    "new_coverage_area_m2": 224631.30517070234,
+    "removed_coverage_area_m2": 35452.96291595019,
+    "new_coverage_area_ha": 22.463130517070233,
+    "removed_coverage_area_ha": 3.5452962915950192,
+    "net_change_ha": 18.917834225475215,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 377991.0,
+    "alignment_overlap_ratio": 0.9870814596618773,
+    "coverage_by_year_ha": {
+      "2019": 355.79364384928925,
+      "2020": 357.2938097865098,
+      "2021": 339.58095243896355,
+      "2022": 349.58407707383117,
+      "2023": 368.5019112993064,
+      "2024": 395.40801560622776
+    },
+    "total_coverage_area_ha_2022": 349.58407707383117,
+    "total_coverage_area_ha_2023": 368.5019112993064
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 377991.0,
+    "overlap_ratio": 0.9870814596618773
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Wielsbeke",
+  "niscode": "37017",
+  "slug": "wielsbeke",
+  "relative_html": "37017_wielsbeke.html",
+  "generated_at": "2025-10-20T10:32:00Z",
+  "bounds_latlon": [
+    [
+      50.88020838987917,
+      3.30913295597407
+    ],
+    [
+      50.94611397959899,
+      3.434704930745134
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1148855,
+    "new_coverage_pixels": 17969,
+    "removed_coverage_pixels": 11815,
+    "no_change_pixels": 1119071,
+    "new_coverage_percent": 1.564079017804684,
+    "removed_coverage_percent": 1.028415248225407,
+    "no_change_percent": 97.40750573396991,
+    "pixel_area_m2": 19.074765468652632,
+    "new_coverage_area_m2": 342754.46070621914,
+    "removed_coverage_area_m2": 225368.35401213085,
+    "new_coverage_area_ha": 34.27544607062191,
+    "removed_coverage_area_ha": 22.536835401213086,
+    "net_change_ha": 11.738610669408825,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 869334.0,
+    "alignment_overlap_ratio": 0.9569230836969491,
+    "coverage_by_year_ha": {
+      "2019": 595.9719723025829,
+      "2020": 604.3324420074933,
+      "2021": 608.1359502419426,
+      "2022": 609.6638389559818,
+      "2023": 621.4024496253905,
+      "2024": 629.5321146681304
+    },
+    "total_coverage_area_ha_2022": 609.6638389559818,
+    "total_coverage_area_ha_2023": 621.4024496253905
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 869334.0,
+    "overlap_ratio": 0.9569230836969491
+  }
+}

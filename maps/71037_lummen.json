@@ -1,0 +1,54 @@
+{
+  "name": "Lummen",
+  "niscode": "71037",
+  "slug": "lummen",
+  "relative_html": "71037_lummen.html",
+  "generated_at": "2025-10-20T11:30:19Z",
+  "bounds_latlon": [
+    [
+      50.95522714770887,
+      5.108371871311281
+    ],
+    [
+      51.0420603369368,
+      5.253531526952916
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2111842,
+    "new_coverage_pixels": 11371,
+    "removed_coverage_pixels": 7596,
+    "no_change_pixels": 2092875,
+    "new_coverage_percent": 0.5384399022275341,
+    "removed_coverage_percent": 0.3596859992366853,
+    "no_change_percent": 99.10187409853577,
+    "pixel_area_m2": 25.428009547443637,
+    "new_coverage_area_m2": 289141.8965639816,
+    "removed_coverage_area_m2": 193151.16052238186,
+    "new_coverage_area_ha": 28.91418965639816,
+    "removed_coverage_area_ha": 19.315116052238185,
+    "net_change_ha": 9.599073604159976,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 499965.0,
+    "alignment_overlap_ratio": 0.971962744004028,
+    "coverage_by_year_ha": {
+      "2019": 696.0002205268987,
+      "2020": 691.0112450536903,
+      "2021": 685.8773299260614,
+      "2022": 706.5986149062733,
+      "2023": 716.1976885104332,
+      "2024": 727.1800458339742
+    },
+    "total_coverage_area_ha_2022": 706.5986149062733,
+    "total_coverage_area_ha_2023": 716.1976885104332
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 499965.0,
+    "overlap_ratio": 0.971962744004028
+  }
+}

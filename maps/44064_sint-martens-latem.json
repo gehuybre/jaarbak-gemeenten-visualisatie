@@ -1,0 +1,54 @@
+{
+  "name": "Sint-Martens-Latem",
+  "niscode": "44064",
+  "slug": "sint-martens-latem",
+  "relative_html": "44064_sint-martens-latem.html",
+  "generated_at": "2025-10-20T10:49:11Z",
+  "bounds_latlon": [
+    [
+      50.981596690927404,
+      3.590649671520886
+    ],
+    [
+      51.03558382940963,
+      3.6556448491868645
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1626340,
+    "new_coverage_pixels": 31990,
+    "removed_coverage_pixels": 26358,
+    "no_change_pixels": 1567992,
+    "new_coverage_percent": 1.9669933716197106,
+    "removed_coverage_percent": 1.6206943197609358,
+    "no_change_percent": 96.41231230861935,
+    "pixel_area_m2": 8.886232465619493,
+    "new_coverage_area_m2": 284270.5765751676,
+    "removed_coverage_area_m2": 234223.3153287986,
+    "new_coverage_area_ha": 28.42705765751676,
+    "removed_coverage_area_ha": 23.42233153287986,
+    "net_change_ha": 5.0047261246369,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 497704.0,
+    "alignment_overlap_ratio": 0.9160623440111318,
+    "coverage_by_year_ha": {
+      "2019": 264.3663044754265,
+      "2020": 264.02329590225355,
+      "2021": 259.68859170552435,
+      "2022": 265.6014907881476,
+      "2023": 270.6062169127845,
+      "2024": 271.67167618541225
+    },
+    "total_coverage_area_ha_2022": 265.6014907881476,
+    "total_coverage_area_ha_2023": 270.6062169127845
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 497704.0,
+    "overlap_ratio": 0.9160623440111318
+  }
+}

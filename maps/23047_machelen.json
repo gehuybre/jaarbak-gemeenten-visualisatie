@@ -1,0 +1,54 @@
+{
+  "name": "Machelen",
+  "niscode": "23047",
+  "slug": "machelen",
+  "relative_html": "23047_machelen.html",
+  "generated_at": "2025-10-20T10:30:53Z",
+  "bounds_latlon": [
+    [
+      50.87876136199915,
+      4.415685162472351
+    ],
+    [
+      50.92433583396455,
+      4.469778062581553
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1791442,
+    "new_coverage_pixels": 16871,
+    "removed_coverage_pixels": 23045,
+    "no_change_pixels": 1751526,
+    "new_coverage_percent": 0.9417553010368184,
+    "removed_coverage_percent": 1.2863938659470975,
+    "no_change_percent": 97.77185083301609,
+    "pixel_area_m2": 6.41693334437338,
+    "new_coverage_area_m2": 108260.08245292329,
+    "removed_coverage_area_m2": 147878.22892108455,
+    "new_coverage_area_ha": 10.826008245292329,
+    "removed_coverage_area_ha": 14.787822892108455,
+    "net_change_ha": -3.9618146468161264,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1732722.0,
+    "alignment_overlap_ratio": 0.9783690968706928,
+    "coverage_by_year_ha": {
+      "2019": 586.7541179161509,
+      "2020": 598.1133733223606,
+      "2021": 605.4992636017344,
+      "2022": 599.6964307784175,
+      "2023": 595.7346161316013,
+      "2024": 585.0754481532628
+    },
+    "total_coverage_area_ha_2022": 599.6964307784175,
+    "total_coverage_area_ha_2023": 595.7346161316013
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1732722.0,
+    "overlap_ratio": 0.9783690968706928
+  }
+}

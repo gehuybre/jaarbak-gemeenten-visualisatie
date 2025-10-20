@@ -1,0 +1,54 @@
+{
+  "name": "Schoten",
+  "niscode": "11040",
+  "slug": "schoten",
+  "relative_html": "11040_schoten.html",
+  "generated_at": "2025-10-20T10:30:16Z",
+  "bounds_latlon": [
+    [
+      51.23528723102178,
+      4.455265763989782
+    ],
+    [
+      51.304230953100074,
+      4.55302806537668
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2012546,
+    "new_coverage_pixels": 38932,
+    "removed_coverage_pixels": 10462,
+    "no_change_pixels": 1963152,
+    "new_coverage_percent": 1.9344651004250337,
+    "removed_coverage_percent": 0.5198390496415983,
+    "no_change_percent": 97.54569584993337,
+    "pixel_area_m2": 14.663476403180615,
+    "new_coverage_area_m2": 570878.4633286278,
+    "removed_coverage_area_m2": 153409.2901300756,
+    "new_coverage_area_ha": 57.087846332862775,
+    "removed_coverage_area_ha": 15.340929013007559,
+    "net_change_ha": 41.746917319855214,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 844721.0,
+    "alignment_overlap_ratio": 0.9813801484290408,
+    "coverage_by_year_ha": {
+      "2019": 694.3156076906022,
+      "2020": 702.2470820770825,
+      "2021": 697.8480391561284,
+      "2022": 692.2979133375245,
+      "2023": 734.0448306573797,
+      "2024": 781.8477637317485
+    },
+    "total_coverage_area_ha_2022": 692.2979133375245,
+    "total_coverage_area_ha_2023": 734.0448306573797
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 844721.0,
+    "overlap_ratio": 0.9813801484290408
+  }
+}

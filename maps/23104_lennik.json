@@ -1,0 +1,54 @@
+{
+  "name": "Lennik",
+  "niscode": "23104",
+  "slug": "lennik",
+  "relative_html": "23104_lennik.html",
+  "generated_at": "2025-10-20T10:31:03Z",
+  "bounds_latlon": [
+    [
+      50.77957118732828,
+      4.108824089927466
+    ],
+    [
+      50.84332770320947,
+      4.212043268646434
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2365833,
+    "new_coverage_pixels": 19349,
+    "removed_coverage_pixels": 17982,
+    "no_change_pixels": 2328502,
+    "new_coverage_percent": 0.8178514713422291,
+    "removed_coverage_percent": 0.7600705544305113,
+    "no_change_percent": 98.42207797422726,
+    "pixel_area_m2": 13.155733355967184,
+    "new_coverage_area_m2": 254550.28470460905,
+    "removed_coverage_area_m2": 236566.3972070019,
+    "new_coverage_area_ha": 25.455028470460906,
+    "removed_coverage_area_ha": 23.656639720700188,
+    "net_change_ha": 1.7983887497607185,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 399755.0,
+    "alignment_overlap_ratio": 0.9232515600966313,
+    "coverage_by_year_ha": {
+      "2019": 317.23735414579266,
+      "2020": 319.3172755893711,
+      "2021": 315.8428464100602,
+      "2022": 316.1335881172271,
+      "2023": 317.9319768669878,
+      "2024": 307.70865647606564
+    },
+    "total_coverage_area_ha_2022": 316.1335881172271,
+    "total_coverage_area_ha_2023": 317.9319768669878
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 399755.0,
+    "overlap_ratio": 0.9232515600966313
+  }
+}

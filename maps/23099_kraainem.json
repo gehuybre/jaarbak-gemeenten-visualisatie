@@ -1,0 +1,54 @@
+{
+  "name": "Kraainem",
+  "niscode": "23099",
+  "slug": "kraainem",
+  "relative_html": "23099_kraainem.html",
+  "generated_at": "2025-10-20T10:31:00Z",
+  "bounds_latlon": [
+    [
+      50.81829343776928,
+      4.448830363380158
+    ],
+    [
+      50.867181112432,
+      4.493022422194502
+    ]
+  ],
+  "stats": {
+    "total_pixels": 790703,
+    "new_coverage_pixels": 5811,
+    "removed_coverage_pixels": 6600,
+    "no_change_pixels": 778292,
+    "new_coverage_percent": 0.7349156383623181,
+    "removed_coverage_percent": 0.8347002604011873,
+    "no_change_percent": 98.43038410123648,
+    "pixel_area_m2": 7.3808267843519255,
+    "new_coverage_area_m2": 42889.98444386904,
+    "removed_coverage_area_m2": 48713.456776722705,
+    "new_coverage_area_ha": 4.2889984443869045,
+    "removed_coverage_area_ha": 4.87134567767227,
+    "net_change_ha": -0.5823472332853656,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1183625.0,
+    "alignment_overlap_ratio": 0.9868648692364965,
+    "coverage_by_year_ha": {
+      "2019": 190.94641740725493,
+      "2020": 193.44482727375805,
+      "2021": 194.56892719301487,
+      "2022": 196.68058173601793,
+      "2023": 196.09823450273257,
+      "2024": 192.34213175217587
+    },
+    "total_coverage_area_ha_2022": 196.68058173601793,
+    "total_coverage_area_ha_2023": 196.09823450273257
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1183625.0,
+    "overlap_ratio": 0.9868648692364965
+  }
+}

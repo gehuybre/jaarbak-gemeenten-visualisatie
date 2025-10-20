@@ -1,0 +1,54 @@
+{
+  "name": "Hoogstraten",
+  "niscode": "13014",
+  "slug": "hoogstraten",
+  "relative_html": "13014_hoogstraten.html",
+  "generated_at": "2025-10-20T10:30:35Z",
+  "bounds_latlon": [
+    [
+      51.37525754042445,
+      4.666134328871433
+    ],
+    [
+      51.505436527465854,
+      4.851889422463581
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2027888,
+    "new_coverage_pixels": 33530,
+    "removed_coverage_pixels": 40965,
+    "no_change_pixels": 1953393,
+    "new_coverage_percent": 1.6534443716812761,
+    "removed_coverage_percent": 2.0200819769139127,
+    "no_change_percent": 96.32647365140481,
+    "pixel_area_m2": 51.97324461496509,
+    "new_coverage_area_m2": 1742662.8919397795,
+    "removed_coverage_area_m2": 2129083.965652045,
+    "new_coverage_area_ha": 174.26628919397794,
+    "removed_coverage_area_ha": 212.9083965652045,
+    "net_change_ha": -38.64210737122656,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1254311.0,
+    "alignment_overlap_ratio": 0.963977395954297,
+    "coverage_by_year_ha": {
+      "2019": 1375.6226411444345,
+      "2020": 1439.1599326862292,
+      "2021": 1497.7337793672948,
+      "2022": 1472.6462941916514,
+      "2023": 1434.0041868204248,
+      "2024": 1431.7641399775198
+    },
+    "total_coverage_area_ha_2022": 1472.6462941916514,
+    "total_coverage_area_ha_2023": 1434.0041868204248
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1254311.0,
+    "overlap_ratio": 0.963977395954297
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Menen",
+  "niscode": "34027",
+  "slug": "menen",
+  "relative_html": "34027_menen.html",
+  "generated_at": "2025-10-20T10:31:45Z",
+  "bounds_latlon": [
+    [
+      50.75427190892264,
+      3.0797219061487255
+    ],
+    [
+      50.833367066017225,
+      3.2206391251168416
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1382688,
+    "new_coverage_pixels": 24990,
+    "removed_coverage_pixels": 13935,
+    "no_change_pixels": 1343763,
+    "new_coverage_percent": 1.8073491633687426,
+    "removed_coverage_percent": 1.00781955148233,
+    "no_change_percent": 97.18483128514893,
+    "pixel_area_m2": 23.984978782761686,
+    "new_coverage_area_m2": 599384.6197812145,
+    "removed_coverage_area_m2": 334230.6793377841,
+    "new_coverage_area_ha": 59.93846197812145,
+    "removed_coverage_area_ha": 33.42306793377841,
+    "net_change_ha": 26.51539404434304,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1568150.0,
+    "alignment_overlap_ratio": 0.9841750007060529,
+    "coverage_by_year_ha": {
+      "2019": 962.4812210840523,
+      "2020": 969.981323949422,
+      "2021": 975.4235156352306,
+      "2022": 987.5767043844559,
+      "2023": 1014.092098428799,
+      "2024": 1054.2021784472113
+    },
+    "total_coverage_area_ha_2022": 987.5767043844559,
+    "total_coverage_area_ha_2023": 1014.092098428799
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1568150.0,
+    "overlap_ratio": 0.9841750007060529
+  }
+}

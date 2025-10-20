@@ -1,0 +1,54 @@
+{
+  "name": "Herzele",
+  "niscode": "41027",
+  "slug": "herzele",
+  "relative_html": "41027_herzele.html",
+  "generated_at": "2025-10-20T10:32:09Z",
+  "bounds_latlon": [
+    [
+      50.82133501785771,
+      3.8374424922381465
+    ],
+    [
+      50.91836526209226,
+      3.949594459570573
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1660252,
+    "new_coverage_pixels": 15985,
+    "removed_coverage_pixels": 10966,
+    "no_change_pixels": 1633301,
+    "new_coverage_percent": 0.9628056463717557,
+    "removed_coverage_percent": 0.6605021406388909,
+    "no_change_percent": 98.37669221298935,
+    "pixel_area_m2": 28.85468227339062,
+    "new_coverage_area_m2": 461242.09614014905,
+    "removed_coverage_area_m2": 316420.4458100015,
+    "new_coverage_area_ha": 46.1242096140149,
+    "removed_coverage_area_ha": 31.642044581000153,
+    "net_change_ha": 14.482165033014748,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 293339.0,
+    "alignment_overlap_ratio": 0.9400505053742076,
+    "coverage_by_year_ha": {
+      "2019": 538.9852665893454,
+      "2020": 529.7806229441338,
+      "2021": 519.5718363558082,
+      "2022": 526.8114761382019,
+      "2023": 541.2936411712166,
+      "2024": 571.8305514211459
+    },
+    "total_coverage_area_ha_2022": 526.8114761382019,
+    "total_coverage_area_ha_2023": 541.2936411712166
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 293339.0,
+    "overlap_ratio": 0.9400505053742076
+  }
+}

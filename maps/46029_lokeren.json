@@ -1,0 +1,54 @@
+{
+  "name": "Lokeren",
+  "niscode": "46029",
+  "slug": "lokeren",
+  "relative_html": "46029_lokeren.html",
+  "generated_at": "2025-10-20T11:30:12Z",
+  "bounds_latlon": [
+    [
+      51.07117688316864,
+      3.895687096327104
+    ],
+    [
+      51.22553726312393,
+      4.034207492617009
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1448251,
+    "new_coverage_pixels": 41946,
+    "removed_coverage_pixels": 36759,
+    "no_change_pixels": 1369546,
+    "new_coverage_percent": 2.8963211487511487,
+    "removed_coverage_percent": 2.5381650004039353,
+    "no_change_percent": 94.56551385084492,
+    "pixel_area_m2": 73.31025882371847,
+    "new_coverage_area_m2": 3075072.116619695,
+    "removed_coverage_area_m2": 2694811.804101067,
+    "new_coverage_area_ha": 307.5072116619695,
+    "removed_coverage_area_ha": 269.48118041010673,
+    "net_change_ha": 38.026031251862776,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 323528.0,
+    "alignment_overlap_ratio": 0.8651591648125962,
+    "coverage_by_year_ha": {
+      "2019": 1581.4489033452548,
+      "2020": 1596.477506404117,
+      "2021": 1574.0665602817064,
+      "2022": 1597.9803667100032,
+      "2023": 1636.006397961866,
+      "2024": 1669.6558067619528
+    },
+    "total_coverage_area_ha_2022": 1597.9803667100032,
+    "total_coverage_area_ha_2023": 1636.006397961866
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 323528.0,
+    "overlap_ratio": 0.8651591648125962
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "De Haan",
+  "niscode": "35029",
+  "slug": "de-haan",
+  "relative_html": "35029_de-haan.html",
+  "generated_at": "2025-10-20T10:31:52Z",
+  "bounds_latlon": [
+    [
+      51.21894521924339,
+      2.982772798734058
+    ],
+    [
+      51.31511020186369,
+      3.1175591961755305
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1661984,
+    "new_coverage_pixels": 20921,
+    "removed_coverage_pixels": 158342,
+    "no_change_pixels": 1482721,
+    "new_coverage_percent": 1.2587967152511697,
+    "removed_coverage_percent": 9.527287867993914,
+    "no_change_percent": 89.21391541675492,
+    "pixel_area_m2": 27.763489762051563,
+    "new_coverage_area_m2": 580839.9693118808,
+    "removed_coverage_area_m2": 4396126.495902768,
+    "new_coverage_area_ha": 58.083996931188075,
+    "removed_coverage_area_ha": 439.6126495902768,
+    "net_change_ha": -381.5286526590887,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1070865.0,
+    "alignment_overlap_ratio": 0.8654769371023638,
+    "coverage_by_year_ha": {
+      "2019": 936.7207101287862,
+      "2020": 947.9954633211555,
+      "2021": 949.6057457273545,
+      "2022": 949.3753087623295,
+      "2023": 567.8466561032407,
+      "2024": 599.4054149157646
+    },
+    "total_coverage_area_ha_2022": 949.3753087623295,
+    "total_coverage_area_ha_2023": 567.8466561032407
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1070865.0,
+    "overlap_ratio": 0.8654769371023638
+  }
+}

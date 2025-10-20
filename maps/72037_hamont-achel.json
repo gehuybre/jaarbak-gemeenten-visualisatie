@@ -1,0 +1,54 @@
+{
+  "name": "Hamont-Achel",
+  "niscode": "72037",
+  "slug": "hamont-achel",
+  "relative_html": "72037_hamont-achel.html",
+  "generated_at": "2025-10-20T11:30:30Z",
+  "bounds_latlon": [
+    [
+      51.20973801227978,
+      5.436866041240341
+    ],
+    [
+      51.30057286336127,
+      5.5622711929001865
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1757665,
+    "new_coverage_pixels": 10614,
+    "removed_coverage_pixels": 7661,
+    "no_change_pixels": 1739390,
+    "new_coverage_percent": 0.6038693380137853,
+    "removed_coverage_percent": 0.43586235147198127,
+    "no_change_percent": 98.96026831051424,
+    "pixel_area_m2": 24.879276564542817,
+    "new_coverage_area_m2": 264068.64145605743,
+    "removed_coverage_area_m2": 190600.13776096253,
+    "new_coverage_area_ha": 26.406864145605745,
+    "removed_coverage_area_ha": 19.060013776096252,
+    "net_change_ha": 7.346850369509493,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 982938.0,
+    "alignment_overlap_ratio": 0.9875329910071563,
+    "coverage_by_year_ha": {
+      "2019": 543.4579414205605,
+      "2020": 536.7878073736064,
+      "2021": 541.6417542313487,
+      "2022": 573.7111417230444,
+      "2023": 581.057992092554,
+      "2024": 587.3375214974445
+    },
+    "total_coverage_area_ha_2022": 573.7111417230444,
+    "total_coverage_area_ha_2023": 581.057992092554
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 982938.0,
+    "overlap_ratio": 0.9875329910071563
+  }
+}

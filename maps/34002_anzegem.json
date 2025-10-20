@@ -1,0 +1,54 @@
+{
+  "name": "Anzegem",
+  "niscode": "34002",
+  "slug": "anzegem",
+  "relative_html": "34002_anzegem.html",
+  "generated_at": "2025-10-20T10:31:40Z",
+  "bounds_latlon": [
+    [
+      50.79190294116276,
+      3.3832210067146957
+    ],
+    [
+      50.86658176047687,
+      3.515334903497321
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1998674,
+    "new_coverage_pixels": 26265,
+    "removed_coverage_pixels": 17012,
+    "no_change_pixels": 1955397,
+    "new_coverage_percent": 1.3141212623969691,
+    "removed_coverage_percent": 0.8511643219454499,
+    "no_change_percent": 97.83471441565757,
+    "pixel_area_m2": 21.191617452189572,
+    "new_coverage_area_m2": 556597.8323817591,
+    "removed_coverage_area_m2": 360511.796096649,
+    "new_coverage_area_ha": 55.659783238175905,
+    "removed_coverage_area_ha": 36.0511796096649,
+    "net_change_ha": 19.608603628511005,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 517397.0,
+    "alignment_overlap_ratio": 0.9499885244246147,
+    "coverage_by_year_ha": {
+      "2019": 628.0157023573831,
+      "2020": 640.1076392756025,
+      "2021": 641.4660219542878,
+      "2022": 628.4840371030765,
+      "2023": 648.0926407315875,
+      "2024": 668.3603036628617
+    },
+    "total_coverage_area_ha_2022": 628.4840371030765,
+    "total_coverage_area_ha_2023": 648.0926407315875
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 517397.0,
+    "overlap_ratio": 0.9499885244246147
+  }
+}

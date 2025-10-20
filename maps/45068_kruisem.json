@@ -1,0 +1,54 @@
+{
+  "name": "Kruisem",
+  "niscode": "45068",
+  "slug": "kruisem",
+  "relative_html": "45068_kruisem.html",
+  "generated_at": "2025-10-20T11:23:14Z",
+  "bounds_latlon": [
+    [
+      50.869559222752116,
+      3.4657521393155304
+    ],
+    [
+      50.953946234477364,
+      3.687219642040183
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1195541,
+    "new_coverage_pixels": 29807,
+    "removed_coverage_pixels": 25933,
+    "no_change_pixels": 1139801,
+    "new_coverage_percent": 2.4931809114032895,
+    "removed_coverage_percent": 2.169143509089191,
+    "no_change_percent": 95.33767557950752,
+    "pixel_area_m2": 59.879863358054195,
+    "new_coverage_area_m2": 1784839.0871135213,
+    "removed_coverage_area_m2": 1552864.4964644194,
+    "new_coverage_area_ha": 178.48390871135214,
+    "removed_coverage_area_ha": 155.28644964644195,
+    "net_change_ha": 23.19745906491019,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 243284.0,
+    "alignment_overlap_ratio": 0.809096532595465,
+    "coverage_by_year_ha": {
+      "2019": 833.5037459987713,
+      "2020": 829.9109541972879,
+      "2021": 818.1685129927735,
+      "2022": 827.6534833486892,
+      "2023": 850.8509424135995,
+      "2024": 879.2399856316529
+    },
+    "total_coverage_area_ha_2022": 827.6534833486892,
+    "total_coverage_area_ha_2023": 850.8509424135995
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 243284.0,
+    "overlap_ratio": 0.809096532595465
+  }
+}

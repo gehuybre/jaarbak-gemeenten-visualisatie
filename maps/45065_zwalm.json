@@ -1,0 +1,54 @@
+{
+  "name": "Zwalm",
+  "niscode": "45065",
+  "slug": "zwalm",
+  "relative_html": "45065_zwalm.html",
+  "generated_at": "2025-10-20T11:23:14Z",
+  "bounds_latlon": [
+    [
+      50.83288622603243,
+      3.6674189206583
+    ],
+    [
+      50.91227045160933,
+      3.767701043947867
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1761629,
+    "new_coverage_pixels": 17760,
+    "removed_coverage_pixels": 11915,
+    "no_change_pixels": 1731954,
+    "new_coverage_percent": 1.0081577903179386,
+    "removed_coverage_percent": 0.6763626166462973,
+    "no_change_percent": 98.31547959303576,
+    "pixel_area_m2": 19.23119978183014,
+    "new_coverage_area_m2": 341546.1081253033,
+    "removed_coverage_area_m2": 229139.7454005061,
+    "new_coverage_area_ha": 34.15461081253033,
+    "removed_coverage_area_ha": 22.91397454005061,
+    "net_change_ha": 11.240636272479719,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 244201.0,
+    "alignment_overlap_ratio": 0.9262493125225209,
+    "coverage_by_year_ha": {
+      "2019": 336.5383037021147,
+      "2020": 329.3323731438629,
+      "2021": 321.1514207566724,
+      "2022": 325.7476775045298,
+      "2023": 336.9883137770095,
+      "2024": 356.93491419072376
+    },
+    "total_coverage_area_ha_2022": 325.7476775045298,
+    "total_coverage_area_ha_2023": 336.9883137770095
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 244201.0,
+    "overlap_ratio": 0.9262493125225209
+  }
+}

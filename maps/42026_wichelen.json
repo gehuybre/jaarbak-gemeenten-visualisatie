@@ -1,0 +1,54 @@
+{
+  "name": "Wichelen",
+  "niscode": "42026",
+  "slug": "wichelen",
+  "relative_html": "42026_wichelen.html",
+  "generated_at": "2025-10-20T10:32:18Z",
+  "bounds_latlon": [
+    [
+      50.971183585514886,
+      3.9110001836068267
+    ],
+    [
+      51.03449019157036,
+      4.006431737109755
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1890226,
+    "new_coverage_pixels": 23339,
+    "removed_coverage_pixels": 17560,
+    "no_change_pixels": 1849327,
+    "new_coverage_percent": 1.2347200810908325,
+    "removed_coverage_percent": 0.9289894435903432,
+    "no_change_percent": 97.83629047531882,
+    "pixel_area_m2": 12.272477664459858,
+    "new_coverage_area_m2": 286427.35621082864,
+    "removed_coverage_area_m2": 215504.7077879151,
+    "new_coverage_area_ha": 28.642735621082863,
+    "removed_coverage_area_ha": 21.55047077879151,
+    "net_change_ha": 7.092264842291353,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 511420.0,
+    "alignment_overlap_ratio": 0.937698822330074,
+    "coverage_by_year_ha": {
+      "2019": 352.49378522191535,
+      "2020": 351.8482528967648,
+      "2021": 346.5367245635866,
+      "2022": 350.547370264332,
+      "2023": 357.6396351066234,
+      "2024": 366.5396359088897
+    },
+    "total_coverage_area_ha_2022": 350.547370264332,
+    "total_coverage_area_ha_2023": 357.6396351066234
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 511420.0,
+    "overlap_ratio": 0.937698822330074
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Begijnendijk",
+  "niscode": "24007",
+  "slug": "begijnendijk",
+  "relative_html": "24007_begijnendijk.html",
+  "generated_at": "2025-10-20T10:31:06Z",
+  "bounds_latlon": [
+    [
+      50.977875483070775,
+      4.752742578033075
+    ],
+    [
+      51.03907335696879,
+      4.812340801660198
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1534262,
+    "new_coverage_pixels": 11677,
+    "removed_coverage_pixels": 3826,
+    "no_change_pixels": 1518759,
+    "new_coverage_percent": 0.7610825269738806,
+    "removed_coverage_percent": 0.24937070721949706,
+    "no_change_percent": 98.98954676580662,
+    "pixel_area_m2": 11.50729339131988,
+    "new_coverage_area_m2": 134370.66493044223,
+    "removed_coverage_area_m2": 44026.90451518986,
+    "new_coverage_area_ha": 13.437066493044224,
+    "removed_coverage_area_ha": 4.402690451518986,
+    "net_change_ha": 9.034376041525238,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 435182.0,
+    "alignment_overlap_ratio": 0.9841582859740337,
+    "coverage_by_year_ha": {
+      "2019": 318.8717027908304,
+      "2020": 323.62421496144555,
+      "2021": 314.3654466987895,
+      "2022": 317.5978454124113,
+      "2023": 326.63222145393655,
+      "2024": 336.6780885845588
+    },
+    "total_coverage_area_ha_2022": 317.5978454124113,
+    "total_coverage_area_ha_2023": 326.63222145393655
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 435182.0,
+    "overlap_ratio": 0.9841582859740337
+  }
+}

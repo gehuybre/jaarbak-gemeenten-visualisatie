@@ -1,0 +1,54 @@
+{
+  "name": "Herselt",
+  "niscode": "13013",
+  "slug": "herselt",
+  "relative_html": "13013_herselt.html",
+  "generated_at": "2025-10-20T10:30:34Z",
+  "bounds_latlon": [
+    [
+      51.00981170854364,
+      4.798834727542246
+    ],
+    [
+      51.09184021900273,
+      4.96946458771967
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1479250,
+    "new_coverage_pixels": 7146,
+    "removed_coverage_pixels": 4404,
+    "no_change_pixels": 1467700,
+    "new_coverage_percent": 0.48308264323136724,
+    "removed_coverage_percent": 0.29771843839783674,
+    "no_change_percent": 99.2191989183708,
+    "pixel_area_m2": 35.404534929332975,
+    "new_coverage_area_m2": 253000.80660501344,
+    "removed_coverage_area_m2": 155921.5718287824,
+    "new_coverage_area_ha": 25.300080660501344,
+    "removed_coverage_area_ha": 15.59215718287824,
+    "net_change_ha": 9.707923477623103,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 377483.0,
+    "alignment_overlap_ratio": 0.9728943298969072,
+    "coverage_by_year_ha": {
+      "2019": 555.6989588903315,
+      "2020": 569.2270316868297,
+      "2021": 559.1402796854627,
+      "2022": 542.5249314431268,
+      "2023": 552.2328549207498,
+      "2024": 554.6793082843668
+    },
+    "total_coverage_area_ha_2022": 542.5249314431268,
+    "total_coverage_area_ha_2023": 552.2328549207498
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 377483.0,
+    "overlap_ratio": 0.9728943298969072
+  }
+}

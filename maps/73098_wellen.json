@@ -1,0 +1,54 @@
+{
+  "name": "Wellen",
+  "niscode": "73098",
+  "slug": "wellen",
+  "relative_html": "73098_wellen.html",
+  "generated_at": "2025-10-20T11:30:40Z",
+  "bounds_latlon": [
+    [
+      50.81124976976577,
+      5.263979378940196
+    ],
+    [
+      50.8683022143019,
+      5.372778078332183
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1863787,
+    "new_coverage_pixels": 8200,
+    "removed_coverage_pixels": 3019,
+    "no_change_pixels": 1852568,
+    "new_coverage_percent": 0.43996443799640195,
+    "removed_coverage_percent": 0.16198202906233383,
+    "no_change_percent": 99.39805353294126,
+    "pixel_area_m2": 14.381067985907032,
+    "new_coverage_area_m2": 117924.75748443766,
+    "removed_coverage_area_m2": 43416.44424945333,
+    "new_coverage_area_ha": 11.792475748443767,
+    "removed_coverage_area_ha": 4.341644424945333,
+    "net_change_ha": 7.450831323498434,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 343594.0,
+    "alignment_overlap_ratio": 0.9782369789145822,
+    "coverage_by_year_ha": {
+      "2019": 297.96710002720215,
+      "2020": 298.99103206779876,
+      "2021": 294.75005511875474,
+      "2022": 298.16987308580343,
+      "2023": 305.6207044093019,
+      "2024": 314.1975733560968
+    },
+    "total_coverage_area_ha_2022": 298.16987308580343,
+    "total_coverage_area_ha_2023": 305.6207044093019
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 343594.0,
+    "overlap_ratio": 0.9782369789145822
+  }
+}

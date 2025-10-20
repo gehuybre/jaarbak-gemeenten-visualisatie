@@ -1,0 +1,54 @@
+{
+  "name": "Lierde",
+  "niscode": "45063",
+  "slug": "lierde",
+  "relative_html": "45063_lierde.html",
+  "generated_at": "2025-10-20T11:23:13Z",
+  "bounds_latlon": [
+    [
+      50.77443537676588,
+      3.783018745310167
+    ],
+    [
+      50.838413215934686,
+      3.882212412685721
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2107344,
+    "new_coverage_pixels": 17197,
+    "removed_coverage_pixels": 11081,
+    "no_change_pixels": 2079066,
+    "new_coverage_percent": 0.8160509152753419,
+    "removed_coverage_percent": 0.5258277718303229,
+    "no_change_percent": 98.65812131289434,
+    "pixel_area_m2": 12.487792027594669,
+    "new_coverage_area_m2": 214752.5594985455,
+    "removed_coverage_area_m2": 138377.22345777653,
+    "new_coverage_area_ha": 21.47525594985455,
+    "removed_coverage_area_ha": 13.837722345777653,
+    "net_change_ha": 7.637533604076896,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 373947.0,
+    "alignment_overlap_ratio": 0.9439125419330737,
+    "coverage_by_year_ha": {
+      "2019": 247.66788172487958,
+      "2020": 243.18476438697306,
+      "2021": 238.29579380816975,
+      "2022": 242.04587775405642,
+      "2023": 249.68341135813333,
+      "2024": 262.1849399569584
+    },
+    "total_coverage_area_ha_2022": 242.04587775405642,
+    "total_coverage_area_ha_2023": 249.68341135813333
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 373947.0,
+    "overlap_ratio": 0.9439125419330737
+  }
+}

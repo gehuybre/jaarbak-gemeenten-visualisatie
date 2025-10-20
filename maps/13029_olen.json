@@ -1,0 +1,54 @@
+{
+  "name": "Olen",
+  "niscode": "13029",
+  "slug": "olen",
+  "relative_html": "13029_olen.html",
+  "generated_at": "2025-10-20T10:30:39Z",
+  "bounds_latlon": [
+    [
+      51.13554268134733,
+      4.84001006209799
+    ],
+    [
+      51.19707686331183,
+      4.9271488201038425
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1998622,
+    "new_coverage_pixels": 19848,
+    "removed_coverage_pixels": 11257,
+    "no_change_pixels": 1967517,
+    "new_coverage_percent": 0.9930842350379412,
+    "removed_coverage_percent": 0.5632380710309404,
+    "no_change_percent": 98.44367769393112,
+    "pixel_area_m2": 11.57215750022434,
+    "new_coverage_area_m2": 229684.1820644527,
+    "removed_coverage_area_m2": 130267.7769800254,
+    "new_coverage_area_ha": 22.96841820644527,
+    "removed_coverage_area_ha": 13.02677769800254,
+    "net_change_ha": 9.941640508442731,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 812159.0,
+    "alignment_overlap_ratio": 0.9766409647131258,
+    "coverage_by_year_ha": {
+      "2019": 559.8413071931033,
+      "2020": 567.3643667839991,
+      "2021": 565.1320976022058,
+      "2022": 561.7599709066404,
+      "2023": 571.7016114150831,
+      "2024": 575.769224776412
+    },
+    "total_coverage_area_ha_2022": 561.7599709066404,
+    "total_coverage_area_ha_2023": 571.7016114150831
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 812159.0,
+    "overlap_ratio": 0.9766409647131258
+  }
+}

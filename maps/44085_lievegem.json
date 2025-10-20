@@ -1,0 +1,54 @@
+{
+  "name": "Lievegem",
+  "niscode": "44085",
+  "slug": "lievegem",
+  "relative_html": "44085_lievegem.html",
+  "generated_at": "2025-10-20T11:07:06Z",
+  "bounds_latlon": [
+    [
+      51.073375161090254,
+      3.508641513240648
+    ],
+    [
+      51.17599771731453,
+      3.6673222013105415
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2529711,
+    "new_coverage_pixels": 23794,
+    "removed_coverage_pixels": 22482,
+    "no_change_pixels": 2483435,
+    "new_coverage_percent": 0.9405817502473603,
+    "removed_coverage_percent": 0.8887181183937612,
+    "no_change_percent": 98.17070013135888,
+    "pixel_area_m2": 31.93323450224047,
+    "new_coverage_area_m2": 759819.3817463097,
+    "removed_coverage_area_m2": 717922.9780793702,
+    "new_coverage_area_ha": 75.98193817463097,
+    "removed_coverage_area_ha": 71.79229780793702,
+    "net_change_ha": 4.189640366693951,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 379378.0,
+    "alignment_overlap_ratio": 0.922463806879246,
+    "coverage_by_year_ha": {
+      "2019": 927.2485235650068,
+      "2020": 933.5265974681472,
+      "2021": 912.287803200707,
+      "2022": 921.5069280015039,
+      "2023": 925.6965683681977,
+      "2024": 929.7297358858308
+    },
+    "total_coverage_area_ha_2022": 921.5069280015039,
+    "total_coverage_area_ha_2023": 925.6965683681977
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 379378.0,
+    "overlap_ratio": 0.922463806879246
+  }
+}

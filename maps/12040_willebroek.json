@@ -1,0 +1,54 @@
+{
+  "name": "Willebroek",
+  "niscode": "12040",
+  "slug": "willebroek",
+  "relative_html": "12040_willebroek.html",
+  "generated_at": "2025-10-20T10:30:27Z",
+  "bounds_latlon": [
+    [
+      51.01637174188968,
+      4.322787234440643
+    ],
+    [
+      51.08441407317843,
+      4.425542064365616
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1911471,
+    "new_coverage_pixels": 36313,
+    "removed_coverage_pixels": 4674,
+    "no_change_pixels": 1870484,
+    "new_coverage_percent": 1.8997410894541429,
+    "removed_coverage_percent": 0.24452372021338536,
+    "no_change_percent": 97.85573519033247,
+    "pixel_area_m2": 14.316763030411698,
+    "new_coverage_area_m2": 519884.61592333997,
+    "removed_coverage_area_m2": 66916.55040414428,
+    "new_coverage_area_ha": 51.988461592334,
+    "removed_coverage_area_ha": 6.691655040414427,
+    "net_change_ha": 45.29680655191957,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 865170.0,
+    "alignment_overlap_ratio": 0.9890064667170408,
+    "coverage_by_year_ha": {
+      "2019": 723.4217408977939,
+      "2020": 727.1512576672162,
+      "2021": 733.5150588342342,
+      "2022": 737.7456623097208,
+      "2023": 783.0424688616405,
+      "2024": 811.9351283333143
+    },
+    "total_coverage_area_ha_2022": 737.7456623097208,
+    "total_coverage_area_ha_2023": 783.0424688616405
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 865170.0,
+    "overlap_ratio": 0.9890064667170408
+  }
+}

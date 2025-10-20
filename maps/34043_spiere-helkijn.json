@@ -1,0 +1,54 @@
+{
+  "name": "Spiere-Helkijn",
+  "niscode": "34043",
+  "slug": "spiere-helkijn",
+  "relative_html": "34043_spiere-helkijn.html",
+  "generated_at": "2025-10-20T10:31:47Z",
+  "bounds_latlon": [
+    [
+      50.70925723147557,
+      3.323207890766827
+    ],
+    [
+      50.748307091013515,
+      3.404878876999639
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1327476,
+    "new_coverage_pixels": 9122,
+    "removed_coverage_pixels": 7418,
+    "no_change_pixels": 1310936,
+    "new_coverage_percent": 0.6871687322407336,
+    "removed_coverage_percent": 0.5588048296165053,
+    "no_change_percent": 98.75402643814276,
+    "pixel_area_m2": 8.147258542445087,
+    "new_coverage_area_m2": 74319.29242418408,
+    "removed_coverage_area_m2": 60436.36386785765,
+    "new_coverage_area_ha": 7.431929242418408,
+    "removed_coverage_area_ha": 6.043636386785765,
+    "net_change_ha": 1.3882928556326428,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1231657.0,
+    "alignment_overlap_ratio": 0.990593974996622,
+    "coverage_by_year_ha": {
+      "2019": 106.67287082208777,
+      "2020": 108.35690916281116,
+      "2021": 107.7369027877311,
+      "2022": 106.7722673763056,
+      "2023": 108.16056023193823,
+      "2024": 111.12942124480524
+    },
+    "total_coverage_area_ha_2022": 106.7722673763056,
+    "total_coverage_area_ha_2023": 108.16056023193823
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1231657.0,
+    "overlap_ratio": 0.990593974996622
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Mesen",
+  "niscode": "33016",
+  "slug": "mesen",
+  "relative_html": "33016_mesen.html",
+  "generated_at": "2025-10-20T10:31:35Z",
+  "bounds_latlon": [
+    [
+      50.75232569229496,
+      2.8694097742434295
+    ],
+    [
+      50.76730767977761,
+      2.9226702661956545
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1035833,
+    "new_coverage_pixels": 6190,
+    "removed_coverage_pixels": 5871,
+    "no_change_pixels": 1023772,
+    "new_coverage_percent": 0.5975866766167905,
+    "removed_coverage_percent": 0.5667902065294309,
+    "no_change_percent": 98.83562311685378,
+    "pixel_area_m2": 3.4719947428155167,
+    "new_coverage_area_m2": 21491.64745802805,
+    "removed_coverage_area_m2": 20384.081135069897,
+    "new_coverage_area_ha": 2.1491647458028047,
+    "removed_coverage_area_ha": 2.0384081135069896,
+    "net_change_ha": 0.11075663229581512,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 463765.0,
+    "alignment_overlap_ratio": 0.9825363129438484,
+    "coverage_by_year_ha": {
+      "2019": 29.694582237403985,
+      "2020": 29.87651476192752,
+      "2021": 30.020255344280084,
+      "2022": 30.20739586091784,
+      "2023": 30.318152493213653,
+      "2024": 31.131988060929615
+    },
+    "total_coverage_area_ha_2022": 30.20739586091784,
+    "total_coverage_area_ha_2023": 30.318152493213653
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 463765.0,
+    "overlap_ratio": 0.9825363129438484
+  }
+}

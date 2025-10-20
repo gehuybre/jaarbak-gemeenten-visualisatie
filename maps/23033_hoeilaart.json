@@ -1,0 +1,54 @@
+{
+  "name": "Hoeilaart",
+  "niscode": "23033",
+  "slug": "hoeilaart",
+  "relative_html": "23033_hoeilaart.html",
+  "generated_at": "2025-10-20T10:30:50Z",
+  "bounds_latlon": [
+    [
+      50.735054635743346,
+      4.405043177391923
+    ],
+    [
+      50.78271019934834,
+      4.5115582506699035
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1457253,
+    "new_coverage_pixels": 8753,
+    "removed_coverage_pixels": 7025,
+    "no_change_pixels": 1441475,
+    "new_coverage_percent": 0.6006506763067223,
+    "removed_coverage_percent": 0.48207140421052486,
+    "no_change_percent": 98.91727791948274,
+    "pixel_area_m2": 14.091357471052062,
+    "new_coverage_area_m2": 123341.6519441187,
+    "removed_coverage_area_m2": 98991.78623414073,
+    "new_coverage_area_ha": 12.33416519441187,
+    "removed_coverage_area_ha": 9.899178623414073,
+    "net_change_ha": 2.434986570997797,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1016851.0,
+    "alignment_overlap_ratio": 0.9892480127015876,
+    "coverage_by_year_ha": {
+      "2019": 263.53515828786857,
+      "2020": 264.358093564178,
+      "2021": 261.6243702147939,
+      "2022": 262.42475931914964,
+      "2023": 264.85974589014745,
+      "2024": 265.6178609220901
+    },
+    "total_coverage_area_ha_2022": 262.42475931914964,
+    "total_coverage_area_ha_2023": 264.85974589014745
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1016851.0,
+    "overlap_ratio": 0.9892480127015876
+  }
+}

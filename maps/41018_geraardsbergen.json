@@ -1,0 +1,54 @@
+{
+  "name": "Geraardsbergen",
+  "niscode": "41018",
+  "slug": "geraardsbergen",
+  "relative_html": "41018_geraardsbergen.html",
+  "generated_at": "2025-10-20T10:32:07Z",
+  "bounds_latlon": [
+    [
+      50.727023393306,
+      3.80292567875068
+    ],
+    [
+      50.8373634255736,
+      4.004335936739905
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1604313,
+    "new_coverage_pixels": 40576,
+    "removed_coverage_pixels": 32325,
+    "no_change_pixels": 1531412,
+    "new_coverage_percent": 2.529182273035249,
+    "removed_coverage_percent": 2.0148811360376686,
+    "no_change_percent": 95.45593659092708,
+    "pixel_area_m2": 49.902553129333384,
+    "new_coverage_area_m2": 2024845.9957758314,
+    "removed_coverage_area_m2": 1613100.0299057018,
+    "new_coverage_area_ha": 202.48459957758314,
+    "removed_coverage_area_ha": 161.31000299057018,
+    "net_change_ha": 41.17459658701296,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 567966.0,
+    "alignment_overlap_ratio": 0.9028733119788893,
+    "coverage_by_year_ha": {
+      "2019": 987.1423644725954,
+      "2020": 975.3154593809434,
+      "2021": 967.8001348796658,
+      "2022": 966.9218499445894,
+      "2023": 1008.0964465316025,
+      "2024": 1047.4895219718983
+    },
+    "total_coverage_area_ha_2022": 966.9218499445894,
+    "total_coverage_area_ha_2023": 1008.0964465316025
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 567966.0,
+    "overlap_ratio": 0.9028733119788893
+  }
+}

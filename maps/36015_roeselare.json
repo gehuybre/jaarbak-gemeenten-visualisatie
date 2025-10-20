@@ -1,0 +1,54 @@
+{
+  "name": "Roeselare",
+  "niscode": "36015",
+  "slug": "roeselare",
+  "relative_html": "36015_roeselare.html",
+  "generated_at": "2025-10-20T10:31:57Z",
+  "bounds_latlon": [
+    [
+      50.88607714503969,
+      3.059981774897914
+    ],
+    [
+      50.994125419136275,
+      3.179062079988236
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1710466,
+    "new_coverage_pixels": 35304,
+    "removed_coverage_pixels": 23099,
+    "no_change_pixels": 1652063,
+    "new_coverage_percent": 2.063998933623936,
+    "removed_coverage_percent": 1.3504506958922307,
+    "no_change_percent": 96.58555037048383,
+    "pixel_area_m2": 35.31060515165941,
+    "new_coverage_area_m2": 1246605.6042741837,
+    "removed_coverage_area_m2": 815639.6683981807,
+    "new_coverage_area_ha": 124.66056042741837,
+    "removed_coverage_area_ha": 81.56396683981808,
+    "net_change_ha": 43.096593587600296,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 756293.0,
+    "alignment_overlap_ratio": 0.9586932850285025,
+    "coverage_by_year_ha": {
+      "2019": 2033.7531453754905,
+      "2020": 2065.6951187956815,
+      "2021": 2083.9930743852715,
+      "2022": 2124.522586978346,
+      "2023": 2167.6191805659464,
+      "2024": 2197.0894116255213
+    },
+    "total_coverage_area_ha_2022": 2124.522586978346,
+    "total_coverage_area_ha_2023": 2167.6191805659464
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 756293.0,
+    "overlap_ratio": 0.9586932850285025
+  }
+}

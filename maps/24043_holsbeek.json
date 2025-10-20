@@ -1,0 +1,54 @@
+{
+  "name": "Holsbeek",
+  "niscode": "24043",
+  "slug": "holsbeek",
+  "relative_html": "24043_holsbeek.html",
+  "generated_at": "2025-10-20T10:31:14Z",
+  "bounds_latlon": [
+    [
+      50.896594939482966,
+      4.715547678253529
+    ],
+    [
+      50.9636529860125,
+      4.872177925759754
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1289432,
+    "new_coverage_pixels": 4243,
+    "removed_coverage_pixels": 2187,
+    "no_change_pixels": 1283002,
+    "new_coverage_percent": 0.32905961694761726,
+    "removed_coverage_percent": 0.1696095645214327,
+    "no_change_percent": 99.50133081853096,
+    "pixel_area_m2": 30.0732739583372,
+    "new_coverage_area_m2": 127600.90140522474,
+    "removed_coverage_area_m2": 65770.25014688345,
+    "new_coverage_area_ha": 12.760090140522474,
+    "removed_coverage_area_ha": 6.5770250146883455,
+    "net_change_ha": 6.183065125834128,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 318408.0,
+    "alignment_overlap_ratio": 0.9847132063918157,
+    "coverage_by_year_ha": {
+      "2019": 332.98331857629285,
+      "2020": 330.7157937198342,
+      "2021": 326.3822349424378,
+      "2022": 327.60320986514625,
+      "2023": 333.7862749909804,
+      "2024": 348.0831094307739
+    },
+    "total_coverage_area_ha_2022": 327.60320986514625,
+    "total_coverage_area_ha_2023": 333.7862749909804
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 318408.0,
+    "overlap_ratio": 0.9847132063918157
+  }
+}

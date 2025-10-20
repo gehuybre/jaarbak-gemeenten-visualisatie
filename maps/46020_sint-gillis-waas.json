@@ -1,0 +1,54 @@
+{
+  "name": "Sint-Gillis-Waas",
+  "niscode": "46020",
+  "slug": "sint-gillis-waas",
+  "relative_html": "46020_sint-gillis-waas.html",
+  "generated_at": "2025-10-20T11:23:15Z",
+  "bounds_latlon": [
+    [
+      51.17537119905862,
+      4.058355291348962
+    ],
+    [
+      51.292820301924806,
+      4.166863790254418
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1304612,
+    "new_coverage_pixels": 29122,
+    "removed_coverage_pixels": 28558,
+    "no_change_pixels": 1246932,
+    "new_coverage_percent": 2.232234564759484,
+    "removed_coverage_percent": 2.1890033205274824,
+    "no_change_percent": 95.57876211471303,
+    "pixel_area_m2": 42.532854618630424,
+    "new_coverage_area_m2": 1238641.7922037551,
+    "removed_coverage_area_m2": 1214653.2621988477,
+    "new_coverage_area_ha": 123.86417922037552,
+    "removed_coverage_area_ha": 121.46532621988477,
+    "net_change_ha": 2.398853000490746,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": -1.0,
+    "alignment_overlap_score": 669719.0,
+    "alignment_overlap_ratio": 0.9414826842108963,
+    "coverage_by_year_ha": {
+      "2019": 666.9109071346633,
+      "2020": 668.6887804577219,
+      "2021": 661.1647184756862,
+      "2022": 692.5497118987736,
+      "2023": 694.9485648992644,
+      "2024": 709.1928179110437
+    },
+    "total_coverage_area_ha_2022": 692.5497118987736,
+    "total_coverage_area_ha_2023": 694.9485648992644
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      -1.0
+    ],
+    "score": 669719.0,
+    "overlap_ratio": 0.9414826842108963
+  }
+}

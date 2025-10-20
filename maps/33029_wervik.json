@@ -1,0 +1,54 @@
+{
+  "name": "Wervik",
+  "niscode": "33029",
+  "slug": "wervik",
+  "relative_html": "33029_wervik.html",
+  "generated_at": "2025-10-20T10:31:36Z",
+  "bounds_latlon": [
+    [
+      50.76941724868822,
+      2.9973114012877056
+    ],
+    [
+      50.85443266711789,
+      3.108224705069895
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2014573,
+    "new_coverage_pixels": 20355,
+    "removed_coverage_pixels": 13351,
+    "no_change_pixels": 1980867,
+    "new_coverage_percent": 1.0103878092280598,
+    "removed_coverage_percent": 0.6627210828299596,
+    "no_change_percent": 98.32689110794199,
+    "pixel_area_m2": 21.72622384980287,
+    "new_coverage_area_m2": 442237.2864627374,
+    "removed_coverage_area_m2": 290066.8146187181,
+    "new_coverage_area_ha": 44.22372864627374,
+    "removed_coverage_area_ha": 29.00668146187181,
+    "net_change_ha": 15.217047184401931,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 873980.0,
+    "alignment_overlap_ratio": 0.9769822630065137,
+    "coverage_by_year_ha": {
+      "2019": 612.6425779838962,
+      "2020": 619.8882736378055,
+      "2021": 623.0668201870317,
+      "2022": 618.1327947507415,
+      "2023": 633.3498419351434,
+      "2024": 656.3340141458498
+    },
+    "total_coverage_area_ha_2022": 618.1327947507415,
+    "total_coverage_area_ha_2023": 633.3498419351434
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 873980.0,
+    "overlap_ratio": 0.9769822630065137
+  }
+}

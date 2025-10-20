@@ -1,0 +1,54 @@
+{
+  "name": "Heuvelland",
+  "niscode": "33039",
+  "slug": "heuvelland",
+  "relative_html": "33039_heuvelland.html",
+  "generated_at": "2025-10-20T10:31:37Z",
+  "bounds_latlon": [
+    [
+      50.70631359590255,
+      2.712601347202627
+    ],
+    [
+      50.83021732499139,
+      2.962534010457729
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1258292,
+    "new_coverage_pixels": 15195,
+    "removed_coverage_pixels": 14309,
+    "no_change_pixels": 1228788,
+    "new_coverage_percent": 1.2075893353847915,
+    "removed_coverage_percent": 1.1371764264574518,
+    "no_change_percent": 97.65523423815776,
+    "pixel_area_m2": 75.33394453814132,
+    "new_coverage_area_m2": 1144699.2872570574,
+    "removed_coverage_area_m2": 1077953.4123962643,
+    "new_coverage_area_ha": 114.46992872570574,
+    "removed_coverage_area_ha": 107.79534123962642,
+    "net_change_ha": 6.674587486079318,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 1311123.0,
+    "alignment_overlap_ratio": 0.983001885597112,
+    "coverage_by_year_ha": {
+      "2019": 551.0226039297809,
+      "2020": 559.5052060847756,
+      "2021": 562.3377623994097,
+      "2022": 560.8536836920083,
+      "2023": 567.5282711780877,
+      "2024": 584.049005215302
+    },
+    "total_coverage_area_ha_2022": 560.8536836920083,
+    "total_coverage_area_ha_2023": 567.5282711780877
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 1311123.0,
+    "overlap_ratio": 0.983001885597112
+  }
+}

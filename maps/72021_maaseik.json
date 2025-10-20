@@ -1,0 +1,54 @@
+{
+  "name": "Maaseik",
+  "niscode": "72021",
+  "slug": "maaseik",
+  "relative_html": "72021_maaseik.html",
+  "generated_at": "2025-10-20T11:30:29Z",
+  "bounds_latlon": [
+    [
+      51.01658803690097,
+      5.6068505949550165
+    ],
+    [
+      51.13142692349888,
+      5.834686427715462
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1245813,
+    "new_coverage_pixels": 8265,
+    "removed_coverage_pixels": 8402,
+    "no_change_pixels": 1229146,
+    "new_coverage_percent": 0.6634221989977629,
+    "removed_coverage_percent": 0.6744190339962739,
+    "no_change_percent": 98.66215876700596,
+    "pixel_area_m2": 61.955202690082025,
+    "new_coverage_area_m2": 512059.7502335279,
+    "removed_coverage_area_m2": 520547.6130020692,
+    "new_coverage_area_ha": 51.20597502335279,
+    "removed_coverage_area_ha": 52.05476130020692,
+    "net_change_ha": -0.8487862768541277,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 818018.0,
+    "alignment_overlap_ratio": 0.979487492651012,
+    "coverage_by_year_ha": {
+      "2019": 879.1009575303809,
+      "2020": 870.7122230861438,
+      "2021": 893.4002183112519,
+      "2022": 898.2822882832304,
+      "2023": 897.4335020063762,
+      "2024": 901.6340647487636
+    },
+    "total_coverage_area_ha_2022": 898.2822882832304,
+    "total_coverage_area_ha_2023": 897.4335020063762
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 818018.0,
+    "overlap_ratio": 0.979487492651012
+  }
+}

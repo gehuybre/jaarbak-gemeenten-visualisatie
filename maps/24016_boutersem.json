@@ -1,0 +1,54 @@
+{
+  "name": "Boutersem",
+  "niscode": "24016",
+  "slug": "boutersem",
+  "relative_html": "24016_boutersem.html",
+  "generated_at": "2025-10-20T10:31:10Z",
+  "bounds_latlon": [
+    [
+      50.78997311857438,
+      4.795514802091392
+    ],
+    [
+      50.87260348665394,
+      4.899702482943068
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1489095,
+    "new_coverage_pixels": 5854,
+    "removed_coverage_pixels": 3119,
+    "no_change_pixels": 1480122,
+    "new_coverage_percent": 0.3931246831128974,
+    "removed_coverage_percent": 0.2094560790278659,
+    "no_change_percent": 99.39741923785924,
+    "pixel_area_m2": 20.91229431989827,
+    "new_coverage_area_m2": 122420.57094868447,
+    "removed_coverage_area_m2": 65225.4459837627,
+    "new_coverage_area_ha": 12.242057094868446,
+    "removed_coverage_area_ha": 6.52254459837627,
+    "net_change_ha": 5.719512496492176,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 252915.0,
+    "alignment_overlap_ratio": 0.9770112722412367,
+    "coverage_by_year_ha": {
+      "2019": 294.72741999748627,
+      "2020": 297.6969657909118,
+      "2021": 295.8922347911046,
+      "2022": 296.5697931270693,
+      "2023": 302.28930562356146,
+      "2024": 305.93850098238374
+    },
+    "total_coverage_area_ha_2022": 296.5697931270693,
+    "total_coverage_area_ha_2023": 302.28930562356146
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 252915.0,
+    "overlap_ratio": 0.9770112722412367
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Antwerpen",
+  "niscode": "11002",
+  "slug": "antwerpen",
+  "relative_html": "11002_antwerpen.html",
+  "generated_at": "2025-10-20T10:30:05Z",
+  "bounds_latlon": [
+    [
+      51.14323135085314,
+      4.217561848259811
+    ],
+    [
+      51.37764961828247,
+      4.509646888691653
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1225282,
+    "new_coverage_pixels": 90579,
+    "removed_coverage_pixels": 63274,
+    "no_change_pixels": 1071429,
+    "new_coverage_percent": 7.3925022974303065,
+    "removed_coverage_percent": 5.164035707698309,
+    "no_change_percent": 87.44346199487138,
+    "pixel_area_m2": 169.93963490775818,
+    "new_coverage_area_m2": 15392962.190309828,
+    "removed_coverage_area_m2": 10752760.45915349,
+    "new_coverage_area_ha": 1539.296219030983,
+    "removed_coverage_area_ha": 1075.276045915349,
+    "net_change_ha": 464.02017311563395,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 871746.0,
+    "alignment_overlap_ratio": 0.8540115952137904,
+    "coverage_by_year_ha": {
+      "2019": 8734.43839724452,
+      "2020": 8630.775219950787,
+      "2021": 8648.771827287519,
+      "2022": 8582.00254473226,
+      "2023": 9046.022717847894,
+      "2024": 9214.110010735158
+    },
+    "total_coverage_area_ha_2022": 8582.00254473226,
+    "total_coverage_area_ha_2023": 9046.022717847894
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 871746.0,
+    "overlap_ratio": 0.8540115952137904
+  }
+}

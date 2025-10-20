@@ -1,0 +1,54 @@
+{
+  "name": "Dilsen-Stokkem",
+  "niscode": "72041",
+  "slug": "dilsen-stokkem",
+  "relative_html": "72041_dilsen-stokkem.html",
+  "generated_at": "2025-10-20T11:30:33Z",
+  "bounds_latlon": [
+    [
+      50.993975775722035,
+      5.62236508464551
+    ],
+    [
+      51.08389164802351,
+      5.801725944123713
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1712811,
+    "new_coverage_pixels": 9950,
+    "removed_coverage_pixels": 9640,
+    "no_change_pixels": 1693221,
+    "new_coverage_percent": 0.5809163999997664,
+    "removed_coverage_percent": 0.5628174970852009,
+    "no_change_percent": 98.85626610291503,
+    "pixel_area_m2": 38.46572612832187,
+    "new_coverage_area_m2": 382733.9749768026,
+    "removed_coverage_area_m2": 370809.5998770228,
+    "new_coverage_area_ha": 38.27339749768026,
+    "removed_coverage_area_ha": 37.08095998770228,
+    "net_change_ha": 1.192437509977978,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 708212.0,
+    "alignment_overlap_ratio": 0.9824174940039146,
+    "coverage_by_year_ha": {
+      "2019": 786.2279023450604,
+      "2020": 778.5693762729115,
+      "2021": 804.3683387871771,
+      "2022": 806.7839863880357,
+      "2023": 807.9764238980136,
+      "2024": 840.9300114721469
+    },
+    "total_coverage_area_ha_2022": 806.7839863880357,
+    "total_coverage_area_ha_2023": 807.9764238980136
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 708212.0,
+    "overlap_ratio": 0.9824174940039146
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Roosdaal",
+  "niscode": "23097",
+  "slug": "roosdaal",
+  "relative_html": "23097_roosdaal.html",
+  "generated_at": "2025-10-20T10:30:59Z",
+  "bounds_latlon": [
+    [
+      50.81134067195511,
+      4.040508877309373
+    ],
+    [
+      50.858647118331504,
+      4.150769811259559
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1460442,
+    "new_coverage_pixels": 16351,
+    "removed_coverage_pixels": 15308,
+    "no_change_pixels": 1428783,
+    "new_coverage_percent": 1.1195925617039226,
+    "removed_coverage_percent": 1.0481758262224723,
+    "no_change_percent": 97.8322316120736,
+    "pixel_area_m2": 15.008524082076121,
+    "new_coverage_area_m2": 245404.37726602665,
+    "removed_coverage_area_m2": 229750.48664842127,
+    "new_coverage_area_ha": 24.540437726602665,
+    "removed_coverage_area_ha": 22.975048664842127,
+    "net_change_ha": 1.5653890617605377,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 391978.0,
+    "alignment_overlap_ratio": 0.9386761050418357,
+    "coverage_by_year_ha": {
+      "2019": 333.3603317966256,
+      "2020": 335.4255047103192,
+      "2021": 333.34382242013527,
+      "2022": 332.64592605031874,
+      "2023": 334.21131511207926,
+      "2024": 327.6225730400478
+    },
+    "total_coverage_area_ha_2022": 332.64592605031874,
+    "total_coverage_area_ha_2023": 334.21131511207926
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 391978.0,
+    "overlap_ratio": 0.9386761050418357
+  }
+}

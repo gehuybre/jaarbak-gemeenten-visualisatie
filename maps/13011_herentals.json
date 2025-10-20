@@ -1,0 +1,54 @@
+{
+  "name": "Herentals",
+  "niscode": "13011",
+  "slug": "herentals",
+  "relative_html": "13011_herentals.html",
+  "generated_at": "2025-10-20T10:30:33Z",
+  "bounds_latlon": [
+    [
+      51.102756868746596,
+      4.775116671479388
+    ],
+    [
+      51.21628315616146,
+      4.88282502941879
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1210979,
+    "new_coverage_pixels": 8984,
+    "removed_coverage_pixels": 5430,
+    "no_change_pixels": 1196565,
+    "new_coverage_percent": 0.7418790912146288,
+    "removed_coverage_percent": 0.44839753620830747,
+    "no_change_percent": 98.80972337257707,
+    "pixel_area_m2": 39.59446757866903,
+    "new_coverage_area_m2": 355716.6967267626,
+    "removed_coverage_area_m2": 214997.95895217283,
+    "new_coverage_area_ha": 35.57166967267626,
+    "removed_coverage_area_ha": 21.499795895217282,
+    "net_change_ha": 14.071873777458975,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 384026.0,
+    "alignment_overlap_ratio": 0.9758394446223198,
+    "coverage_by_year_ha": {
+      "2019": 917.2533548209626,
+      "2020": 944.4112001331716,
+      "2021": 944.8309014895055,
+      "2022": 927.1282150350826,
+      "2023": 941.2000888125416,
+      "2024": 941.3307505555513
+    },
+    "total_coverage_area_ha_2022": 927.1282150350826,
+    "total_coverage_area_ha_2023": 941.2000888125416
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 384026.0,
+    "overlap_ratio": 0.9758394446223198
+  }
+}

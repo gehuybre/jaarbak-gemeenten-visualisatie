@@ -1,0 +1,54 @@
+{
+  "name": "Wommelgem",
+  "niscode": "11052",
+  "slug": "wommelgem",
+  "relative_html": "11052_wommelgem.html",
+  "generated_at": "2025-10-20T10:30:18Z",
+  "bounds_latlon": [
+    [
+      51.18659076529106,
+      4.482249942812736
+    ],
+    [
+      51.22303520058162,
+      4.562282011830457
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1666514,
+    "new_coverage_pixels": 41984,
+    "removed_coverage_pixels": 4392,
+    "no_change_pixels": 1620138,
+    "new_coverage_percent": 2.5192707652020925,
+    "removed_coverage_percent": 0.2635441406432829,
+    "no_change_percent": 97.21718509415463,
+    "pixel_area_m2": 7.797014861480713,
+    "new_coverage_area_m2": 327349.87194440624,
+    "removed_coverage_area_m2": 34244.48927162329,
+    "new_coverage_area_ha": 32.73498719444063,
+    "removed_coverage_area_ha": 3.4244489271623295,
+    "net_change_ha": 29.310538267278297,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 804392.0,
+    "alignment_overlap_ratio": 0.9854810393473512,
+    "coverage_by_year_ha": {
+      "2019": 380.71498076083867,
+      "2020": 389.5817460613146,
+      "2021": 389.2534917356462,
+      "2022": 386.1939431040012,
+      "2023": 415.50448137127955,
+      "2024": 438.6889050618924
+    },
+    "total_coverage_area_ha_2022": 386.1939431040012,
+    "total_coverage_area_ha_2023": 415.50448137127955
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 804392.0,
+    "overlap_ratio": 0.9854810393473512
+  }
+}

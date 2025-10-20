@@ -1,0 +1,54 @@
+{
+  "name": "Hemiksem",
+  "niscode": "11018",
+  "slug": "hemiksem",
+  "relative_html": "11018_hemiksem.html",
+  "generated_at": "2025-10-20T10:30:09Z",
+  "bounds_latlon": [
+    [
+      51.129304214976734,
+      4.3225263176646616
+    ],
+    [
+      51.1618424946156,
+      4.358413920151025
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1673634,
+    "new_coverage_pixels": 49288,
+    "removed_coverage_pixels": 7620,
+    "no_change_pixels": 1616726,
+    "new_coverage_percent": 2.9449688522102204,
+    "removed_coverage_percent": 0.45529667776825755,
+    "no_change_percent": 96.59973447002153,
+    "pixel_area_m2": 3.274581836924327,
+    "new_coverage_area_m2": 161397.58957832624,
+    "removed_coverage_area_m2": 24952.313597363373,
+    "new_coverage_area_ha": 16.139758957832623,
+    "removed_coverage_area_ha": 2.495231359736337,
+    "net_change_ha": 13.644527598096285,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 739710.0,
+    "alignment_overlap_ratio": 0.9872422320955492,
+    "coverage_by_year_ha": {
+      "2019": 203.4985607974786,
+      "2020": 204.19375452145763,
+      "2021": 205.11620422491922,
+      "2022": 202.25029020124305,
+      "2023": 215.89481779933936,
+      "2024": 225.98675156255644
+    },
+    "total_coverage_area_ha_2022": 202.25029020124305,
+    "total_coverage_area_ha_2023": 215.89481779933936
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 739710.0,
+    "overlap_ratio": 0.9872422320955492
+  }
+}

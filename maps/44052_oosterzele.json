@@ -1,0 +1,54 @@
+{
+  "name": "Oosterzele",
+  "niscode": "44052",
+  "slug": "oosterzele",
+  "relative_html": "44052_oosterzele.html",
+  "generated_at": "2025-10-20T10:49:10Z",
+  "bounds_latlon": [
+    [
+      50.89435014208786,
+      3.727397896091283
+    ],
+    [
+      50.97790784641504,
+      3.851774055316403
+    ]
+  ],
+  "stats": {
+    "total_pixels": 2046252,
+    "new_coverage_pixels": 21354,
+    "removed_coverage_pixels": 16030,
+    "no_change_pixels": 2008868,
+    "new_coverage_percent": 1.0435664815477272,
+    "removed_coverage_percent": 0.7833834737852424,
+    "no_change_percent": 98.17305004466704,
+    "pixel_area_m2": 21.29217353317295,
+    "new_coverage_area_m2": 454673.0736273752,
+    "removed_coverage_area_m2": 341313.5417367624,
+    "new_coverage_area_ha": 45.46730736273752,
+    "removed_coverage_area_ha": 34.131354173676236,
+    "net_change_ha": 11.335953189061286,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 390578.0,
+    "alignment_overlap_ratio": 0.9333209074703332,
+    "coverage_by_year_ha": {
+      "2019": 496.45896418622704,
+      "2020": 492.51991208259005,
+      "2021": 486.4984854074088,
+      "2022": 491.029459935268,
+      "2023": 502.3654131243292,
+      "2024": 527.7925267576444
+    },
+    "total_coverage_area_ha_2022": 491.029459935268,
+    "total_coverage_area_ha_2023": 502.3654131243292
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 390578.0,
+    "overlap_ratio": 0.9333209074703332
+  }
+}

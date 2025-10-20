@@ -1,0 +1,54 @@
+{
+  "name": "Zoutleeuw",
+  "niscode": "24130",
+  "slug": "zoutleeuw",
+  "relative_html": "24130_zoutleeuw.html",
+  "generated_at": "2025-10-20T10:31:21Z",
+  "bounds_latlon": [
+    [
+      50.77877190900471,
+      5.042024421066902
+    ],
+    [
+      50.884808480141245,
+      5.1535930873692815
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1364508,
+    "new_coverage_pixels": 3292,
+    "removed_coverage_pixels": 1573,
+    "no_change_pixels": 1359643,
+    "new_coverage_percent": 0.24125912050350748,
+    "removed_coverage_percent": 0.11527964658323733,
+    "no_change_percent": 99.64346123291325,
+    "pixel_area_m2": 34.33108931776405,
+    "new_coverage_area_m2": 113017.94603407924,
+    "removed_coverage_area_m2": 54002.80349684285,
+    "new_coverage_area_ha": 11.301794603407924,
+    "removed_coverage_area_ha": 5.400280349684285,
+    "net_change_ha": 5.901514253723639,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 201330.0,
+    "alignment_overlap_ratio": 0.9810973202929696,
+    "coverage_by_year_ha": {
+      "2019": 365.0733706961711,
+      "2020": 365.2621916874188,
+      "2021": 358.6809218652034,
+      "2022": 354.7706107919101,
+      "2023": 360.6721250456337,
+      "2024": 365.6947634128226
+    },
+    "total_coverage_area_ha_2022": 354.7706107919101,
+    "total_coverage_area_ha_2023": 360.6721250456337
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 201330.0,
+    "overlap_ratio": 0.9810973202929696
+  }
+}

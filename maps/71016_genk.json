@@ -1,0 +1,54 @@
+{
+  "name": "Genk",
+  "niscode": "71016",
+  "slug": "genk",
+  "relative_html": "71016_genk.html",
+  "generated_at": "2025-10-20T11:30:16Z",
+  "bounds_latlon": [
+    [
+      50.91218197261739,
+      5.383818922056573
+    ],
+    [
+      51.0216199394696,
+      5.596272047244822
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1610846,
+    "new_coverage_pixels": 39809,
+    "removed_coverage_pixels": 21947,
+    "no_change_pixels": 1549090,
+    "new_coverage_percent": 2.471310106614785,
+    "removed_coverage_percent": 1.3624517799963498,
+    "no_change_percent": 96.16623811338887,
+    "pixel_area_m2": 54.36365987144511,
+    "new_coverage_area_m2": 2164162.9358223584,
+    "removed_coverage_area_m2": 1193119.2431986057,
+    "new_coverage_area_ha": 216.41629358223582,
+    "removed_coverage_area_ha": 119.31192431986057,
+    "net_change_ha": 97.10436926237526,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 616361.0,
+    "alignment_overlap_ratio": 0.9432224930868313,
+    "coverage_by_year_ha": {
+      "2019": 2365.417204666448,
+      "2020": 2365.259550052821,
+      "2021": 2323.3397319259493,
+      "2022": 2365.0910227072195,
+      "2023": 2462.1953919695948,
+      "2024": 2479.5319631025986
+    },
+    "total_coverage_area_ha_2022": 2365.0910227072195,
+    "total_coverage_area_ha_2023": 2462.1953919695948
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 616361.0,
+    "overlap_ratio": 0.9432224930868313
+  }
+}

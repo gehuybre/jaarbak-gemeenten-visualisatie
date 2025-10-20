@@ -1,0 +1,54 @@
+{
+  "name": "Deerlijk",
+  "niscode": "34009",
+  "slug": "deerlijk",
+  "relative_html": "34009_deerlijk.html",
+  "generated_at": "2025-10-20T10:31:41Z",
+  "bounds_latlon": [
+    [
+      50.81091930062507,
+      3.3244180510463863
+    ],
+    [
+      50.867559131114,
+      3.39483881190935
+    ]
+  ],
+  "stats": {
+    "total_pixels": 1746347,
+    "new_coverage_pixels": 32681,
+    "removed_coverage_pixels": 20482,
+    "no_change_pixels": 1693184,
+    "new_coverage_percent": 1.871392111647914,
+    "removed_coverage_percent": 1.1728482369196958,
+    "no_change_percent": 96.95575965143239,
+    "pixel_area_m2": 9.719264722603913,
+    "new_coverage_area_m2": 317635.2903994185,
+    "removed_coverage_area_m2": 199069.98004837337,
+    "new_coverage_area_ha": 31.76352903994185,
+    "removed_coverage_area_ha": 19.906998004837337,
+    "net_change_ha": 11.856531035104513,
+    "alignment_shift_y_px": 0.0,
+    "alignment_shift_x_px": 0.0,
+    "alignment_overlap_score": 952918.0,
+    "alignment_overlap_ratio": 0.9640771935149354,
+    "coverage_by_year_ha": {
+      "2019": 492.0834571260193,
+      "2020": 499.61297150662057,
+      "2021": 510.47036212824145,
+      "2022": 505.989781091121,
+      "2023": 517.8463121262255,
+      "2024": 531.3755286200902
+    },
+    "total_coverage_area_ha_2022": 505.989781091121,
+    "total_coverage_area_ha_2023": 517.8463121262255
+  },
+  "alignment": {
+    "shift": [
+      0.0,
+      0.0
+    ],
+    "score": 952918.0,
+    "overlap_ratio": 0.9640771935149354
+  }
+}
